@@ -3619,14 +3619,16 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_axe": "2025-01-19 04:25:51 +0000",
-      "has_iron_helmet": "2025-01-19 03:26:37 +0000"
+      "has_iron_helmet": "2025-01-19 03:26:37 +0000",
+      "has_chainmail_leggings": "2025-01-19 23:00:40 +0000"
     },
     "done": false
   },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_axe": "2025-01-19 04:25:51 +0000",
-      "has_iron_helmet": "2025-01-19 03:26:37 +0000"
+      "has_iron_helmet": "2025-01-19 03:26:37 +0000",
+      "has_chainmail_leggings": "2025-01-19 23:00:40 +0000"
     },
     "done": false
   },
@@ -5579,6 +5581,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-01-19 22:59:17 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/light_wood_kitchen_counter_oven": {
     "criteria": {
       "has_planks": "2025-01-19 22:34:44 +0000"
@@ -5590,6 +5598,12 @@
       "has_logs": "2025-01-19 22:57:03 +0000"
     },
     "done": false
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-01-19 23:02:29 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
@@ -5633,6 +5647,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2025-01-19 22:59:17 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/stripped_oak_chair_modern": {
     "criteria": {
       "has_planks": "2025-01-19 22:34:44 +0000"
@@ -5654,6 +5674,12 @@
   "pfm:recipes/furniture/stripped_bamboo_chair_modern": {
     "criteria": {
       "has_planks": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-01-19 22:59:17 +0000"
     },
     "done": false
   },
@@ -5694,6 +5720,19 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-01-19 23:00:40 +0000",
+      "has_golden_chestplate": "2025-01-19 23:00:40 +0000"
+    },
+    "done": false
+  },
+  "mca:recipes/misc/rose_gold_dust": {
+    "criteria": {
+      "has_item": "2025-01-19 23:00:40 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_oak_kitchen_wall_counter": {
     "criteria": {
       "has_planks": "2025-01-19 22:34:44 +0000"
@@ -5721,6 +5760,12 @@
   "pfm:recipes/furniture/stripped_bamboo_table_dinner": {
     "criteria": {
       "has_planks": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2025-01-19 22:59:17 +0000"
     },
     "done": false
   },
@@ -5790,6 +5835,19 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-01-19 23:00:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-01-19 23:00:40 +0000",
+      "has_golden_chestplate": "2025-01-19 23:00:40 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/stripped_bamboo_table_classic": {
     "criteria": {
       "has_planks": "2025-01-19 22:57:03 +0000"
@@ -5814,15 +5872,33 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-01-19 23:00:40 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/stripped_bamboo_kitchen_wall_counter": {
     "criteria": {
       "has_planks": "2025-01-19 22:57:03 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-01-19 23:00:40 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/building_blocks/oak_herringbone_planks": {
     "criteria": {
       "has_wood_slabs": "2025-01-19 22:41:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/bamboo_mosaic": {
+    "criteria": {
+      "has_bamboo_slab": "2025-01-19 22:57:32 +0000"
     },
     "done": false
   },
@@ -5877,6 +5953,18 @@
   "pfm:recipes/furniture/stripped_oak_table_log": {
     "criteria": {
       "has_log": "2025-01-19 22:34:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-01-19 22:59:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-01-19 22:59:17 +0000"
     },
     "done": false
   },
@@ -5940,6 +6028,12 @@
     },
     "done": false
   },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-01-19 23:00:41 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-01-19 22:42:51 +0000"
@@ -5949,6 +6043,12 @@
   "pfm:recipes/furniture/stripped_oak_chair_dinner": {
     "criteria": {
       "has_planks": "2025-01-19 22:34:44 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/building_blocks/bamboo_herringbone_planks": {
+    "criteria": {
+      "has_wood_slabs": "2025-01-19 22:57:32 +0000"
     },
     "done": false
   },
@@ -5973,6 +6073,12 @@
   "pfm:recipes/furniture/stripped_bamboo_coffee_table_modern": {
     "criteria": {
       "has_planks": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-01-19 23:00:41 +0000"
     },
     "done": false
   },

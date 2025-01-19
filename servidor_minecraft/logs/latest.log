@@ -593,3 +593,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23241!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23241!/:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[19Jan2025 23:02:06.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 withered away whilst fighting Nightmare Stalker
+[19Jan2025 23:02:06.130] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[19Jan2025 23:02:29.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 has reached the goal [Fighting Nightmares]
+[19Jan2025 23:02:32.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike has made the advancement [Ashes 'n Bones]
