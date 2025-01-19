@@ -3946,9 +3946,10 @@
   },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
+      "has_the_recipe": "2025-01-19 22:41:12 +0000",
       "has_planks": "2025-01-19 03:32:18 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
@@ -4519,9 +4520,10 @@
   },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
+      "has_the_recipe": "2025-01-19 22:41:46 +0000",
       "has_planks": "2025-01-19 03:43:28 +0000"
     },
-    "done": false
+    "done": true
   },
   "pfm:recipes/furniture/stripped_spruce_kitchen_cabinet": {
     "criteria": {
@@ -5575,6 +5577,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-01-19 22:42:51 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-01-19 22:34:44 +0000"
@@ -5590,6 +5598,12 @@
   "pfm:recipes/furniture/stripped_oak_classic_nightstand": {
     "criteria": {
       "has_planks": "2025-01-19 22:34:44 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-01-19 22:38:53 +0000"
     },
     "done": false
   },
@@ -5611,11 +5625,18 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+  "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
-      "has_log": "2025-01-19 22:34:44 +0000"
+      "has_gray_wool": "2025-01-19 22:42:51 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-19 22:34:44 +0000",
+      "has_the_recipe": "2025-01-19 22:38:26 +0000"
+    },
+    "done": true
   },
   "pfm:recipes/furniture/light_wood_kitchen_cabinet": {
     "criteria": {
@@ -5641,6 +5662,12 @@
     },
     "done": false
   },
+  "pfm:recipes/furniture/gray_shower_towel": {
+    "criteria": {
+      "has_gray_wool": "2025-01-19 22:42:51 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/stripped_oak_table_modern_dinner": {
     "criteria": {
       "has_planks": "2025-01-19 22:34:44 +0000"
@@ -5650,6 +5677,18 @@
   "pfm:recipes/furniture/stripped_oak_coffee_table_basic": {
     "criteria": {
       "has_planks": "2025-01-19 22:34:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-01-19 22:42:51 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-19 22:42:51 +0000"
     },
     "done": false
   },
@@ -5677,6 +5716,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-01-19 22:42:51 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/stripped_oak_chair_classic": {
     "criteria": {
       "has_planks": "2025-01-19 22:34:44 +0000"
@@ -5695,6 +5740,12 @@
     },
     "done": false
   },
+  "pfm:recipes/building_blocks/oak_herringbone_planks": {
+    "criteria": {
+      "has_wood_slabs": "2025-01-19 22:41:12 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/stripped_oak_kitchen_counter_oven": {
     "criteria": {
       "has_planks": "2025-01-19 22:34:44 +0000"
@@ -5704,6 +5755,12 @@
   "pfm:recipes/furniture/stripped_oak_table_basic": {
     "criteria": {
       "has_planks": "2025-01-19 22:34:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-01-19 22:42:51 +0000"
     },
     "done": false
   },
@@ -5731,6 +5788,12 @@
     },
     "done": false
   },
+  "pfm:recipes/building_blocks/spruce_herringbone_planks": {
+    "criteria": {
+      "has_wood_slabs": "2025-01-19 22:40:48 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/light_wood_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-01-19 22:34:44 +0000"
@@ -5743,9 +5806,21 @@
     },
     "done": false
   },
+  "pfm:recipes/furniture/oak_chair_classic_gray": {
+    "criteria": {
+      "oak_chair_classic_gray": "2025-01-19 22:42:51 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/stripped_oak_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-01-19 22:34:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-01-19 22:42:51 +0000"
     },
     "done": false
   },
