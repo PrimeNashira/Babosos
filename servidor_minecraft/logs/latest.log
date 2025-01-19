@@ -597,3 +597,40 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Jan2025 23:02:06.130] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
 [19Jan2025 23:02:29.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 has reached the goal [Fighting Nightmares]
 [19Jan2025 23:02:32.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike has made the advancement [Ashes 'n Bones]
+[19Jan2025 23:34:24.628] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1450, y=63, z=520}
+[19Jan2025 23:34:26.528] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1295, y=-29, z=304}
+[19Jan2025 23:36:09.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike has made the advancement [Isn't It Iron Pick]
+[19Jan2025 23:37:32.838] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1234, y=-4, z=316}
+[19Jan2025 23:37:32.839] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1233, y=-4, z=315}
+[19Jan2025 23:37:32.839] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1234, y=-4, z=316}
+[19Jan2025 23:37:32.839] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1233, y=-4, z=315}
+[19Jan2025 23:37:33.376] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1236, y=-54, z=321}
+[19Jan2025 23:37:33.376] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1237, y=-54, z=321}
+[19Jan2025 23:37:33.376] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1236, y=-53, z=320}
+[19Jan2025 23:37:33.376] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1236, y=-54, z=321}
+[19Jan2025 23:37:33.377] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1237, y=-54, z=321}
+[19Jan2025 23:37:33.377] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1236, y=-53, z=320}
+[19Jan2025 23:37:37.277] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1222, y=1, z=252}
+[19Jan2025 23:37:37.277] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1222, y=1, z=252}
+[19Jan2025 23:37:38.119] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1234, y=-4, z=316}
+[19Jan2025 23:37:38.119] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1233, y=-4, z=315}
+[19Jan2025 23:37:38.223] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1236, y=-53, z=320}
+[19Jan2025 23:37:38.223] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1237, y=-54, z=321}
+[19Jan2025 23:37:38.224] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1236, y=-54, z=321}
+[19Jan2025 23:37:56.567] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1204, y=-29, z=241}
+[19Jan2025 23:37:56.567] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1204, y=-29, z=241}
+[19Jan2025 23:37:56.890] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1222, y=1, z=252}
+[19Jan2025 23:37:57.011] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1206, y=-29, z=406}
+[19Jan2025 23:37:57.011] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1207, y=-28, z=407}
+[19Jan2025 23:37:57.011] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1206, y=-29, z=406}
+[19Jan2025 23:37:57.011] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1207, y=-28, z=407}
+[19Jan2025 23:38:40.988] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1457, y=63, z=560}
+[19Jan2025 23:39:00.084] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1460, y=17, z=378} BlockPos{x=-1461, y=17, z=378}
+[19Jan2025 23:39:00.135] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1460, y=17, z=378} BlockPos{x=-1461, y=17, z=378}
+[19Jan2025 23:39:00.185] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1460, y=17, z=378} BlockPos{x=-1461, y=17, z=378}
+[19Jan2025 23:39:00.236] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1460, y=17, z=378} BlockPos{x=-1461, y=17, z=378}
+[19Jan2025 23:39:00.322] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1460, y=17, z=378} BlockPos{x=-1461, y=17, z=378}
+[19Jan2025 23:39:00.335] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1460, y=17, z=378} BlockPos{x=-1461, y=17, z=378}
+[19Jan2025 23:39:00.386] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1460, y=17, z=378} BlockPos{x=-1461, y=17, z=378}
+[19Jan2025 23:40:22.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was mauled by Necromancer's undead
+[19Jan2025 23:40:22.278] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
