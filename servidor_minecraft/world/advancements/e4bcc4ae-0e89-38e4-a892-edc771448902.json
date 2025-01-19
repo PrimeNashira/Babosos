@@ -4424,9 +4424,10 @@
   },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
+      "has_the_recipe": "2025-01-19 22:50:22 +0000",
       "has_planks": "2025-01-19 03:43:28 +0000"
     },
-    "done": false
+    "done": true
   },
   "pfm:recipes/furniture/spruce_table_classic": {
     "criteria": {
@@ -4563,9 +4564,10 @@
   },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
+      "has_the_recipe": "2025-01-19 22:49:35 +0000",
       "has_planks": "2025-01-19 03:43:28 +0000"
     },
-    "done": false
+    "done": true
   },
   "pfm:recipes/furniture/spruce_chair_modern": {
     "criteria": {
@@ -5571,9 +5573,21 @@
     },
     "done": false
   },
+  "pfm:recipes/furniture/stripped_bamboo_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/light_wood_kitchen_counter_oven": {
     "criteria": {
       "has_planks": "2025-01-19 22:34:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2025-01-19 22:57:03 +0000"
     },
     "done": false
   },
@@ -5601,9 +5615,21 @@
     },
     "done": false
   },
+  "pfm:recipes/furniture/stripped_bamboo_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/decorations/spruce_cabinet": {
     "criteria": {
       "has_spruce_trapdoor": "2025-01-19 22:38:53 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_bamboo_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
     },
     "done": false
   },
@@ -5613,9 +5639,21 @@
     },
     "done": false
   },
+  "pfm:recipes/furniture/stripped_bamboo_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/stripped_oak_coffee_table_classic": {
     "criteria": {
       "has_planks": "2025-01-19 22:34:44 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_bamboo_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
     },
     "done": false
   },
@@ -5668,15 +5706,33 @@
     },
     "done": false
   },
+  "pfm:recipes/furniture/stripped_bamboo_coffee_table_basic": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/stripped_oak_table_modern_dinner": {
     "criteria": {
       "has_planks": "2025-01-19 22:34:44 +0000"
     },
     "done": false
   },
+  "pfm:recipes/furniture/stripped_bamboo_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/stripped_oak_coffee_table_basic": {
     "criteria": {
       "has_planks": "2025-01-19 22:34:44 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/decorations/bamboo_cabinet": {
+    "criteria": {
+      "has_bamboo_trapdoor": "2025-01-19 22:57:04 +0000"
     },
     "done": false
   },
@@ -5716,9 +5772,27 @@
     },
     "done": false
   },
+  "pfm:recipes/furniture/stripped_bamboo_table_basic": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-01-19 22:42:51 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_bamboo_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_bamboo_table_classic": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
     },
     "done": false
   },
@@ -5740,9 +5814,27 @@
     },
     "done": false
   },
+  "pfm:recipes/furniture/stripped_bamboo_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/building_blocks/oak_herringbone_planks": {
     "criteria": {
       "has_wood_slabs": "2025-01-19 22:41:12 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_bamboo_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/bamboo_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-19 22:57:03 +0000"
     },
     "done": false
   },
@@ -5758,9 +5850,21 @@
     },
     "done": false
   },
+  "pfm:recipes/furniture/stripped_bamboo_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2025-01-19 22:42:51 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_bamboo_chair": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
     },
     "done": false
   },
@@ -5773,6 +5877,18 @@
   "pfm:recipes/furniture/stripped_oak_table_log": {
     "criteria": {
       "has_log": "2025-01-19 22:34:44 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_bamboo_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_bamboo_table_log": {
+    "criteria": {
+      "has_log": "2025-01-19 22:57:03 +0000"
     },
     "done": false
   },
@@ -5812,6 +5928,12 @@
     },
     "done": false
   },
+  "pfm:recipes/furniture/stripped_bamboo_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/stripped_oak_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-01-19 22:34:44 +0000"
@@ -5830,9 +5952,39 @@
     },
     "done": false
   },
+  "pfm:recipes/furniture/stripped_bamboo_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_bamboo_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_bamboo_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_bamboo_coffee_table_modern": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/stripped_oak_simple_stool": {
     "criteria": {
       "has_planks": "2025-01-19 22:34:44 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_bamboo_coffee_table_classic": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
     },
     "done": false
   },
