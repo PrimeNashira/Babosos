@@ -3024,9 +3024,10 @@
   },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
-      "has_raw_copper": "2025-01-19 03:04:33 +0000"
+      "has_raw_copper": "2025-01-19 03:04:33 +0000",
+      "has_the_recipe": "2025-01-20 00:00:09 +0000"
     },
-    "done": false
+    "done": true
   },
   "pfm:recipes/furniture/palm_biomesoplenty_red_simple_bed": {
     "criteria": {
@@ -5577,165 +5578,15 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/polished_deepslate": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-19 23:45:59 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-01-19 23:38:54 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stone_chair": {
-    "criteria": {
-      "stone_chair": "2025-01-19 23:45:06 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/scoria_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-01-19 23:39:00 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stone_coffee_table_basic": {
-    "criteria": {
-      "stone_coffee_table_basic": "2025-01-19 23:45:06 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-01-19 23:47:26 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stripped_bamboo_classic_nightstand": {
-    "criteria": {
-      "has_planks": "2025-01-19 22:57:03 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-01-19 23:47:26 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2025-01-19 22:59:17 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/decorations/mangrove_cabinet": {
-    "criteria": {
-      "has_mangrove_trapdoor": "2025-01-19 23:08:47 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-01-19 23:38:54 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-01-19 23:47:26 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/polished_cut_scoria_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-01-19 23:39:00 +0000"
-    },
-    "done": false
-  },
   "pfm:recipes/furniture/light_wood_kitchen_counter_oven": {
     "criteria": {
       "has_planks": "2025-01-19 22:34:44 +0000"
     },
     "done": false
   },
-  "create:recipes/building_blocks/cut_scoria_slab_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-01-19 23:39:00 +0000"
-    },
-    "done": false
-  },
-  "mca:recipes/misc/blueprint": {
-    "criteria": {
-      "has_item": "2025-01-19 23:27:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_planks": {
-    "criteria": {
-      "has_logs": "2025-01-19 22:57:03 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-01-19 23:45:06 +0000"
-    },
-    "done": false
-  },
-  "born_in_chaos_v1:fighting_nightmares": {
-    "criteria": {
-      "fighting_nightmares_0": "2025-01-19 23:02:29 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/stone_table_dinner": {
-    "criteria": {
-      "stone_table_dinner": "2025-01-19 23:45:06 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-01-19 23:38:54 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stone_table_modern_dinner": {
-    "criteria": {
-      "stone_table_modern_dinner": "2025-01-19 23:45:06 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/gray_carpet": {
-    "criteria": {
-      "has_gray_wool": "2025-01-19 22:42:51 +0000"
-    },
-    "done": false
-  },
-  "justhammers:recipes/tools/stone_destructor_hammer": {
-    "criteria": {
-      "has_material": "2025-01-19 23:45:06 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-01-19 23:38:54 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-01-19 22:34:44 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/small_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-01-19 23:47:26 +0000"
     },
     "done": false
   },
@@ -5751,105 +5602,9 @@
     },
     "done": false
   },
-  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-01-19 23:38:54 +0000"
-    },
-    "done": false
-  },
-  "justhammers:recipes/tools/stone_impact_hammer": {
-    "criteria": {
-      "has_material": "2025-01-19 23:45:06 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stone_chair_modern": {
-    "criteria": {
-      "stone_chair_modern": "2025-01-19 23:45:06 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-01-19 23:47:26 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stripped_bamboo_kitchen_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-19 22:57:03 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
-    "criteria": {
-      "has_amethyst_shard": "2025-01-19 23:46:25 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/misc/crafting/palettes/scorchia": {
-    "criteria": {
-      "has_item": "2025-01-19 23:39:00 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-01-19 23:46:25 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/layered_scoria_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-01-19 23:39:00 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-19 23:45:59 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/decorations/spruce_cabinet": {
-    "criteria": {
-      "has_spruce_trapdoor": "2025-01-19 22:38:53 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-01-19 23:38:54 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stripped_bamboo_modern_stool": {
-    "criteria": {
-      "has_planks": "2025-01-19 22:57:03 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/mud_brick_stairs": {
-    "criteria": {
-      "has_mud_bricks": "2025-01-19 22:59:17 +0000"
-    },
-    "done": false
-  },
   "pfm:recipes/furniture/stripped_oak_chair_modern": {
     "criteria": {
       "has_planks": "2025-01-19 22:34:44 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stripped_bamboo_raw_table_log": {
-    "criteria": {
-      "has_log": "2025-01-19 22:57:03 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/scoria_pillar_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-01-19 23:39:00 +0000"
     },
     "done": false
   },
@@ -5859,33 +5614,9 @@
     },
     "done": false
   },
-  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-01-19 23:38:54 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stripped_bamboo_chair_modern": {
-    "criteria": {
-      "has_planks": "2025-01-19 22:57:03 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2025-01-19 22:59:17 +0000"
-    },
-    "done": false
-  },
   "pfm:recipes/furniture/stripped_oak_table_dinner": {
     "criteria": {
       "has_planks": "2025-01-19 22:34:44 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/gray_banner": {
-    "criteria": {
-      "has_gray_wool": "2025-01-19 22:42:51 +0000"
     },
     "done": false
   },
@@ -5902,33 +5633,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_stone": "2025-01-19 23:45:06 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-01-19 23:38:54 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/cut_veridium_bricks_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-01-19 23:47:26 +0000"
-    },
-    "done": false
-  },
   "pfm:recipes/furniture/stripped_oak_kitchen_drawer": {
     "criteria": {
       "has_planks": "2025-01-19 22:34:44 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-01-19 23:38:54 +0000"
     },
     "done": false
   },
@@ -5938,9 +5645,399 @@
     },
     "done": false
   },
-  "blue_skies:recipes/building_blocks/food_prep_table": {
+  "pfm:recipes/furniture/stripped_oak_kitchen_wall_counter": {
     "criteria": {
-      "has_item": "2025-01-19 23:47:03 +0000"
+      "has_planks": "2025-01-19 22:34:44 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_oak_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:34:44 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_oak_coffee_table_basic": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:34:44 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/andesite_oak_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:34:44 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_oak_table_classic": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:34:44 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/andesite_oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:34:44 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/andesite_oak_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:34:44 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_oak_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:34:44 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_oak_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:34:44 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_oak_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:34:44 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_oak_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:34:44 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_oak_table_basic": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:34:44 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/light_wood_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:34:44 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_oak_table_log": {
+    "criteria": {
+      "has_log": "2025-01-19 22:34:44 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:34:44 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_oak_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-01-19 22:34:44 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/light_wood_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:34:44 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_oak_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:34:44 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:34:44 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_oak_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:34:44 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_oak_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:34:44 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-01-19 22:38:53 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/building_blocks/spruce_herringbone_planks": {
+    "criteria": {
+      "has_wood_slabs": "2025-01-19 22:40:48 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/building_blocks/oak_herringbone_planks": {
+    "criteria": {
+      "has_wood_slabs": "2025-01-19 22:41:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-01-19 22:42:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-01-19 22:42:51 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/gray_shower_towel": {
+    "criteria": {
+      "has_gray_wool": "2025-01-19 22:42:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-01-19 22:42:51 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-19 22:42:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-01-19 22:42:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-01-19 22:42:51 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/oak_chair_classic_gray": {
+    "criteria": {
+      "oak_chair_classic_gray": "2025-01-19 22:42:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-01-19 22:42:51 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_bamboo_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_bamboo_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_bamboo_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_bamboo_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_bamboo_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_bamboo_coffee_table_basic": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_bamboo_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_bamboo_table_basic": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_bamboo_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_bamboo_table_classic": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_bamboo_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_bamboo_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/bamboo_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_bamboo_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_bamboo_chair": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_bamboo_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_bamboo_table_log": {
+    "criteria": {
+      "has_log": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_bamboo_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_bamboo_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_bamboo_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_bamboo_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_bamboo_coffee_table_modern": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_bamboo_coffee_table_classic": {
+    "criteria": {
+      "has_planks": "2025-01-19 22:57:03 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/decorations/bamboo_cabinet": {
+    "criteria": {
+      "has_bamboo_trapdoor": "2025-01-19 22:57:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/bamboo_mosaic": {
+    "criteria": {
+      "has_bamboo_slab": "2025-01-19 22:57:32 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/building_blocks/bamboo_herringbone_planks": {
+    "criteria": {
+      "has_wood_slabs": "2025-01-19 22:57:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-01-19 22:59:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2025-01-19 22:59:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-01-19 22:59:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2025-01-19 22:59:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-01-19 22:59:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-01-19 22:59:17 +0000"
     },
     "done": false
   },
@@ -5951,47 +6048,66 @@
     },
     "done": false
   },
-  "create:recipes/building_blocks/polished_cut_veridium_slab_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-01-19 23:47:26 +0000"
-    },
-    "done": false
-  },
-  "justhammers:recipes/tools/reinforced_core": {
-    "criteria": {
-      "has_material": "2025-01-19 23:38:23 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-01-19 23:39:00 +0000"
-    },
-    "done": false
-  },
   "mca:recipes/misc/rose_gold_dust": {
     "criteria": {
       "has_item": "2025-01-19 23:00:40 +0000"
     },
     "done": true
   },
-  "pfm:recipes/furniture/stripped_oak_kitchen_wall_counter": {
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
-      "has_planks": "2025-01-19 22:34:44 +0000"
+      "has_raw_gold": "2025-01-19 23:00:40 +0000"
     },
     "done": false
   },
-  "pfm:recipes/furniture/gray_shower_towel": {
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
-      "has_gray_wool": "2025-01-19 22:42:51 +0000"
+      "has_golden_boots": "2025-01-19 23:00:40 +0000",
+      "has_golden_chestplate": "2025-01-19 23:00:40 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/decorations/smoker": {
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
-      "has_furnace": "2025-01-19 23:47:03 +0000"
+      "has_raw_gold": "2025-01-19 23:00:40 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-01-19 23:00:40 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-01-19 23:00:41 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-01-19 23:00:41 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-01-19 23:02:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/mangrove_cabinet": {
+    "criteria": {
+      "has_mangrove_trapdoor": "2025-01-19 23:08:47 +0000"
+    },
+    "done": false
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2025-01-19 23:27:57 +0000"
+    },
+    "done": true
   },
   "create:recipes/misc/crafting/schematics/empty_schematic": {
     "criteria": {
@@ -5999,9 +6115,130 @@
     },
     "done": false
   },
-  "pfm:recipes/furniture/stripped_bamboo_coffee_table_basic": {
+  "minecraft:recipes/misc/book": {
     "criteria": {
-      "has_planks": "2025-01-19 22:57:03 +0000"
+      "has_paper": "2025-01-19 23:27:57 +0000"
+    },
+    "done": false
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-01-19 23:27:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-01-19 23:27:57 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-01-19 23:27:57 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-01-19 23:27:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-01-19 23:27:57 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/wall_toilet_paper": {
+    "criteria": {
+      "has_paper": "2025-01-19 23:27:57 +0000"
+    },
+    "done": false
+  },
+  "justhammers:recipes/tools/stone_hammer": {
+    "criteria": {
+      "has_material": "2025-01-19 23:45:06 +0000",
+      "has_the_recipe": "2025-01-19 23:38:22 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/reinforced_core": {
+    "criteria": {
+      "has_material": "2025-01-19 23:38:23 +0000"
+    },
+    "done": false
+  },
+  "justhammers:recipes/tools/reinforced_impact_core": {
+    "criteria": {
+      "has_material": "2025-01-19 23:38:23 +0000"
+    },
+    "done": false
+  },
+  "justhammers:recipes/tools/impact_core": {
+    "criteria": {
+      "has_material": "2025-01-19 23:38:23 +0000"
+    },
+    "done": false
+  },
+  "justhammers:recipes/tools/destructor_core": {
+    "criteria": {
+      "has_material": "2025-01-19 23:38:23 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-19 23:38:54 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-19 23:38:54 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-19 23:38:54 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-19 23:38:54 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-19 23:38:54 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-19 23:38:54 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-19 23:38:54 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-19 23:38:54 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-19 23:38:54 +0000"
     },
     "done": false
   },
@@ -6017,15 +6254,225 @@
     },
     "done": false
   },
-  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-01-19 23:45:59 +0000"
+      "has_stone_types_tuff": "2025-01-19 23:38:54 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-01-19 23:45:59 +0000"
+      "has_stone_types_tuff": "2025-01-19 23:38:54 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-19 23:38:54 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-19 23:38:54 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-19 23:38:54 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-19 23:38:54 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-19 23:38:54 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-19 23:38:54 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-19 23:39:00 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-19 23:39:00 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-19 23:39:00 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/palettes/scorchia": {
+    "criteria": {
+      "has_item": "2025-01-19 23:39:00 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/layered_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-19 23:39:00 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/scoria_pillar_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-19 23:39:00 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-19 23:39:00 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/small_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-19 23:39:00 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-19 23:39:00 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-19 23:39:00 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-19 23:39:00 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-19 23:39:00 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-19 23:39:00 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-19 23:39:00 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-19 23:39:00 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-19 23:39:00 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-19 23:39:00 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-19 23:39:00 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-19 23:39:00 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-19 23:39:00 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stone_chair": {
+    "criteria": {
+      "stone_chair": "2025-01-19 23:45:06 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stone_coffee_table_basic": {
+    "criteria": {
+      "stone_coffee_table_basic": "2025-01-19 23:45:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-19 23:45:06 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stone_table_dinner": {
+    "criteria": {
+      "stone_table_dinner": "2025-01-19 23:45:06 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stone_table_modern_dinner": {
+    "criteria": {
+      "stone_table_modern_dinner": "2025-01-19 23:45:06 +0000"
+    },
+    "done": false
+  },
+  "justhammers:recipes/tools/stone_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-01-19 23:45:06 +0000"
+    },
+    "done": false
+  },
+  "justhammers:recipes/tools/stone_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-01-19 23:45:06 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stone_chair_modern": {
+    "criteria": {
+      "stone_chair_modern": "2025-01-19 23:45:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-01-19 23:45:06 +0000"
     },
     "done": false
   },
@@ -6038,30 +6485,6 @@
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-01-19 23:45:06 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stripped_oak_table_modern_dinner": {
-    "criteria": {
-      "has_planks": "2025-01-19 22:34:44 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-01-19 23:38:54 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/small_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-01-19 23:39:00 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stripped_bamboo_table_dinner": {
-    "criteria": {
-      "has_planks": "2025-01-19 22:57:03 +0000"
     },
     "done": false
   },
@@ -6083,39 +6506,9 @@
     },
     "done": false
   },
-  "create:recipes/building_blocks/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-01-19 23:39:00 +0000"
-    },
-    "done": false
-  },
-  "justhammers:recipes/tools/reinforced_impact_core": {
-    "criteria": {
-      "has_material": "2025-01-19 23:38:23 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-01-19 23:47:26 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-19 23:45:06 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/mud_brick_slab": {
-    "criteria": {
-      "has_mud_bricks": "2025-01-19 22:59:17 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-19 23:45:59 +0000"
     },
     "done": false
   },
@@ -6125,105 +6518,15 @@
     },
     "done": false
   },
-  "pfm:recipes/furniture/stripped_oak_coffee_table_basic": {
-    "criteria": {
-      "has_planks": "2025-01-19 22:34:44 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-19 23:45:59 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/decorations/bamboo_cabinet": {
-    "criteria": {
-      "has_bamboo_trapdoor": "2025-01-19 22:57:04 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
-    "criteria": {
-      "has_mutton": "2025-01-19 22:42:51 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-19 22:42:51 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/andesite_oak_kitchen_wall_counter": {
-    "criteria": {
-      "has_planks": "2025-01-19 22:34:44 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stripped_oak_table_classic": {
-    "criteria": {
-      "has_planks": "2025-01-19 22:34:44 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-01-19 23:47:26 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/amethyst_block": {
-    "criteria": {
-      "has_amethyst_shard": "2025-01-19 23:46:25 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-19 23:45:59 +0000"
-    },
-    "done": false
-  },
-  "justhammers:recipes/tools/impact_core": {
-    "criteria": {
-      "has_material": "2025-01-19 23:38:23 +0000"
-    },
-    "done": false
-  },
   "justhammers:recipes/tools/stone_reinforced_hammer": {
     "criteria": {
       "has_material": "2025-01-19 23:45:06 +0000"
     },
     "done": false
   },
-  "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-01-19 23:47:26 +0000"
-    },
-    "done": false
-  },
   "pfm:recipes/furniture/stone_coffee_table_classic": {
     "criteria": {
       "stone_coffee_table_classic": "2025-01-19 23:45:06 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-01-19 23:39:00 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/andesite_oak_kitchen_counter": {
-    "criteria": {
-      "has_planks": "2025-01-19 22:34:44 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/andesite_oak_kitchen_sink": {
-    "criteria": {
-      "has_planks": "2025-01-19 22:34:44 +0000"
     },
     "done": false
   },
@@ -6239,94 +6542,15 @@
     },
     "done": false
   },
-  "pfm:recipes/furniture/stripped_bamboo_table_basic": {
-    "criteria": {
-      "has_planks": "2025-01-19 22:57:03 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-19 23:45:59 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/cooked_mutton_from_smoking": {
-    "criteria": {
-      "has_mutton": "2025-01-19 22:42:51 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stripped_bamboo_classic_stool": {
-    "criteria": {
-      "has_planks": "2025-01-19 22:57:03 +0000"
-    },
-    "done": false
-  },
-  "justhammers:recipes/tools/destructor_core": {
-    "criteria": {
-      "has_material": "2025-01-19 23:38:23 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-01-19 23:00:40 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-01-19 23:38:54 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-19 23:45:06 +0000"
     },
     "done": false
   },
-  "create:recipes/building_blocks/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-01-19 23:39:00 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-01-19 23:45:06 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_boots": "2025-01-19 23:00:40 +0000",
-      "has_golden_chestplate": "2025-01-19 23:00:40 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-19 23:45:59 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stripped_bamboo_table_classic": {
-    "criteria": {
-      "has_planks": "2025-01-19 22:57:03 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-01-19 23:46:25 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/cut_scoria_bricks_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-01-19 23:39:00 +0000"
     },
     "done": false
   },
@@ -6348,81 +6572,9 @@
     },
     "done": false
   },
-  "create:recipes/building_blocks/cut_veridium_wall_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-01-19 23:47:26 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-01-19 23:38:54 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stripped_oak_chair_classic": {
-    "criteria": {
-      "has_planks": "2025-01-19 22:34:44 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-01-19 23:47:26 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/cut_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-01-19 23:47:26 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stripped_oak_modern_stool": {
-    "criteria": {
-      "has_planks": "2025-01-19 22:34:44 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stripped_oak_kitchen_sink": {
-    "criteria": {
-      "has_planks": "2025-01-19 22:34:44 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-19 23:45:59 +0000"
-    },
-    "done": false
-  },
   "pfm:recipes/furniture/stone_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-01-19 23:45:06 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-01-19 23:00:40 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stripped_bamboo_kitchen_wall_counter": {
-    "criteria": {
-      "has_planks": "2025-01-19 22:57:03 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-19 23:45:59 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/cut_veridium_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-01-19 23:47:26 +0000"
     },
     "done": false
   },
@@ -6432,15 +6584,135 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2025-01-19 23:00:40 +0000"
-    },
-    "done": false
-  },
   "pfm:recipes/furniture/stone_classic_stool": {
     "criteria": {
       "has_planks": "2025-01-19 23:45:06 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stone_chair_classic": {
+    "criteria": {
+      "stone_chair_classic": "2025-01-19 23:45:06 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stone_table_classic": {
+    "criteria": {
+      "stone_table_classic": "2025-01-19 23:45:06 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stone_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-01-19 23:45:06 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stone_table_basic": {
+    "criteria": {
+      "stone_table_basic": "2025-01-19 23:45:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-01-19 23:45:06 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stone_chair_dinner": {
+    "criteria": {
+      "stone_chair_dinner": "2025-01-19 23:45:06 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stone_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-19 23:45:06 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stone_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-01-19 23:45:06 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stone_coffee_table_modern": {
+    "criteria": {
+      "stone_coffee_table_modern": "2025-01-19 23:45:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-19 23:45:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-19 23:45:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-19 23:45:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-19 23:45:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-19 23:45:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-19 23:45:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-19 23:45:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-19 23:45:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-19 23:45:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-19 23:45:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-19 23:45:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-19 23:45:59 +0000"
     },
     "done": false
   },
@@ -6456,111 +6728,9 @@
     },
     "done": false
   },
-  "pfm:recipes/building_blocks/oak_herringbone_planks": {
-    "criteria": {
-      "has_wood_slabs": "2025-01-19 22:41:12 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/bamboo_mosaic": {
-    "criteria": {
-      "has_bamboo_slab": "2025-01-19 22:57:32 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-01-19 23:39:00 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stripped_bamboo_chair_classic": {
-    "criteria": {
-      "has_planks": "2025-01-19 22:57:03 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-19 23:45:59 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/bamboo_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-01-19 22:57:03 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stripped_oak_kitchen_counter_oven": {
-    "criteria": {
-      "has_planks": "2025-01-19 22:34:44 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/polished_cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-01-19 23:39:00 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stripped_oak_table_basic": {
-    "criteria": {
-      "has_planks": "2025-01-19 22:34:44 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-01-19 23:39:00 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stripped_bamboo_table_modern_dinner": {
-    "criteria": {
-      "has_planks": "2025-01-19 22:57:03 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/veridium_pillar_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-01-19 23:47:26 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-01-19 23:39:00 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/gray_bed": {
-    "criteria": {
-      "has_gray_wool": "2025-01-19 22:42:51 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stone_chair_classic": {
-    "criteria": {
-      "stone_chair_classic": "2025-01-19 23:45:06 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-01-19 23:47:26 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stripped_bamboo_chair": {
-    "criteria": {
-      "has_planks": "2025-01-19 22:57:03 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/light_wood_kitchen_wall_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-19 22:34:44 +0000"
     },
     "done": false
   },
@@ -6570,9 +6740,171 @@
     },
     "done": false
   },
-  "minecraft:recipes/misc/book": {
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
-      "has_paper": "2025-01-19 23:27:57 +0000"
+      "has_cobbled_deepslate": "2025-01-19 23:45:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-19 23:45:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-19 23:45:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-19 23:45:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-19 23:45:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-19 23:45:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-19 23:46:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-19 23:46:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-19 23:46:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-19 23:46:25 +0000"
+    },
+    "done": false
+  },
+  "blue_skies:recipes/building_blocks/food_prep_table": {
+    "criteria": {
+      "has_item": "2025-01-19 23:47:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-01-19 23:47:03 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-01-19 23:47:26 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-01-19 23:47:26 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-01-19 23:47:26 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/small_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-01-19 23:47:26 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-01-19 23:47:26 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-01-19 23:47:26 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-01-19 23:47:26 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-01-19 23:47:26 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-01-19 23:47:26 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-01-19 23:47:26 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-01-19 23:47:26 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-01-19 23:47:26 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-01-19 23:47:26 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-01-19 23:47:26 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/veridium_pillar_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-01-19 23:47:26 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-01-19 23:47:26 +0000"
     },
     "done": false
   },
@@ -6594,336 +6926,167 @@
     },
     "done": false
   },
-  "mca:recipes/misc/books": {
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
     "criteria": {
-      "has_item": "2025-01-19 23:27:57 +0000"
+      "has_item": "2025-01-20 00:00:10 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-01-20 00:00:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-20 00:00:10 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-01-20 00:00:10 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2025-01-20 00:00:10 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-01-20 00:00:10 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2025-01-20 00:00:10 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2025-01-20 00:00:10 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-01-20 00:00:10 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2025-01-20 00:00:10 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2025-01-20 00:00:10 +0000"
+    },
+    "done": false
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-01-20 00:00:10 +0000"
     },
     "done": true
   },
-  "pfm:recipes/furniture/stone_table_classic": {
+  "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
-      "stone_table_classic": "2025-01-19 23:45:06 +0000"
+      "has_copper_ingot": "2025-01-20 00:00:10 +0000"
     },
     "done": false
   },
-  "pfm:recipes/furniture/stripped_oak_table_log": {
+  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
     "criteria": {
-      "has_log": "2025-01-19 22:34:44 +0000"
+      "has_ingots_copper": "2025-01-20 00:00:10 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-01-19 23:45:59 +0000"
+      "has_item": "2025-01-20 00:00:10 +0000"
     },
     "done": false
   },
-  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
     "criteria": {
-      "has_stone_types_tuff": "2025-01-19 23:38:54 +0000"
+      "has_item": "2025-01-20 00:00:10 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/decorations/mud_brick_wall": {
+  "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
-      "has_mud_bricks": "2025-01-19 22:59:17 +0000"
+      "has_copper_ingot": "2025-01-20 00:00:10 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-01-19 23:45:59 +0000"
+      "has_item": "2025-01-20 00:00:10 +0000"
     },
     "done": false
   },
-  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
-      "has_item": "2025-01-19 23:27:57 +0000"
+      "has_item": "2025-01-20 00:00:10 +0000"
     },
     "done": false
   },
-  "pfm:recipes/furniture/stone_kitchen_wall_counter": {
+  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
     "criteria": {
-      "has_planks": "2025-01-19 23:45:06 +0000"
+      "has_ingots_copper": "2025-01-20 00:00:10 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
     "criteria": {
-      "has_mud_bricks": "2025-01-19 22:59:17 +0000"
+      "has_item": "2025-01-20 00:00:10 +0000"
     },
     "done": false
   },
-  "create:recipes/building_blocks/cut_scoria_from_stone_types_scoria_stonecutting": {
+  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
     "criteria": {
-      "has_stone_types_scoria": "2025-01-19 23:39:00 +0000"
+      "has_ingots_copper": "2025-01-20 00:00:10 +0000"
     },
     "done": false
   },
-  "pfm:recipes/furniture/stripped_bamboo_kitchen_counter": {
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
-      "has_planks": "2025-01-19 22:57:03 +0000"
+      "has_item": "2025-01-20 00:00:10 +0000"
     },
     "done": false
   },
-  "pfm:recipes/furniture/stone_table_basic": {
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
     "criteria": {
-      "stone_table_basic": "2025-01-19 23:45:06 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/smooth_stone": {
-    "criteria": {
-      "has_stone": "2025-01-19 23:45:06 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stripped_bamboo_table_log": {
-    "criteria": {
-      "has_log": "2025-01-19 22:57:03 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-19 23:45:59 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/deepslate": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-19 23:45:59 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stripped_oak_chair": {
-    "criteria": {
-      "has_planks": "2025-01-19 22:34:44 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stripped_oak_raw_table_log": {
-    "criteria": {
-      "has_log": "2025-01-19 22:34:44 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/misc/crafting/materials/sand_paper": {
-    "criteria": {
-      "has_item": "2025-01-19 23:27:57 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/building_blocks/spruce_herringbone_planks": {
-    "criteria": {
-      "has_wood_slabs": "2025-01-19 22:40:48 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/light_wood_kitchen_wall_small_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-19 22:34:44 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/misc/crafting/materials/red_sand_paper": {
-    "criteria": {
-      "has_item": "2025-01-19 23:27:57 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stripped_oak_classic_stool": {
-    "criteria": {
-      "has_planks": "2025-01-19 22:34:44 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/oak_chair_classic_gray": {
-    "criteria": {
-      "oak_chair_classic_gray": "2025-01-19 22:42:51 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stone_chair_dinner": {
-    "criteria": {
-      "stone_chair_dinner": "2025-01-19 23:45:06 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stripped_bamboo_simple_stool": {
-    "criteria": {
-      "has_planks": "2025-01-19 22:57:03 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stripped_oak_kitchen_counter": {
-    "criteria": {
-      "has_planks": "2025-01-19 22:34:44 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-19 23:45:59 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/misc/crafting/kinetics/fluid_tank": {
-    "criteria": {
-      "has_item": "2025-01-19 23:00:41 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/cooked_mutton": {
-    "criteria": {
-      "has_mutton": "2025-01-19 22:42:51 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stone_kitchen_sink": {
-    "criteria": {
-      "has_planks": "2025-01-19 23:45:06 +0000"
-    },
-    "done": false
-  },
-  "justhammers:recipes/tools/stone_hammer": {
-    "criteria": {
-      "has_material": "2025-01-19 23:45:06 +0000",
-      "has_the_recipe": "2025-01-19 23:38:22 +0000"
+      "requirement": "2025-01-20 00:00:46 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+  "irons_spellbooks:make_inscription_table": {
     "criteria": {
-      "has_stone_types_scoria": "2025-01-19 23:39:00 +0000"
+      "inscription_table": "2025-01-20 00:04:37 +0000"
     },
-    "done": false
+    "done": true
   },
-  "pfm:recipes/furniture/stone_simple_stool": {
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
     "criteria": {
-      "has_planks": "2025-01-19 23:45:06 +0000"
+      "inscription_table": "2025-01-20 00:04:37 +0000"
     },
-    "done": false
+    "done": true
   },
-  "pfm:recipes/furniture/stripped_oak_chair_dinner": {
+  "irons_spellbooks:irons_spellbooks/root": {
     "criteria": {
-      "has_planks": "2025-01-19 22:34:44 +0000"
+      "inscription_table": "2025-01-20 00:04:37 +0000"
     },
-    "done": false
-  },
-  "pfm:recipes/furniture/stone_coffee_table_modern": {
-    "criteria": {
-      "stone_coffee_table_modern": "2025-01-19 23:45:06 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-01-19 23:38:54 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/building_blocks/bamboo_herringbone_planks": {
-    "criteria": {
-      "has_wood_slabs": "2025-01-19 22:57:32 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-01-19 23:45:06 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-01-19 23:38:54 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stripped_bamboo_kitchen_counter_oven": {
-    "criteria": {
-      "has_planks": "2025-01-19 22:57:03 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/cut_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-01-19 23:39:00 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-01-19 23:39:00 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2025-01-19 23:27:57 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stripped_bamboo_chair_dinner": {
-    "criteria": {
-      "has_planks": "2025-01-19 22:57:03 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stripped_bamboo_kitchen_sink": {
-    "criteria": {
-      "has_planks": "2025-01-19 22:57:03 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/wall_toilet_paper": {
-    "criteria": {
-      "has_paper": "2025-01-19 23:27:57 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-19 23:45:59 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-01-19 23:38:54 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stripped_bamboo_coffee_table_modern": {
-    "criteria": {
-      "has_planks": "2025-01-19 22:57:03 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/misc/crafting/kinetics/item_vault": {
-    "criteria": {
-      "has_item": "2025-01-19 23:00:41 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-01-19 23:38:54 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stripped_oak_simple_stool": {
-    "criteria": {
-      "has_planks": "2025-01-19 22:34:44 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stripped_bamboo_coffee_table_classic": {
-    "criteria": {
-      "has_planks": "2025-01-19 22:57:03 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }

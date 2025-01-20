@@ -856,6 +856,7 @@
       "maple_woods": "2025-01-19 03:46:14 +0000",
       "field": "2025-01-19 03:46:10 +0000",
       "orchard": "2025-01-19 03:36:18 +0000",
+      "overgrown_greens": "2025-01-20 00:09:41 +0000",
       "coniferous_forest": "2025-01-19 03:42:21 +0000",
       "redwood_forest": "2025-01-19 02:21:37 +0000",
       "dune_beach": "2025-01-19 02:37:29 +0000",
@@ -876,6 +877,7 @@
       "maple_woods": "2025-01-19 03:46:14 +0000",
       "field": "2025-01-19 03:46:10 +0000",
       "orchard": "2025-01-19 03:36:18 +0000",
+      "overgrown_greens": "2025-01-20 00:09:41 +0000",
       "coniferous_forest": "2025-01-19 03:42:21 +0000",
       "redwood_forest": "2025-01-19 02:21:37 +0000",
       "dune_beach": "2025-01-19 02:37:29 +0000",
@@ -6706,6 +6708,12 @@
     },
     "done": false
   },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2025-01-20 00:00:38 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-19 23:37:56 +0000"
@@ -6763,6 +6771,12 @@
   "pfm:recipes/furniture/dark_oak_classic_stool": {
     "criteria": {
       "has_planks": "2025-01-19 23:13:23 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-01-20 00:00:38 +0000"
     },
     "done": false
   },
@@ -6826,6 +6840,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-20 00:00:38 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-19 23:39:00 +0000"
@@ -6835,6 +6855,12 @@
   "create:recipes/building_blocks/scoria_pillar_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-01-19 23:38:48 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-01-20 00:00:38 +0000"
     },
     "done": false
   },
@@ -6859,6 +6885,18 @@
   "pfm:recipes/furniture/dark_oak_modern_stool": {
     "criteria": {
       "has_planks": "2025-01-19 23:13:23 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2025-01-20 00:00:38 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-01-20 00:00:38 +0000"
     },
     "done": false
   },
@@ -6925,6 +6963,12 @@
   "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-01-19 23:38:48 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2025-01-20 00:00:38 +0000"
     },
     "done": false
   },
@@ -7007,6 +7051,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-01-20 00:09:39 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/small_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-01-19 23:38:48 +0000"
@@ -7031,6 +7081,12 @@
     },
     "done": false
   },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2025-01-20 00:00:38 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2025-01-19 23:13:23 +0000"
@@ -7052,6 +7108,12 @@
   "justhammers:recipes/tools/reinforced_impact_core": {
     "criteria": {
       "has_material": "2025-01-19 23:38:23 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-01-20 00:00:38 +0000"
     },
     "done": false
   },
@@ -7106,6 +7168,12 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-19 23:37:56 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-01-20 00:09:39 +0000"
     },
     "done": false
   },
@@ -7181,6 +7249,18 @@
     },
     "done": false
   },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2025-01-20 00:00:38 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2025-01-20 00:00:38 +0000"
+    },
+    "done": false
+  },
   "justhammers:recipes/tools/destructor_core": {
     "criteria": {
       "has_material": "2025-01-19 23:38:23 +0000"
@@ -7198,6 +7278,12 @@
       "has_stone": "2025-01-19 23:37:56 +0000"
     },
     "done": false
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-01-20 00:00:38 +0000"
+    },
+    "done": true
   },
   "create:recipes/building_blocks/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
@@ -7232,6 +7318,12 @@
   "create:recipes/building_blocks/cut_scoria_bricks_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-01-19 23:38:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-20 00:00:38 +0000"
     },
     "done": false
   },
@@ -7271,6 +7363,12 @@
     },
     "done": false
   },
+  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-01-20 00:00:38 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/cut_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-01-19 23:47:17 +0000"
@@ -7286,6 +7384,24 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-19 23:47:16 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2025-01-20 00:00:38 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2025-01-20 00:00:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-20 00:00:38 +0000"
     },
     "done": false
   },
@@ -7310,6 +7426,12 @@
   "pfm:recipes/furniture/stone_kitchen_drawer": {
     "criteria": {
       "has_planks": "2025-01-19 23:37:56 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2025-01-20 00:00:38 +0000"
     },
     "done": false
   },
@@ -7346,6 +7468,12 @@
   "create:recipes/building_blocks/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-01-19 23:38:48 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-01-20 00:00:38 +0000"
     },
     "done": false
   },
@@ -7481,6 +7609,18 @@
     },
     "done": false
   },
+  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-01-20 00:00:38 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-01-20 00:00:38 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/cut_scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-01-19 23:38:48 +0000"
@@ -7541,6 +7681,12 @@
     },
     "done": false
   },
+  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-01-20 00:00:38 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/stone_kitchen_sink": {
     "criteria": {
       "has_planks": "2025-01-19 23:37:56 +0000"
@@ -7596,6 +7742,12 @@
     },
     "done": false
   },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2025-01-20 00:00:38 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-19 23:39:00 +0000"
@@ -7629,6 +7781,12 @@
   "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-19 23:39:00 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_the_recipe": "2025-01-20 00:05:46 +0000"
     },
     "done": false
   },

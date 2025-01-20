@@ -13,3 +13,42 @@
 [20Jan2025 00:00:31.700] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-568, y=-54, z=79}
 [20Jan2025 00:00:46.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 has made the advancement [Magery]
 [20Jan2025 00:01:09.277] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-931, y=-4, z=36}
+[20Jan2025 00:02:13.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by Nightmare Stalker
+[20Jan2025 00:02:13.862] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[20Jan2025 00:02:27.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PrimeRios03 was kicked for floating too long!
+[20Jan2025 00:02:27.180] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PrimeRios03 lost connection: Disconnected
+[20Jan2025 00:02:27.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 left the game
+[20Jan2025 00:02:27.233] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Jan2025 00:02:32.705] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PrimeRios03[/127.57.81.108:52257] logged in with entity id 24873 at (-1704.291644678186, 77.59138007731568, 150.32578849361158)
+[20Jan2025 00:02:32.706] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to PrimeRios03
+[20Jan2025 00:02:32.707] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to PrimeRios03
+[20Jan2025 00:02:32.707] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to PrimeRios03
+[20Jan2025 00:02:32.707] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to PrimeRios03
+[20Jan2025 00:02:32.709] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to PrimeRios03
+[20Jan2025 00:02:32.712] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to PrimeRios03
+[20Jan2025 00:02:32.712] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to PrimeRios03
+[20Jan2025 00:02:32.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 joined the game
+[20Jan2025 00:02:32.826] [Server thread/INFO] [Jade/]: Syncing config to PrimeRios03 (e4bcc4ae-0e89-38e4-a892-edc771448902)
+[20Jan2025 00:03:00.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
+[20Jan2025 00:03:25.669] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1204, y=-29, z=241}
+[20Jan2025 00:04:37.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 has reached the goal [Quaint Scribe]
+[20Jan2025 00:11:35.894] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SpartanMike lost connection: Disconnected
+[20Jan2025 00:11:35.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike left the game
+[20Jan2025 00:11:39.275] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PrimeRios03 lost connection: Disconnected
+[20Jan2025 00:11:39.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 left the game
+[20Jan2025 00:11:39.372] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FunnyUntipo lost connection: Disconnected
+[20Jan2025 00:11:39.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo left the game
+[20Jan2025 00:11:49.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20Jan2025 00:11:49.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20Jan2025 00:11:49.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[20Jan2025 00:11:50.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20Jan2025 00:11:50.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20Jan2025 00:11:50.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[20Jan2025 00:11:50.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[20Jan2025 00:11:50.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20Jan2025 00:11:50.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20Jan2025 00:11:50.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20Jan2025 00:11:50.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[20Jan2025 00:11:50.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[20Jan2025 00:11:50.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20Jan2025 00:11:50.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
