@@ -1,54 +1,969 @@
-[20Jan2025 00:00:17.894] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-424, y=-29, z=68}
-[20Jan2025 00:00:17.897] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-423, y=-29, z=69}
-[20Jan2025 00:00:17.898] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-424, y=-29, z=68}
-[20Jan2025 00:00:17.898] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-423, y=-29, z=69}
-[20Jan2025 00:00:18.301] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-568, y=-54, z=79}
-[20Jan2025 00:00:18.302] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-568, y=-54, z=79}
-[20Jan2025 00:00:18.535] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-488, y=-54, z=51}
-[20Jan2025 00:00:18.535] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-487, y=-54, z=52}
-[20Jan2025 00:00:18.536] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-484, y=-54, z=51}
-[20Jan2025 00:00:18.536] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-483, y=-54, z=51}
-[20Jan2025 00:00:31.653] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-424, y=-29, z=68}
-[20Jan2025 00:00:31.653] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-423, y=-29, z=69}
-[20Jan2025 00:00:31.700] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-568, y=-54, z=79}
-[20Jan2025 00:00:46.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 has made the advancement [Magery]
-[20Jan2025 00:01:09.277] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-931, y=-4, z=36}
-[20Jan2025 00:02:13.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by Nightmare Stalker
-[20Jan2025 00:02:13.862] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
-[20Jan2025 00:02:27.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PrimeRios03 was kicked for floating too long!
-[20Jan2025 00:02:27.180] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PrimeRios03 lost connection: Disconnected
-[20Jan2025 00:02:27.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 left the game
-[20Jan2025 00:02:27.233] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[20Jan2025 00:02:32.705] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PrimeRios03[/127.57.81.108:52257] logged in with entity id 24873 at (-1704.291644678186, 77.59138007731568, 150.32578849361158)
-[20Jan2025 00:02:32.706] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to PrimeRios03
-[20Jan2025 00:02:32.707] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to PrimeRios03
-[20Jan2025 00:02:32.707] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to PrimeRios03
-[20Jan2025 00:02:32.707] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to PrimeRios03
-[20Jan2025 00:02:32.709] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to PrimeRios03
-[20Jan2025 00:02:32.712] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to PrimeRios03
-[20Jan2025 00:02:32.712] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to PrimeRios03
-[20Jan2025 00:02:32.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 joined the game
-[20Jan2025 00:02:32.826] [Server thread/INFO] [Jade/]: Syncing config to PrimeRios03 (e4bcc4ae-0e89-38e4-a892-edc771448902)
-[20Jan2025 00:03:00.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
-[20Jan2025 00:03:25.669] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1204, y=-29, z=241}
-[20Jan2025 00:04:37.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 has reached the goal [Quaint Scribe]
-[20Jan2025 00:11:35.894] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SpartanMike lost connection: Disconnected
-[20Jan2025 00:11:35.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike left the game
-[20Jan2025 00:11:39.275] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PrimeRios03 lost connection: Disconnected
-[20Jan2025 00:11:39.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 left the game
-[20Jan2025 00:11:39.372] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FunnyUntipo lost connection: Disconnected
-[20Jan2025 00:11:39.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo left the game
-[20Jan2025 00:11:49.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[20Jan2025 00:11:49.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[20Jan2025 00:11:49.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[20Jan2025 00:11:50.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20Jan2025 00:11:50.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20Jan2025 00:11:50.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
-[20Jan2025 00:11:50.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
-[20Jan2025 00:11:50.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20Jan2025 00:11:50.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20Jan2025 00:11:50.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20Jan2025 00:11:50.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
-[20Jan2025 00:11:50.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
-[20Jan2025 00:11:50.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20Jan2025 00:11:50.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20Jan2025 00:17:42.219] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[20Jan2025 00:17:42.223] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[20Jan2025 00:17:42.929] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[20Jan2025 00:17:43.943] [main/INFO] [gg.essential.loader.stage1.EssentialLoaderBase/]: Updating Essential Loader (stage2) version 1.6.2 (285f951adc7537f49ae3ef9fc0d2fd3e) from https://cdn.essential.gg/mods/60d5dc9d8cea012849003e5b/6654ab70adcd31053a748633/forge_1-17-1.jar
+[20Jan2025 00:17:44.200] [main/FATAL] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Encountered serious error loading transformation service, expect problems
+java.util.ServiceConfigurationError: cpw.mods.modlauncher.api.ITransformationService: Provider gg.essential.container.loader.stage0.EssentialTransformationService could not be instantiated
+	at java.util.ServiceLoader.fail(ServiceLoader.java:586) ~[?:?]
+	at java.util.ServiceLoader$ProviderImpl.newInstance(ServiceLoader.java:813) ~[?:?]
+	at java.util.ServiceLoader$ProviderImpl.get(ServiceLoader.java:729) ~[?:?]
+	at cpw.mods.modlauncher.util.ServiceLoaderUtils.lambda$streamWithErrorHandling$0(ServiceLoaderUtils.java:39) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?]
+	at java.util.ServiceLoader$ProviderSpliterator.tryAdvance(ServiceLoader.java:1499) ~[?:?]
+	at java.util.Spliterator.forEachRemaining(Spliterator.java:332) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at cpw.mods.modlauncher.TransformationServicesHandler.discoverServices(TransformationServicesHandler.java:133) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:87) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+Caused by: java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at gg.essential.container.loader.stage0.EssentialTransformationServiceBase.loadStage1OrThrow(EssentialTransformationServiceBase.java:27) ~[?:?]
+	at gg.essential.container.loader.stage0.EssentialTransformationServiceBase.lambda$new$0(EssentialTransformationServiceBase.java:20) ~[?:?]
+	at gg.essential.container.loader.stage0.util.DelegatingTransformationServiceBase.<init>(DelegatingTransformationServiceBase.java:13) ~[?:?]
+	at gg.essential.container.loader.stage0.EssentialTransformationServiceBase.<init>(EssentialTransformationServiceBase.java:20) ~[?:?]
+	at gg.essential.container.loader.stage0.EssentialTransformationService.<init>(EssentialTransformationService.java:7) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at java.util.ServiceLoader$ProviderImpl.newInstance(ServiceLoader.java:789) ~[?:?]
+	... 16 more
+Caused by: java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at gg.essential.container.loader.stage0.EssentialTransformationServiceBase.loadStage1(EssentialTransformationServiceBase.java:47) ~[?:?]
+	at gg.essential.container.loader.stage0.EssentialTransformationServiceBase.loadStage1OrThrow(EssentialTransformationServiceBase.java:25) ~[?:?]
+	at gg.essential.container.loader.stage0.EssentialTransformationServiceBase.lambda$new$0(EssentialTransformationServiceBase.java:20) ~[?:?]
+	at gg.essential.container.loader.stage0.util.DelegatingTransformationServiceBase.<init>(DelegatingTransformationServiceBase.java:13) ~[?:?]
+	at gg.essential.container.loader.stage0.EssentialTransformationServiceBase.<init>(EssentialTransformationServiceBase.java:20) ~[?:?]
+	at gg.essential.container.loader.stage0.EssentialTransformationService.<init>(EssentialTransformationService.java:7) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at java.util.ServiceLoader$ProviderImpl.newInstance(ServiceLoader.java:789) ~[?:?]
+	... 16 more
+Caused by: java.lang.NoClassDefFoundError: org/apache/commons/codec/digest/DigestUtils
+	at gg.essential.loader.stage1.EssentialLoaderBase.getChecksum(EssentialLoaderBase.java:356) ~[?:?]
+	at gg.essential.loader.stage1.EssentialLoaderBase.downloadFile(EssentialLoaderBase.java:473) ~[?:?]
+	at gg.essential.loader.stage1.EssentialLoaderBase.doDownload(EssentialLoaderBase.java:326) ~[?:?]
+	at gg.essential.loader.stage1.EssentialLoaderBase.load(EssentialLoaderBase.java:176) ~[?:?]
+	at gg.essential.loader.stage1.EssentialTransformationServiceBase.<init>(EssentialTransformationServiceBase.java:46) ~[?:?]
+	at gg.essential.loader.stage1.EssentialTransformationService.<init>(EssentialTransformationService.java:29) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at gg.essential.container.loader.stage0.EssentialTransformationServiceBase.loadStage1(EssentialTransformationServiceBase.java:47) ~[?:?]
+	at gg.essential.container.loader.stage0.EssentialTransformationServiceBase.loadStage1OrThrow(EssentialTransformationServiceBase.java:25) ~[?:?]
+	at gg.essential.container.loader.stage0.EssentialTransformationServiceBase.lambda$new$0(EssentialTransformationServiceBase.java:20) ~[?:?]
+	at gg.essential.container.loader.stage0.util.DelegatingTransformationServiceBase.<init>(DelegatingTransformationServiceBase.java:13) ~[?:?]
+	at gg.essential.container.loader.stage0.EssentialTransformationServiceBase.<init>(EssentialTransformationServiceBase.java:20) ~[?:?]
+	at gg.essential.container.loader.stage0.EssentialTransformationService.<init>(EssentialTransformationService.java:7) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at java.util.ServiceLoader$ProviderImpl.newInstance(ServiceLoader.java:789) ~[?:?]
+	... 16 more
+Caused by: java.lang.ClassNotFoundException: org.apache.commons.codec.digest.DigestUtils
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:445) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:592) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at gg.essential.loader.stage1.EssentialLoaderBase.getChecksum(EssentialLoaderBase.java:356) ~[?:?]
+	at gg.essential.loader.stage1.EssentialLoaderBase.downloadFile(EssentialLoaderBase.java:473) ~[?:?]
+	at gg.essential.loader.stage1.EssentialLoaderBase.doDownload(EssentialLoaderBase.java:326) ~[?:?]
+	at gg.essential.loader.stage1.EssentialLoaderBase.load(EssentialLoaderBase.java:176) ~[?:?]
+	at gg.essential.loader.stage1.EssentialTransformationServiceBase.<init>(EssentialTransformationServiceBase.java:46) ~[?:?]
+	at gg.essential.loader.stage1.EssentialTransformationService.<init>(EssentialTransformationService.java:29) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at gg.essential.container.loader.stage0.EssentialTransformationServiceBase.loadStage1(EssentialTransformationServiceBase.java:47) ~[?:?]
+	at gg.essential.container.loader.stage0.EssentialTransformationServiceBase.loadStage1OrThrow(EssentialTransformationServiceBase.java:25) ~[?:?]
+	at gg.essential.container.loader.stage0.EssentialTransformationServiceBase.lambda$new$0(EssentialTransformationServiceBase.java:20) ~[?:?]
+	at gg.essential.container.loader.stage0.util.DelegatingTransformationServiceBase.<init>(DelegatingTransformationServiceBase.java:13) ~[?:?]
+	at gg.essential.container.loader.stage0.EssentialTransformationServiceBase.<init>(EssentialTransformationServiceBase.java:20) ~[?:?]
+	at gg.essential.container.loader.stage0.EssentialTransformationService.<init>(EssentialTransformationService.java:7) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at java.util.ServiceLoader$ProviderImpl.newInstance(ServiceLoader.java:789) ~[?:?]
+	... 16 more
+[20Jan2025 00:17:44.252] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Babosos/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[20Jan2025 00:17:44.656] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Babosos/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[20Jan2025 00:17:44.658] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Babosos/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[20Jan2025 00:17:44.660] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Babosos/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[20Jan2025 00:17:44.661] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Babosos/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[20Jan2025 00:17:44.881] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[20Jan2025 00:17:44.882] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
+[20Jan2025 00:17:47.603] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[20Jan2025 00:17:47.838] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[20Jan2025 00:17:47.954] [main/WARN] [mixin/]: Reference map 'naturalist-forge-forge-refmap.json' for naturalist.mixins.json could not be read. If this is a development environment you can ignore this message
+[20Jan2025 00:17:48.093] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.20.0+mc1.20.1: 86 options available, 0 override(s) found
+[20Jan2025 00:17:48.094] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[20Jan2025 00:17:48.107] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[20Jan2025 00:17:48.219] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 120 options available, 0 override(s) found
+[20Jan2025 00:17:48.269] [main/WARN] [mixin/]: Reference map 'justhammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[20Jan2025 00:17:48.319] [main/INFO] [Embeddium Extra/]: Loaded configuration file for Sodium Extra: 35 options available, 0 override(s) found
+[20Jan2025 00:17:48.338] [main/INFO] [Puzzles Lib/]: Loading 75 mods:
+	- architectury 9.2.14
+	- ati_structures 1.1.0
+	- better_weaponry 1.1.3
+	- bettercombat 1.8.6+1.20.1
+	- betterdungeons 1.20-Forge-4.0.4
+	- biomesoplenty 19.0.0.94
+	- blue_skies 1.3.31
+	- born_in_chaos_v1 1.6.2
+	- caelus 3.2.0+1.20.1
+	- carryon 2.1.2.7
+	- chefsdelight 1.0.3-forge-1.20.1
+	- chest_with_legs 1.2.1
+	- cloth_config 11.1.136
+	- create 0.5.1.j
+		\-- flywheel 0.6.11-13
+	- crittersandcompanions 2.2.2
+	- crust 2.4.8
+	- ctov 3.4.11
+	- curios 5.11.1+1.20.1
+	- dungeoncrawl 2.3.15
+	- dungeonnowloading 1.5
+	- dungeons_arise 2.1.58-1.20.x
+	- dungeons_arise_seven_seas 1.0.2
+	- dungeons_enhanced 5.3.0
+	- embeddium 0.3.31+mc1.20.1
+		\-- rubidium 0.7.1
+	- embeddium_extra 0.5.4.3+mc1.20.1-build.121
+		\-- mixinextras 0.3.5
+	- embeddiumplus 1.2.13
+	- enchantinginfuser 8.0.3
+	- extra_dungeons 1.0.5
+	- fantasy_armor 0.5-1.20.1
+	- farmersdelight 1.20.1-1.2.6
+	- ferritecore 6.0.1
+	- forge 47.3.7
+	- geckolib 4.7
+	- glitchcore 0.0.1.1
+	- inventoryhud 3.4.26
+	- irons_spellbooks 1.20.1-3.4.0.7
+	- isolated 1.0.0
+	- jade 11.12.2+forge
+	- jei 15.20.0.106
+	- justhammers 2.0.3+mc1.20.1
+	- legendary_monsters 1.20.1
+	- lithostitched 1.4
+	- mca 7.5.21+1.20.1
+	- minecraft 1.20.1
+	- modernfix 5.20.0+mc1.20.1
+	- mr_dungeons_andtaverns 3.0.3.f
+	- mr_tidal_towns 1.3.4
+	- naturalist 4.0.3
+	- patchouli 1.20.1-84-FORGE
+	- pfm 1.3
+	- playeranimator 1.0.2-rc1+1.20
+	- pmmo 1.5.30
+	- puzzleslib 8.1.25
+		\-- puzzlesaccessapi 8.0.7
+	- railways 1.6.7+forge-mc1.20.1
+	- realmrpg_quests 0.1.1
+	- rustic_engineer 1.0.0
+	- sereneseasons 9.1.0.0
+	- skinlayers3d 1.7.4
+	- skinrestorer 2.2.1+1.20-forge
+	- skyvillages 1.0.4
+	- sophisticatedbackpacks 3.22.2.1172
+	- sophisticatedcore 1.1.4.837
+	- storagedrawers 12.9.13
+	- structure_gel 2.16.2
+	- takesapillage 1.0.3
+	- taxcp 1.0.1
+	- terrablender 3.0.1.7
+	- tombstone 8.9.0
+	- visualworkbench 8.0.0
+	- xaerominimap 24.7.1
+	- xaeroworldmap 1.39.2
+	- yungsapi 1.20-Forge-4.0.6
+[20Jan2025 00:17:48.347] [main/WARN] [mixin/]: Reference map 'mixins.chest_with_legs.refmap.json' for mixins.chest_with_legs.json could not be read. If this is a development environment you can ignore this message
+[20Jan2025 00:17:50.259] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[20Jan2025 00:17:50.852] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (11.14 s after launch)
+[20Jan2025 00:17:51.004] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[20Jan2025 00:17:51.005] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[20Jan2025 00:17:51.358] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=1 on crittersandcompanions.mixins.json:LivingEntityMixin::handler$zom000$onDie exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[20Jan2025 00:17:52.426] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 1570 milliseconds
+[20Jan2025 00:17:54.926] [main/WARN] [mixin/]: @ModifyConstant conflict. Skipping yungsapi_forge.mixins.json:IncreaseStructureWeightLimitMixinForge->@ModifyConstant::yungsapi_increaseWeightLimit(I)I with priority 1000, already redirected by dungeonnowloading.forge.mixins.json:forge.structures.StructurePoolMixin->@ModifyConstant::dungeonnowloading_increaseWeightLimit(I)I with priority 1000
+[20Jan2025 00:17:55.010] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[20Jan2025 00:17:55.527] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
+[20Jan2025 00:17:55.572] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for visualworkbench:main
+[20Jan2025 00:17:55.813] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
+[20Jan2025 00:17:55.844] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Successfully loaded the Modding Legacy supporters list.
+[20Jan2025 00:17:55.862] [modloading-worker-0/INFO] [Dungeon Now Loading/]: Hello Forge world!
+[20Jan2025 00:17:55.966] [modloading-worker-0/INFO] [Railways/]: Steam 'n' Rails v1.6.7 initializing! Commit hash: 0a7cc000d6c7a1419919bc3e315bc62932287eb9 on Create version: 0.5.1j on platform: Forge
+[20Jan2025 00:17:55.974] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[20Jan2025 00:17:55.974] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[20Jan2025 00:17:57.440] [ForkJoinPool.commonPool-worker-1/INFO] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: [Paladin's Furniture Update Check] Is up to date!
+[20Jan2025 00:17:57.722] [modloading-worker-0/INFO] [Railways/]: Registered bogey styles from railways
+[20Jan2025 00:17:57.837] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[20Jan2025 00:17:58.114] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[20Jan2025 00:17:58.139] [modloading-worker-0/INFO] [Railways/]: Registering data fixers
+[20Jan2025 00:17:58.181] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for enchantinginfuser:main
+[20Jan2025 00:17:58.289] [modloading-worker-0/INFO] [ModernFix/]: Bypassed Mojang DFU
+[20Jan2025 00:17:58.290] [modloading-worker-0/INFO] [ModernFix/]: Instantiating Mojang DFU
+[20Jan2025 00:17:58.930] [modloading-worker-0/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 0 Datafixer optimizations took 0 milliseconds
+[20Jan2025 00:17:58.936] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Hex Casting
+[20Jan2025 00:17:58.937] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Oh The Biomes You'll Go
+[20Jan2025 00:17:58.938] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Blue Skies
+[20Jan2025 00:17:58.954] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Twilight Forest
+[20Jan2025 00:17:58.954] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Biomes O' Plenty
+[20Jan2025 00:17:58.963] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Nature's Spirit
+[20Jan2025 00:17:58.964] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Dreams and Desires
+[20Jan2025 00:17:58.964] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Quark
+[20Jan2025 00:17:58.965] [modloading-worker-0/INFO] [Railways/]: Registering tracks for TerraFirmaCraft
+[20Jan2025 00:18:01.028] [main/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Found block type with duplicate id (minecraft:oak), skipping
+[20Jan2025 00:18:02.524] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[20Jan2025 00:18:02.537] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[20Jan2025 00:18:02.540] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[20Jan2025 00:18:02.541] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[20Jan2025 00:18:02.669] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[20Jan2025 00:18:02.693] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:02.693] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:02.694] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:02.694] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:02.695] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:02.695] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:02.695] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:02.696] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[20Jan2025 00:18:02.697] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:02.698] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:02.698] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:02.698] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:02.699] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:02.699] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:02.699] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:02.700] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:02.700] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:02.700] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:02.701] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:02.701] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[20Jan2025 00:18:02.702] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:02.705] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:02.706] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[20Jan2025 00:18:02.706] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:02.706] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[20Jan2025 00:18:02.707] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[20Jan2025 00:18:02.707] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:02.707] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:02.708] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:02.708] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:02.708] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:02.710] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:02.714] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:02.714] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:02.716] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:02.716] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:02.716] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:02.717] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.GrimReaperEntity from class forge.net.mca.util.network.datasync.CEnumParameter
+[20Jan2025 00:18:03.046] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/Babosos/servidor_minecraft/config/storagedrawers-common.toml is not correct. Correcting
+[20Jan2025 00:18:03.047] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General was corrected from null to its default, SimpleCommentedConfig:{}. 
+[20Jan2025 00:18:03.047] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.baseStackStorage was corrected from null to its default, 4. 
+[20Jan2025 00:18:03.047] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.controllerRange was corrected from null to its default, 50. 
+[20Jan2025 00:18:03.047] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.enableAnalogRedstone was corrected from null to its default, false. 
+[20Jan2025 00:18:03.048] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.enableUI was corrected from null to its default, true. 
+[20Jan2025 00:18:03.048] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.enableSidedInput was corrected from null to its default, true. 
+[20Jan2025 00:18:03.048] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.enableSidedOutput was corrected from null to its default, true. 
+[20Jan2025 00:18:03.048] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.enableExtraCompactingRules was corrected from null to its default, true. 
+[20Jan2025 00:18:03.048] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.enableDetachedDrawers was corrected from null to its default, true. 
+[20Jan2025 00:18:03.048] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.forceDetachedDrawersMaxCapacityCheck was corrected from null to its default, false. 
+[20Jan2025 00:18:03.049] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.debugTrace was corrected from null to its default, false. 
+[20Jan2025 00:18:03.049] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.compactingRules was corrected from null to its default, [minecraft:clay, minecraft:clay_ball, 4]. 
+[20Jan2025 00:18:03.049] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.heavyDrawers was corrected from null to its default, false. 
+[20Jan2025 00:18:03.049] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.enablePersonalKey was corrected from null to its default, true. 
+[20Jan2025 00:18:03.050] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key StorageUpgrades was corrected from null to its default, SimpleCommentedConfig:{}. 
+[20Jan2025 00:18:03.050] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key StorageUpgrades.level1Mult was corrected from null to its default, 2. 
+[20Jan2025 00:18:03.050] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key StorageUpgrades.level2Mult was corrected from null to its default, 4. 
+[20Jan2025 00:18:03.050] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key StorageUpgrades.level3Mult was corrected from null to its default, 8. 
+[20Jan2025 00:18:03.050] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key StorageUpgrades.level4Mult was corrected from null to its default, 16. 
+[20Jan2025 00:18:03.050] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key StorageUpgrades.level5Mult was corrected from null to its default, 32. 
+[20Jan2025 00:18:03.050] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key StorageUpgrades.enableStorageUpgrade was corrected from null to its default, true. 
+[20Jan2025 00:18:03.051] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key StorageUpgrades.enableFillLevelUpgrade was corrected from null to its default, true. 
+[20Jan2025 00:18:03.051] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key StorageUpgrades.enableRedstoneUpgrade was corrected from null to its default, true. 
+[20Jan2025 00:18:03.051] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key StorageUpgrades.enableIlluminationUpgrade was corrected from null to its default, true. 
+[20Jan2025 00:18:03.051] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key StorageUpgrades.enableVoidUpgrade was corrected from null to its default, true. 
+[20Jan2025 00:18:03.051] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key StorageUpgrades.enableBalanceUpgrade was corrected from null to its default, true. 
+[20Jan2025 00:18:03.051] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key StorageUpgrades.enablePortabilityUpgrade was corrected from null to its default, true. 
+[20Jan2025 00:18:03.052] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key StorageUpgrades.enableRemoteUpgrade was corrected from null to its default, true. 
+[20Jan2025 00:18:03.052] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key StorageUpgrades.enableRemoteGroupUpgrade was corrected from null to its default, true. 
+[20Jan2025 00:18:03.052] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Conversion was corrected from null to its default, SimpleCommentedConfig:{}. 
+[20Jan2025 00:18:03.052] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Conversion.oreTypeWhitelist was corrected from null to its default, [forge:storage_blocks, forge:ingots, forge:nuggets]. 
+[20Jan2025 00:18:03.053] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Conversion.oreMaterialWhitelist was corrected from null to its default, [aluminum, constantan, steel, uranium, invar, tin, lead, silver, platinum, nickel, osmium, bronze, electrum]. 
+[20Jan2025 00:18:03.053] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Conversion.tagWhitelist was corrected from null to its default, []. 
+[20Jan2025 00:18:03.053] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Conversion.tagBlacklist was corrected from null to its default, []. 
+[20Jan2025 00:18:03.053] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Conversion.itemEquivalenceGroups was corrected from null to its default, []. 
+[20Jan2025 00:18:03.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Integration was corrected from null to its default, SimpleCommentedConfig:{}. 
+[20Jan2025 00:18:03.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Integration.enableCoFHIntegration was corrected from null to its default, true. 
+[20Jan2025 00:18:03.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Integration.wailaStackRemainder was corrected from null to its default, true. 
+[20Jan2025 00:18:03.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Integration.wailaRespectQuantifyKey was corrected from null to its default, false. 
+[20Jan2025 00:18:03.235] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[20Jan2025 00:18:03.256] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Starting version check at http://changelogs.moddinglegacy.com/blue-skies.json
+[20Jan2025 00:18:03.300] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[20Jan2025 00:18:03.303] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
+[20Jan2025 00:18:03.304] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
+[20Jan2025 00:18:03.307] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
+[20Jan2025 00:18:03.307] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
+[20Jan2025 00:18:03.307] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
+[20Jan2025 00:18:03.308] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
+[20Jan2025 00:18:03.308] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
+[20Jan2025 00:18:03.308] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
+[20Jan2025 00:18:03.308] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
+[20Jan2025 00:18:03.351] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[20Jan2025 00:18:03.389] [modloading-worker-0/INFO] [harmonised.pmmo.util.MsLoggy/]: Messages Registered
+[20Jan2025 00:18:03.488] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[20Jan2025 00:18:03.488] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[20Jan2025 00:18:03.488] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[20Jan2025 00:18:03.489] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[20Jan2025 00:18:03.489] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[20Jan2025 00:18:03.490] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[20Jan2025 00:18:03.491] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[20Jan2025 00:18:03.580] [main/INFO] [crust/configs/]: First-time loading config file config/Crust/default_game_rules.toml
+[20Jan2025 00:18:03.584] [main/INFO] [crust/configs/]: Started watching config file config/Crust/default_game_rules.toml for updates
+[20Jan2025 00:18:03.584] [main/INFO] [crust/configs/]: First-time loading config file config/Crust/modes.toml
+[20Jan2025 00:18:03.586] [main/INFO] [crust/configs/]: Started watching config file config/Crust/modes.toml for updates
+[20Jan2025 00:18:03.593] [main/INFO] [crust/]: Found Crust plugin at fathertoast.crust.common.api.impl.InternalCrustPlugin with plugin ID: crust:builtin_plugin
+[20Jan2025 00:18:03.672] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[20Jan2025 00:18:03.673] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[20Jan2025 00:18:03.697] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[20Jan2025 00:18:03.697] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[20Jan2025 00:18:03.726] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Found status: BETA Current: 1.3.31 Target: null
+[20Jan2025 00:18:03.726] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/visualworkbench.json
+[20Jan2025 00:18:03.771] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Found status: UP_TO_DATE Current: 8.0.0 Target: null
+[20Jan2025 00:18:03.771] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[20Jan2025 00:18:03.787] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[20Jan2025 00:18:03.787] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[20Jan2025 00:18:03.877] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[20Jan2025 00:18:03.940] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
+[20Jan2025 00:18:03.940] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ctov] Starting version check at https://api.modrinth.com/updates/fgmhI8kH/forge_updates.json
+[20Jan2025 00:18:04.015] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[20Jan2025 00:18:04.035] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[20Jan2025 00:18:04.040] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[20Jan2025 00:18:04.041] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.jaquadro.minecraft.storagedrawers.integration.Waila
+[20Jan2025 00:18:04.042] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[20Jan2025 00:18:04.170] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ctov] Found status: UP_TO_DATE Current: 3.4.11 Target: null
+[20Jan2025 00:18:04.170] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[20Jan2025 00:18:04.311] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[20Jan2025 00:18:04.312] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Starting version check at https://raw.githubusercontent.com/Ametrin-Studios/DungeonsEnhanced/refs/heads/master/update.json
+[20Jan2025 00:18:04.456] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Found status: UP_TO_DATE Current: 5.3.0 Target: null
+[20Jan2025 00:18:04.457] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tidal_towns] Starting version check at https://api.modrinth.com/updates/EEIwvQVo/forge_updates.json
+[20Jan2025 00:18:04.565] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tidal_towns] Found status: OUTDATED Current: 1.3.4 Target: 1.3.4+mod
+[20Jan2025 00:18:04.565] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[20Jan2025 00:18:04.707] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20Jan2025 00:18:04.778] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[20Jan2025 00:18:04.779] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[20Jan2025 00:18:04.966] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:oak_full_drawers_1 Expected: 3229 Got: 6905
+[20Jan2025 00:18:04.966] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:oak_full_drawers_2 Expected: 3230 Got: 6906
+[20Jan2025 00:18:04.967] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:oak_full_drawers_4 Expected: 3231 Got: 6907
+[20Jan2025 00:18:04.967] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:oak_half_drawers_1 Expected: 3232 Got: 6908
+[20Jan2025 00:18:04.968] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:oak_half_drawers_2 Expected: 3233 Got: 6909
+[20Jan2025 00:18:04.968] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:oak_half_drawers_4 Expected: 3234 Got: 6910
+[20Jan2025 00:18:04.968] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:spruce_full_drawers_1 Expected: 3235 Got: 6911
+[20Jan2025 00:18:04.969] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:spruce_full_drawers_2 Expected: 3236 Got: 6912
+[20Jan2025 00:18:04.969] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:spruce_full_drawers_4 Expected: 3237 Got: 6913
+[20Jan2025 00:18:04.969] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:spruce_half_drawers_1 Expected: 3238 Got: 6914
+[20Jan2025 00:18:04.970] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:spruce_half_drawers_2 Expected: 3239 Got: 6915
+[20Jan2025 00:18:04.970] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:spruce_half_drawers_4 Expected: 3240 Got: 6916
+[20Jan2025 00:18:04.970] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:birch_full_drawers_1 Expected: 3241 Got: 6917
+[20Jan2025 00:18:04.971] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:birch_full_drawers_2 Expected: 3242 Got: 6918
+[20Jan2025 00:18:04.971] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:birch_full_drawers_4 Expected: 3243 Got: 6919
+[20Jan2025 00:18:04.971] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:birch_half_drawers_1 Expected: 3244 Got: 6920
+[20Jan2025 00:18:04.972] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:birch_half_drawers_2 Expected: 3245 Got: 6921
+[20Jan2025 00:18:04.972] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:birch_half_drawers_4 Expected: 3246 Got: 6922
+[20Jan2025 00:18:04.972] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:jungle_full_drawers_1 Expected: 3247 Got: 6923
+[20Jan2025 00:18:04.972] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:jungle_full_drawers_2 Expected: 3248 Got: 6924
+[20Jan2025 00:18:04.973] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:jungle_full_drawers_4 Expected: 3249 Got: 6925
+[20Jan2025 00:18:04.973] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:jungle_half_drawers_1 Expected: 3250 Got: 6926
+[20Jan2025 00:18:04.973] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:jungle_half_drawers_2 Expected: 3251 Got: 6927
+[20Jan2025 00:18:04.974] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:jungle_half_drawers_4 Expected: 3252 Got: 6928
+[20Jan2025 00:18:04.974] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:acacia_full_drawers_1 Expected: 3253 Got: 6929
+[20Jan2025 00:18:04.974] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:acacia_full_drawers_2 Expected: 3254 Got: 6930
+[20Jan2025 00:18:04.975] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:acacia_full_drawers_4 Expected: 3255 Got: 6931
+[20Jan2025 00:18:04.975] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:acacia_half_drawers_1 Expected: 3256 Got: 6932
+[20Jan2025 00:18:04.975] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:acacia_half_drawers_2 Expected: 3257 Got: 6933
+[20Jan2025 00:18:04.975] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:acacia_half_drawers_4 Expected: 3258 Got: 6934
+[20Jan2025 00:18:04.976] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:dark_oak_full_drawers_1 Expected: 3259 Got: 6935
+[20Jan2025 00:18:04.976] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:dark_oak_full_drawers_2 Expected: 3260 Got: 6936
+[20Jan2025 00:18:04.976] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:dark_oak_full_drawers_4 Expected: 3261 Got: 6937
+[20Jan2025 00:18:04.977] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:dark_oak_half_drawers_1 Expected: 3262 Got: 6938
+[20Jan2025 00:18:04.977] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:dark_oak_half_drawers_2 Expected: 3263 Got: 6939
+[20Jan2025 00:18:04.977] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:dark_oak_half_drawers_4 Expected: 3264 Got: 6940
+[20Jan2025 00:18:04.978] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:mangrove_full_drawers_1 Expected: 3265 Got: 6941
+[20Jan2025 00:18:04.978] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:mangrove_full_drawers_2 Expected: 3266 Got: 6942
+[20Jan2025 00:18:04.978] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:mangrove_full_drawers_4 Expected: 3267 Got: 6943
+[20Jan2025 00:18:04.979] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:mangrove_half_drawers_1 Expected: 3268 Got: 6944
+[20Jan2025 00:18:04.979] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:mangrove_half_drawers_2 Expected: 3269 Got: 6945
+[20Jan2025 00:18:04.979] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:mangrove_half_drawers_4 Expected: 3270 Got: 6946
+[20Jan2025 00:18:04.979] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:cherry_full_drawers_1 Expected: 3271 Got: 6947
+[20Jan2025 00:18:04.980] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:cherry_full_drawers_2 Expected: 3272 Got: 6948
+[20Jan2025 00:18:04.980] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:cherry_full_drawers_4 Expected: 3273 Got: 6949
+[20Jan2025 00:18:04.980] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:cherry_half_drawers_1 Expected: 3274 Got: 6950
+[20Jan2025 00:18:04.980] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:cherry_half_drawers_2 Expected: 3275 Got: 6951
+[20Jan2025 00:18:04.981] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:cherry_half_drawers_4 Expected: 3276 Got: 6952
+[20Jan2025 00:18:04.981] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:bamboo_full_drawers_1 Expected: 3277 Got: 6953
+[20Jan2025 00:18:04.981] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:bamboo_full_drawers_2 Expected: 3278 Got: 6954
+[20Jan2025 00:18:04.981] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:bamboo_full_drawers_4 Expected: 3279 Got: 6955
+[20Jan2025 00:18:04.982] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:bamboo_half_drawers_1 Expected: 3280 Got: 6956
+[20Jan2025 00:18:04.982] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:bamboo_half_drawers_2 Expected: 3281 Got: 6957
+[20Jan2025 00:18:04.982] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:bamboo_half_drawers_4 Expected: 3282 Got: 6958
+[20Jan2025 00:18:04.982] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:crimson_full_drawers_1 Expected: 3283 Got: 6959
+[20Jan2025 00:18:04.983] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:crimson_full_drawers_2 Expected: 3284 Got: 6960
+[20Jan2025 00:18:04.983] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:crimson_full_drawers_4 Expected: 3285 Got: 6961
+[20Jan2025 00:18:04.983] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:crimson_half_drawers_1 Expected: 3286 Got: 6962
+[20Jan2025 00:18:04.984] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:crimson_half_drawers_2 Expected: 3287 Got: 6963
+[20Jan2025 00:18:04.984] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:crimson_half_drawers_4 Expected: 3288 Got: 6964
+[20Jan2025 00:18:04.984] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:warped_full_drawers_1 Expected: 3289 Got: 6965
+[20Jan2025 00:18:04.984] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:warped_full_drawers_2 Expected: 3290 Got: 6966
+[20Jan2025 00:18:04.985] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:warped_full_drawers_4 Expected: 3291 Got: 6967
+[20Jan2025 00:18:04.985] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:warped_half_drawers_1 Expected: 3292 Got: 6968
+[20Jan2025 00:18:04.985] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:warped_half_drawers_2 Expected: 3293 Got: 6969
+[20Jan2025 00:18:04.985] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:warped_half_drawers_4 Expected: 3294 Got: 6970
+[20Jan2025 00:18:04.986] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:framed_full_drawers_1 Expected: 3295 Got: 6971
+[20Jan2025 00:18:04.986] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:framed_full_drawers_2 Expected: 3296 Got: 6972
+[20Jan2025 00:18:04.986] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:framed_full_drawers_4 Expected: 3297 Got: 6973
+[20Jan2025 00:18:04.986] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:framed_half_drawers_1 Expected: 3298 Got: 6974
+[20Jan2025 00:18:04.987] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:framed_half_drawers_2 Expected: 3299 Got: 6975
+[20Jan2025 00:18:04.987] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:framed_half_drawers_4 Expected: 3300 Got: 6976
+[20Jan2025 00:18:04.987] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:compacting_drawers_2 Expected: 3301 Got: 6977
+[20Jan2025 00:18:04.987] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:compacting_drawers_3 Expected: 3302 Got: 6978
+[20Jan2025 00:18:04.988] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:compacting_half_drawers_2 Expected: 3303 Got: 6979
+[20Jan2025 00:18:04.988] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:compacting_half_drawers_3 Expected: 3304 Got: 6980
+[20Jan2025 00:18:04.988] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:framed_compacting_drawers_2 Expected: 3305 Got: 6981
+[20Jan2025 00:18:04.988] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:framed_compacting_drawers_3 Expected: 3306 Got: 6982
+[20Jan2025 00:18:04.989] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:framed_compacting_half_drawers_2 Expected: 3307 Got: 6983
+[20Jan2025 00:18:04.989] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:framed_compacting_half_drawers_3 Expected: 3308 Got: 6984
+[20Jan2025 00:18:04.989] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:oak_trim Expected: 3309 Got: 6985
+[20Jan2025 00:18:04.989] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:spruce_trim Expected: 3310 Got: 6986
+[20Jan2025 00:18:04.990] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:birch_trim Expected: 3311 Got: 6987
+[20Jan2025 00:18:04.990] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:jungle_trim Expected: 3312 Got: 6988
+[20Jan2025 00:18:04.990] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:acacia_trim Expected: 3313 Got: 6989
+[20Jan2025 00:18:04.990] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:dark_oak_trim Expected: 3314 Got: 6990
+[20Jan2025 00:18:04.991] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:mangrove_trim Expected: 3315 Got: 6991
+[20Jan2025 00:18:04.991] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:cherry_trim Expected: 3316 Got: 6992
+[20Jan2025 00:18:04.991] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:bamboo_trim Expected: 3317 Got: 6993
+[20Jan2025 00:18:04.991] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:crimson_trim Expected: 3318 Got: 6994
+[20Jan2025 00:18:04.992] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:warped_trim Expected: 3319 Got: 6995
+[20Jan2025 00:18:04.992] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:framed_trim Expected: 3320 Got: 6996
+[20Jan2025 00:18:04.992] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:controller Expected: 3321 Got: 6997
+[20Jan2025 00:18:04.992] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:controller_slave Expected: 3322 Got: 6998
+[20Jan2025 00:18:04.993] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:framed_controller Expected: 3323 Got: 6999
+[20Jan2025 00:18:04.993] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:framed_controller_io Expected: 3324 Got: 7000
+[20Jan2025 00:18:04.993] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:framing_table Expected: 3325 Got: 7001
+[20Jan2025 00:18:04.993] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:meta_locked Expected: 3326 Got: 7002
+[20Jan2025 00:18:04.994] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:meta_claimed Expected: 3327 Got: 7003
+[20Jan2025 00:18:04.994] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:meta_locked_claimed Expected: 3328 Got: 7004
+[20Jan2025 00:18:04.994] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:meta_void Expected: 3329 Got: 7005
+[20Jan2025 00:18:04.994] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:meta_shroud Expected: 3330 Got: 7006
+[20Jan2025 00:18:04.995] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:meta_indicator Expected: 3331 Got: 7007
+[20Jan2025 00:18:04.995] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:meta_comp_indicator Expected: 3332 Got: 7008
+[20Jan2025 00:18:04.995] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:meta_priority_p1 Expected: 3333 Got: 7009
+[20Jan2025 00:18:04.995] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:meta_priority_p2 Expected: 3334 Got: 7010
+[20Jan2025 00:18:04.996] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:meta_priority_n1 Expected: 3335 Got: 7011
+[20Jan2025 00:18:04.996] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:meta_priority_n2 Expected: 3336 Got: 7012
+[20Jan2025 00:18:04.996] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:meta_missing_slot_1_1 Expected: 3337 Got: 7013
+[20Jan2025 00:18:04.996] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:meta_missing_slot_2_1 Expected: 3338 Got: 7014
+[20Jan2025 00:18:04.996] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:meta_missing_slot_2_2 Expected: 3339 Got: 7015
+[20Jan2025 00:18:04.997] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:meta_missing_slot_4_1 Expected: 3340 Got: 7016
+[20Jan2025 00:18:04.997] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:meta_missing_slot_4_2 Expected: 3341 Got: 7017
+[20Jan2025 00:18:04.997] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:meta_missing_slot_4_3 Expected: 3342 Got: 7018
+[20Jan2025 00:18:04.998] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:meta_missing_slot_4_4 Expected: 3343 Got: 7019
+[20Jan2025 00:18:04.998] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:meta_framed_drawers_side Expected: 3344 Got: 7020
+[20Jan2025 00:18:04.998] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:meta_framed_drawers_trim Expected: 3345 Got: 7021
+[20Jan2025 00:18:04.998] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:meta_framed_drawers_front Expected: 3346 Got: 7022
+[20Jan2025 00:18:04.999] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:meta_framed_drawers_shading Expected: 3347 Got: 7023
+[20Jan2025 00:18:04.999] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:meta_framed_trim_side Expected: 3348 Got: 7024
+[20Jan2025 00:18:04.999] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:meta_framed_trim_trim Expected: 3349 Got: 7025
+[20Jan2025 00:18:05.000] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:meta_framed_controller_side Expected: 3350 Got: 7026
+[20Jan2025 00:18:05.000] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:meta_framed_controller_trim Expected: 3351 Got: 7027
+[20Jan2025 00:18:05.000] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:meta_framed_controller_front Expected: 3352 Got: 7028
+[20Jan2025 00:18:05.000] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:meta_framed_controller_shading Expected: 3353 Got: 7029
+[20Jan2025 00:18:05.001] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:meta_framed_controller_io_side Expected: 3354 Got: 7030
+[20Jan2025 00:18:05.001] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:meta_framed_controller_io_trim Expected: 3355 Got: 7031
+[20Jan2025 00:18:05.001] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:meta_framed_controller_io_shading Expected: 3356 Got: 7032
+[20Jan2025 00:18:05.002] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:meta_framed_compdrawers_2_side Expected: 3357 Got: 7033
+[20Jan2025 00:18:05.002] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:meta_framed_compdrawers_2_trim Expected: 3358 Got: 7034
+[20Jan2025 00:18:05.002] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:meta_framed_compdrawers_2_front Expected: 3359 Got: 7035
+[20Jan2025 00:18:05.002] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:meta_framed_compdrawers_2_shading Expected: 3360 Got: 7036
+[20Jan2025 00:18:05.003] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:meta_framed_compdrawers_3_side Expected: 3361 Got: 7037
+[20Jan2025 00:18:05.003] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:meta_framed_compdrawers_3_trim Expected: 3362 Got: 7038
+[20Jan2025 00:18:05.003] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:meta_framed_compdrawers_3_front Expected: 3363 Got: 7039
+[20Jan2025 00:18:05.003] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:meta_framed_compdrawers_3_shading Expected: 3364 Got: 7040
+[20Jan2025 00:18:05.004] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:keybutton_drawer Expected: 3365 Got: 7041
+[20Jan2025 00:18:05.004] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:keybutton_quantify Expected: 3366 Got: 7042
+[20Jan2025 00:18:05.004] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: storagedrawers:keybutton_concealment Expected: 3367 Got: 7043
+[20Jan2025 00:18:05.005] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: enchantinginfuser:enchanting_infuser Expected: 3447 Got: 7044
+[20Jan2025 00:18:05.005] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: enchantinginfuser:advanced_enchanting_infuser Expected: 3448 Got: 7045
+[20Jan2025 00:18:05.009] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:obsidian_storage_upgrade Expected: 8160 Got: 8697
+[20Jan2025 00:18:05.009] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:iron_storage_upgrade Expected: 8161 Got: 8698
+[20Jan2025 00:18:05.009] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:gold_storage_upgrade Expected: 8162 Got: 8699
+[20Jan2025 00:18:05.010] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:diamond_storage_upgrade Expected: 8163 Got: 8700
+[20Jan2025 00:18:05.010] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:emerald_storage_upgrade Expected: 8164 Got: 8701
+[20Jan2025 00:18:05.010] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:one_stack_upgrade Expected: 8165 Got: 8702
+[20Jan2025 00:18:05.010] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:void_upgrade Expected: 8166 Got: 8703
+[20Jan2025 00:18:05.011] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:creative_storage_upgrade Expected: 8167 Got: 8704
+[20Jan2025 00:18:05.011] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:creative_vending_upgrade Expected: 8168 Got: 8705
+[20Jan2025 00:18:05.011] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:conversion_upgrade Expected: 8169 Got: 8706
+[20Jan2025 00:18:05.012] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:redstone_upgrade Expected: 8170 Got: 8707
+[20Jan2025 00:18:05.012] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:min_redstone_upgrade Expected: 8171 Got: 8708
+[20Jan2025 00:18:05.012] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:max_redstone_upgrade Expected: 8172 Got: 8709
+[20Jan2025 00:18:05.012] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:illumination_upgrade Expected: 8173 Got: 8710
+[20Jan2025 00:18:05.013] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:fill_level_upgrade Expected: 8174 Got: 8711
+[20Jan2025 00:18:05.013] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:balance_fill_upgrade Expected: 8175 Got: 8712
+[20Jan2025 00:18:05.013] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:portability_upgrade Expected: 8176 Got: 8713
+[20Jan2025 00:18:05.014] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:remote_upgrade Expected: 8177 Got: 8714
+[20Jan2025 00:18:05.014] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:remote_upgrade_bound Expected: 8178 Got: 8715
+[20Jan2025 00:18:05.014] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:remote_group_upgrade Expected: 8179 Got: 8716
+[20Jan2025 00:18:05.014] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:remote_group_upgrade_bound Expected: 8180 Got: 8717
+[20Jan2025 00:18:05.015] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:upgrade_template Expected: 8181 Got: 8718
+[20Jan2025 00:18:05.015] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:detached_drawer Expected: 8182 Got: 8719
+[20Jan2025 00:18:05.015] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:detached_drawer_full Expected: 8183 Got: 8720
+[20Jan2025 00:18:05.016] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:drawer_key Expected: 8184 Got: 8721
+[20Jan2025 00:18:05.016] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:quantify_key Expected: 8185 Got: 8722
+[20Jan2025 00:18:05.016] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:shroud_key Expected: 8186 Got: 8723
+[20Jan2025 00:18:05.016] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:personal_key Expected: 8187 Got: 8724
+[20Jan2025 00:18:05.017] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:personal_key_cofh Expected: 8188 Got: 8725
+[20Jan2025 00:18:05.017] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:priority_key Expected: 8189 Got: 8726
+[20Jan2025 00:18:05.017] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:priority_key_p1 Expected: 8190 Got: 8727
+[20Jan2025 00:18:05.017] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:priority_key_p2 Expected: 8191 Got: 8728
+[20Jan2025 00:18:05.018] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:priority_key_n1 Expected: 8192 Got: 8729
+[20Jan2025 00:18:05.018] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:priority_key_n2 Expected: 8193 Got: 8730
+[20Jan2025 00:18:05.018] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:drawer_puller Expected: 8194 Got: 8731
+[20Jan2025 00:18:05.018] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:keyring Expected: 8195 Got: 8732
+[20Jan2025 00:18:05.019] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:keyring_drawer Expected: 8196 Got: 8733
+[20Jan2025 00:18:05.019] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:keyring_quantify Expected: 8197 Got: 8734
+[20Jan2025 00:18:05.019] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:keyring_shroud Expected: 8198 Got: 8735
+[20Jan2025 00:18:05.019] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:keyring_personal Expected: 8199 Got: 8736
+[20Jan2025 00:18:05.020] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:keyring_personal_cofh Expected: 8200 Got: 8737
+[20Jan2025 00:18:05.020] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:keyring_priority Expected: 8201 Got: 8738
+[20Jan2025 00:18:05.020] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:keyring_priority_p1 Expected: 8202 Got: 8739
+[20Jan2025 00:18:05.021] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:keyring_priority_p2 Expected: 8203 Got: 8740
+[20Jan2025 00:18:05.021] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:keyring_priority_n1 Expected: 8204 Got: 8741
+[20Jan2025 00:18:05.021] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:keyring_priority_n2 Expected: 8205 Got: 8742
+[20Jan2025 00:18:05.021] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:keyring_puller Expected: 8206 Got: 8743
+[20Jan2025 00:18:05.022] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:oak_full_drawers_1 Expected: 8207 Got: 8744
+[20Jan2025 00:18:05.022] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:oak_full_drawers_2 Expected: 8208 Got: 8745
+[20Jan2025 00:18:05.022] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:oak_full_drawers_4 Expected: 8209 Got: 8746
+[20Jan2025 00:18:05.023] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:oak_half_drawers_1 Expected: 8210 Got: 8747
+[20Jan2025 00:18:05.023] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:oak_half_drawers_2 Expected: 8211 Got: 8748
+[20Jan2025 00:18:05.023] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:oak_half_drawers_4 Expected: 8212 Got: 8749
+[20Jan2025 00:18:05.023] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:spruce_full_drawers_1 Expected: 8213 Got: 8750
+[20Jan2025 00:18:05.024] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:spruce_full_drawers_2 Expected: 8214 Got: 8751
+[20Jan2025 00:18:05.024] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:spruce_full_drawers_4 Expected: 8215 Got: 8752
+[20Jan2025 00:18:05.024] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:spruce_half_drawers_1 Expected: 8216 Got: 8753
+[20Jan2025 00:18:05.025] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:spruce_half_drawers_2 Expected: 8217 Got: 8754
+[20Jan2025 00:18:05.025] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:spruce_half_drawers_4 Expected: 8218 Got: 8755
+[20Jan2025 00:18:05.025] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:birch_full_drawers_1 Expected: 8219 Got: 8756
+[20Jan2025 00:18:05.025] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:birch_full_drawers_2 Expected: 8220 Got: 8757
+[20Jan2025 00:18:05.026] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:birch_full_drawers_4 Expected: 8221 Got: 8758
+[20Jan2025 00:18:05.026] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:birch_half_drawers_1 Expected: 8222 Got: 8759
+[20Jan2025 00:18:05.026] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:birch_half_drawers_2 Expected: 8223 Got: 8760
+[20Jan2025 00:18:05.027] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:birch_half_drawers_4 Expected: 8224 Got: 8761
+[20Jan2025 00:18:05.027] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:jungle_full_drawers_1 Expected: 8225 Got: 8762
+[20Jan2025 00:18:05.027] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:jungle_full_drawers_2 Expected: 8226 Got: 8763
+[20Jan2025 00:18:05.028] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:jungle_full_drawers_4 Expected: 8227 Got: 8764
+[20Jan2025 00:18:05.028] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:jungle_half_drawers_1 Expected: 8228 Got: 8765
+[20Jan2025 00:18:05.028] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:jungle_half_drawers_2 Expected: 8229 Got: 8766
+[20Jan2025 00:18:05.028] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:jungle_half_drawers_4 Expected: 8230 Got: 8767
+[20Jan2025 00:18:05.029] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:acacia_full_drawers_1 Expected: 8231 Got: 8768
+[20Jan2025 00:18:05.029] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:acacia_full_drawers_2 Expected: 8232 Got: 8769
+[20Jan2025 00:18:05.029] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:acacia_full_drawers_4 Expected: 8233 Got: 8770
+[20Jan2025 00:18:05.030] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:acacia_half_drawers_1 Expected: 8234 Got: 8771
+[20Jan2025 00:18:05.030] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:acacia_half_drawers_2 Expected: 8235 Got: 8772
+[20Jan2025 00:18:05.030] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:acacia_half_drawers_4 Expected: 8236 Got: 8773
+[20Jan2025 00:18:05.030] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:dark_oak_full_drawers_1 Expected: 8237 Got: 8774
+[20Jan2025 00:18:05.031] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:dark_oak_full_drawers_2 Expected: 8238 Got: 8775
+[20Jan2025 00:18:05.031] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:dark_oak_full_drawers_4 Expected: 8239 Got: 8776
+[20Jan2025 00:18:05.031] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:dark_oak_half_drawers_1 Expected: 8240 Got: 8777
+[20Jan2025 00:18:05.032] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:dark_oak_half_drawers_2 Expected: 8241 Got: 8778
+[20Jan2025 00:18:05.032] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:dark_oak_half_drawers_4 Expected: 8242 Got: 8779
+[20Jan2025 00:18:05.032] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:mangrove_full_drawers_1 Expected: 8243 Got: 8780
+[20Jan2025 00:18:05.032] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:mangrove_full_drawers_2 Expected: 8244 Got: 8781
+[20Jan2025 00:18:05.033] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:mangrove_full_drawers_4 Expected: 8245 Got: 8782
+[20Jan2025 00:18:05.033] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:mangrove_half_drawers_1 Expected: 8246 Got: 8783
+[20Jan2025 00:18:05.033] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:mangrove_half_drawers_2 Expected: 8247 Got: 8784
+[20Jan2025 00:18:05.033] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:mangrove_half_drawers_4 Expected: 8248 Got: 8785
+[20Jan2025 00:18:05.034] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:cherry_full_drawers_1 Expected: 8249 Got: 8786
+[20Jan2025 00:18:05.034] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:cherry_full_drawers_2 Expected: 8250 Got: 8787
+[20Jan2025 00:18:05.034] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:cherry_full_drawers_4 Expected: 8251 Got: 8788
+[20Jan2025 00:18:05.035] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:cherry_half_drawers_1 Expected: 8252 Got: 8789
+[20Jan2025 00:18:05.035] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:cherry_half_drawers_2 Expected: 8253 Got: 8790
+[20Jan2025 00:18:05.035] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:cherry_half_drawers_4 Expected: 8254 Got: 8791
+[20Jan2025 00:18:05.035] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:bamboo_full_drawers_1 Expected: 8255 Got: 8792
+[20Jan2025 00:18:05.035] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:bamboo_full_drawers_2 Expected: 8256 Got: 8793
+[20Jan2025 00:18:05.036] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:bamboo_full_drawers_4 Expected: 8257 Got: 8794
+[20Jan2025 00:18:05.036] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:bamboo_half_drawers_1 Expected: 8258 Got: 8795
+[20Jan2025 00:18:05.036] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:bamboo_half_drawers_2 Expected: 8259 Got: 8796
+[20Jan2025 00:18:05.036] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:bamboo_half_drawers_4 Expected: 8260 Got: 8797
+[20Jan2025 00:18:05.037] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:crimson_full_drawers_1 Expected: 8261 Got: 8798
+[20Jan2025 00:18:05.037] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:crimson_full_drawers_2 Expected: 8262 Got: 8799
+[20Jan2025 00:18:05.037] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:crimson_full_drawers_4 Expected: 8263 Got: 8800
+[20Jan2025 00:18:05.037] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:crimson_half_drawers_1 Expected: 8264 Got: 8801
+[20Jan2025 00:18:05.038] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:crimson_half_drawers_2 Expected: 8265 Got: 8802
+[20Jan2025 00:18:05.038] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:crimson_half_drawers_4 Expected: 8266 Got: 8803
+[20Jan2025 00:18:05.038] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:warped_full_drawers_1 Expected: 8267 Got: 8804
+[20Jan2025 00:18:05.038] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:warped_full_drawers_2 Expected: 8268 Got: 8805
+[20Jan2025 00:18:05.039] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:warped_full_drawers_4 Expected: 8269 Got: 8806
+[20Jan2025 00:18:05.039] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:warped_half_drawers_1 Expected: 8270 Got: 8807
+[20Jan2025 00:18:05.039] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:warped_half_drawers_2 Expected: 8271 Got: 8808
+[20Jan2025 00:18:05.039] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:warped_half_drawers_4 Expected: 8272 Got: 8809
+[20Jan2025 00:18:05.040] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:framed_full_drawers_1 Expected: 8273 Got: 8810
+[20Jan2025 00:18:05.040] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:framed_full_drawers_2 Expected: 8274 Got: 8811
+[20Jan2025 00:18:05.040] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:framed_full_drawers_4 Expected: 8275 Got: 8812
+[20Jan2025 00:18:05.040] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:framed_half_drawers_1 Expected: 8276 Got: 8813
+[20Jan2025 00:18:05.041] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:framed_half_drawers_2 Expected: 8277 Got: 8814
+[20Jan2025 00:18:05.041] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:framed_half_drawers_4 Expected: 8278 Got: 8815
+[20Jan2025 00:18:05.041] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:compacting_drawers_2 Expected: 8279 Got: 8816
+[20Jan2025 00:18:05.041] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:compacting_drawers_3 Expected: 8280 Got: 8817
+[20Jan2025 00:18:05.042] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:compacting_half_drawers_2 Expected: 8281 Got: 8818
+[20Jan2025 00:18:05.042] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:compacting_half_drawers_3 Expected: 8282 Got: 8819
+[20Jan2025 00:18:05.042] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:framed_compacting_drawers_2 Expected: 8283 Got: 8820
+[20Jan2025 00:18:05.043] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:framed_compacting_drawers_3 Expected: 8284 Got: 8821
+[20Jan2025 00:18:05.043] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:framed_compacting_half_drawers_2 Expected: 8285 Got: 8822
+[20Jan2025 00:18:05.043] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:framed_compacting_half_drawers_3 Expected: 8286 Got: 8823
+[20Jan2025 00:18:05.043] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:oak_trim Expected: 8287 Got: 8824
+[20Jan2025 00:18:05.043] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:spruce_trim Expected: 8288 Got: 8825
+[20Jan2025 00:18:05.044] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:birch_trim Expected: 8289 Got: 8826
+[20Jan2025 00:18:05.044] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:jungle_trim Expected: 8290 Got: 8827
+[20Jan2025 00:18:05.044] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:acacia_trim Expected: 8291 Got: 8828
+[20Jan2025 00:18:05.044] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:dark_oak_trim Expected: 8292 Got: 8829
+[20Jan2025 00:18:05.045] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:mangrove_trim Expected: 8293 Got: 8830
+[20Jan2025 00:18:05.045] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:cherry_trim Expected: 8294 Got: 8831
+[20Jan2025 00:18:05.045] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:bamboo_trim Expected: 8295 Got: 8832
+[20Jan2025 00:18:05.045] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:crimson_trim Expected: 8296 Got: 8833
+[20Jan2025 00:18:05.046] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:warped_trim Expected: 8297 Got: 8834
+[20Jan2025 00:18:05.046] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:framed_trim Expected: 8298 Got: 8835
+[20Jan2025 00:18:05.046] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:controller Expected: 8299 Got: 8836
+[20Jan2025 00:18:05.047] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:controller_slave Expected: 8300 Got: 8837
+[20Jan2025 00:18:05.047] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:framed_controller Expected: 8301 Got: 8838
+[20Jan2025 00:18:05.047] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:framed_controller_io Expected: 8302 Got: 8839
+[20Jan2025 00:18:05.047] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:framing_table Expected: 8303 Got: 8840
+[20Jan2025 00:18:05.048] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:keybutton_drawer Expected: 8304 Got: 8841
+[20Jan2025 00:18:05.048] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:keybutton_quantify Expected: 8305 Got: 8842
+[20Jan2025 00:18:05.048] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: storagedrawers:keybutton_concealment Expected: 8306 Got: 8843
+[20Jan2025 00:18:05.078] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
+[20Jan2025 00:18:05.078] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crittersandcompanions] Starting version check at https://api.modrinth.com/updates/critters-and-companions/forge_updates.json
+[20Jan2025 00:18:05.243] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crittersandcompanions] Found status: UP_TO_DATE Current: 2.2.2 Target: null
+[20Jan2025 00:18:05.244] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[20Jan2025 00:18:05.256] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Babosos/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23245!/assets/.mcassetsroot' uses unexpected schema
+[20Jan2025 00:18:05.257] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Babosos/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23245!/data/.mcassetsroot' uses unexpected schema
+[20Jan2025 00:18:05.259] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
+[20Jan2025 00:18:05.259] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[20Jan2025 00:18:05.278] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.0 Target: null
+[20Jan2025 00:18:05.278] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Starting version check at https://api.modrinth.com/updates/rubidium-extra/forge_updates.json
+[20Jan2025 00:18:05.436] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Found status: OUTDATED Current: 0.5.4.3+mc1.20.1-build.121 Target: 0.5.4.4+mc1.20.1-build.131
+[20Jan2025 00:18:05.436] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[20Jan2025 00:18:05.541] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.25 Target: null
+[20Jan2025 00:18:05.542] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
+[20Jan2025 00:18:05.559] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: UP_TO_DATE Current: 8.0.3 Target: null
+[20Jan2025 00:18:06.742] [main/INFO] [PFM-DataGen/]: Starting PFM Data Generation
+[20Jan2025 00:18:10.059] [main/INFO] [PFM-DataGen/]: Data providers took: 2700 ms
+[20Jan2025 00:18:12.933] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.6.2 MC 1.20.1.jar)
+[20Jan2025 00:18:13.043] [Worker-Main-4/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag ctov:wares/cardboard_box as it is missing following references: wares:cardboard_box (from [forge]ctov-3.4.11.jar)
+[20Jan2025 00:18:13.047] [Worker-Main-4/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag ctov:wares/sealed_delivery_agreement as it is missing following references: wares:sealed_delivery_agreement (from [forge]ctov-3.4.11.jar)
+[20Jan2025 00:18:14.143] [Worker-Main-4/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:ctov:chests/village/village_forager
+com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
+	at net.minecraft.util.GsonHelper.m_13912_(GsonHelper.java:181) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at net.minecraft.world.level.storage.loot.entries.TagEntry$Serializer.m_7267_(TagEntry.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at net.minecraft.world.level.storage.loot.entries.TagEntry$Serializer.m_7267_(TagEntry.java:72) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23250!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23250!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[20Jan2025 00:18:14.581] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet: com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingot'
+[20Jan2025 00:18:14.665] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left: com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dripstone_brick'
+[20Jan2025 00:18:14.680] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal: com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_bone_meal'
+[20Jan2025 00:18:14.822] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:frontier_cap: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:mod_loaded'
+[20Jan2025 00:18:14.822] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:brewing'
+[20Jan2025 00:18:14.829] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:frontier_cap_alt: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:mod_loaded'
+[20Jan2025 00:18:14.875] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 26 recipes
+[20Jan2025 00:18:15.150] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 8900 advancements
+[20Jan2025 00:18:15.153] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 8 tool_handle_types
+[20Jan2025 00:18:15.154] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 37 snowcap_oven_freezing_recipes
+[20Jan2025 00:18:15.154] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 horizonite_forge_fuels
+[20Jan2025 00:18:15.155] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 12 snowcap_mushroom_freezing
+[20Jan2025 00:18:15.168] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 70 alchemy_recipes
+[20Jan2025 00:18:15.169] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 81 journal/entries
+[20Jan2025 00:18:15.170] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 3 journal/sections
+[20Jan2025 00:18:15.170] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 journal/requirements
+[20Jan2025 00:18:15.170] [main/INFO] [Dungeon Crawl/]: Loading data...
+[20Jan2025 00:18:15.464] [main/INFO] [Dungeon Crawl/]: Done.
+[20Jan2025 00:18:15.485] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[20Jan2025 00:18:15.491] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[20Jan2025 00:18:15.558] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
+[20Jan2025 00:18:15.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[20Jan2025 00:18:15.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[20Jan2025 00:18:15.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[20Jan2025 00:18:15.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[20Jan2025 00:18:16.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[20Jan2025 00:18:16.095] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[20Jan2025 00:18:16.163] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20Jan2025 00:18:16.164] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[20Jan2025 00:18:16.164] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20Jan2025 00:18:16.164] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[20Jan2025 00:18:16.217] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/Babosos/servidor_minecraft/config/enchantinginfuser-server.toml is not correct. Correcting
+[20Jan2025 00:18:16.218] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key advanced_infuser was corrected from null to its default, SimpleCommentedConfig:{}. 
+[20Jan2025 00:18:16.219] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key advanced_infuser.allow_repairing was corrected from null to its default, TOOLS_AND_ARMOR. 
+[20Jan2025 00:18:16.219] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key advanced_infuser.types was corrected from null to its default, SimpleCommentedConfig:{}. 
+[20Jan2025 00:18:16.220] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key advanced_infuser.types.allow_curses_enchantments was corrected from null to its default, false. 
+[20Jan2025 00:18:16.220] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key advanced_infuser.types.allow_treasure_enchantments was corrected from null to its default, false. 
+[20Jan2025 00:18:16.220] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key advanced_infuser.types.allow_untradeable_enchantments was corrected from null to its default, false. 
+[20Jan2025 00:18:16.221] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key advanced_infuser.types.allow_anvil_enchantments was corrected from null to its default, true. 
+[20Jan2025 00:18:16.221] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key advanced_infuser.types.allow_undiscoverable_enchantments was corrected from null to its default, false. 
+[20Jan2025 00:18:16.222] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key advanced_infuser.repair was corrected from null to its default, SimpleCommentedConfig:{}. 
+[20Jan2025 00:18:16.222] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key advanced_infuser.repair.repair_step_multiplier was corrected from null to its default, 2.0. 
+[20Jan2025 00:18:16.222] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key advanced_infuser.repair.repair_percentage_step was corrected from null to its default, 0.25. 
+[20Jan2025 00:18:16.223] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key advanced_infuser.costs was corrected from null to its default, SimpleCommentedConfig:{}. 
+[20Jan2025 00:18:16.224] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key advanced_infuser.costs.very_rare_cost_multiplier was corrected from null to its default, 5. 
+[20Jan2025 00:18:16.227] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key advanced_infuser.costs.double_uniques was corrected from null to its default, true. 
+[20Jan2025 00:18:16.228] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key advanced_infuser.costs.rare_cost_multiplier was corrected from null to its default, 4. 
+[20Jan2025 00:18:16.228] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key advanced_infuser.costs.maximum_cost was corrected from null to its default, 20. 
+[20Jan2025 00:18:16.229] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key advanced_infuser.costs.scale_costs_by_vanilla_only was corrected from null to its default, true. 
+[20Jan2025 00:18:16.229] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key advanced_infuser.costs.uncommon_cost_multiplier was corrected from null to its default, 3. 
+[20Jan2025 00:18:16.230] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key advanced_infuser.costs.common_cost_multiplier was corrected from null to its default, 2. 
+[20Jan2025 00:18:16.230] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key advanced_infuser.allow_modifying_enchantments was corrected from null to its default, ALL. 
+[20Jan2025 00:18:16.231] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key advanced_infuser.maximum_bookshelves was corrected from null to its default, 15. 
+[20Jan2025 00:18:16.231] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key advanced_infuser.power was corrected from null to its default, SimpleCommentedConfig:{}. 
+[20Jan2025 00:18:16.231] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key advanced_infuser.power.rare_multiplier was corrected from null to its default, 0.4. 
+[20Jan2025 00:18:16.232] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key advanced_infuser.power.untradeable_multiplier was corrected from null to its default, 0.9. 
+[20Jan2025 00:18:16.232] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key advanced_infuser.power.rarity_range was corrected from null to its default, 0.4. 
+[20Jan2025 00:18:16.233] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key advanced_infuser.power.undiscoverable_multiplier was corrected from null to its default, 0.9. 
+[20Jan2025 00:18:16.233] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key advanced_infuser.power.treasure_multiplier was corrected from null to its default, 0.95. 
+[20Jan2025 00:18:16.234] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key advanced_infuser.power.curse_multiplier was corrected from null to its default, 1.0. 
+[20Jan2025 00:18:16.234] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key advanced_infuser.power.common_multiplier was corrected from null to its default, -0.2. 
+[20Jan2025 00:18:16.235] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key advanced_infuser.power.very_rare_multiplier was corrected from null to its default, 0.6. 
+[20Jan2025 00:18:16.235] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key advanced_infuser.power.uncommon_multiplier was corrected from null to its default, 0.2. 
+[20Jan2025 00:18:16.235] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key advanced_infuser.increase_anvil_repair_cost was corrected from null to its default, false. 
+[20Jan2025 00:18:16.236] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key advanced_infuser.allow_books was corrected from null to its default, true. 
+[20Jan2025 00:18:16.237] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key normal_infuser was corrected from null to its default, SimpleCommentedConfig:{}. 
+[20Jan2025 00:18:16.237] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key normal_infuser.allow_repairing was corrected from null to its default, NOTHING. 
+[20Jan2025 00:18:16.238] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key normal_infuser.types was corrected from null to its default, SimpleCommentedConfig:{}. 
+[20Jan2025 00:18:16.238] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key normal_infuser.types.allow_curses_enchantments was corrected from null to its default, false. 
+[20Jan2025 00:18:16.239] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key normal_infuser.types.allow_treasure_enchantments was corrected from null to its default, false. 
+[20Jan2025 00:18:16.239] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key normal_infuser.types.allow_untradeable_enchantments was corrected from null to its default, false. 
+[20Jan2025 00:18:16.240] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key normal_infuser.types.allow_anvil_enchantments was corrected from null to its default, false. 
+[20Jan2025 00:18:16.240] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key normal_infuser.types.allow_undiscoverable_enchantments was corrected from null to its default, false. 
+[20Jan2025 00:18:16.241] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key normal_infuser.repair was corrected from null to its default, SimpleCommentedConfig:{}. 
+[20Jan2025 00:18:16.241] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key normal_infuser.repair.repair_step_multiplier was corrected from null to its default, 2.0. 
+[20Jan2025 00:18:16.241] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key normal_infuser.repair.repair_percentage_step was corrected from null to its default, 0.25. 
+[20Jan2025 00:18:16.242] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key normal_infuser.costs was corrected from null to its default, SimpleCommentedConfig:{}. 
+[20Jan2025 00:18:16.242] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key normal_infuser.costs.very_rare_cost_multiplier was corrected from null to its default, 5. 
+[20Jan2025 00:18:16.245] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key normal_infuser.costs.double_uniques was corrected from null to its default, true. 
+[20Jan2025 00:18:16.245] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key normal_infuser.costs.rare_cost_multiplier was corrected from null to its default, 4. 
+[20Jan2025 00:18:16.245] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key normal_infuser.costs.maximum_cost was corrected from null to its default, 30. 
+[20Jan2025 00:18:16.247] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key normal_infuser.costs.scale_costs_by_vanilla_only was corrected from null to its default, true. 
+[20Jan2025 00:18:16.247] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key normal_infuser.costs.uncommon_cost_multiplier was corrected from null to its default, 3. 
+[20Jan2025 00:18:16.248] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key normal_infuser.costs.common_cost_multiplier was corrected from null to its default, 2. 
+[20Jan2025 00:18:16.248] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key normal_infuser.allow_modifying_enchantments was corrected from null to its default, UNENCHANTED. 
+[20Jan2025 00:18:16.249] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key normal_infuser.maximum_bookshelves was corrected from null to its default, 15. 
+[20Jan2025 00:18:16.249] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key normal_infuser.power was corrected from null to its default, SimpleCommentedConfig:{}. 
+[20Jan2025 00:18:16.250] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key normal_infuser.power.rare_multiplier was corrected from null to its default, 0.4. 
+[20Jan2025 00:18:16.250] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key normal_infuser.power.untradeable_multiplier was corrected from null to its default, 0.9. 
+[20Jan2025 00:18:16.251] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key normal_infuser.power.rarity_range was corrected from null to its default, 0.4. 
+[20Jan2025 00:18:16.252] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key normal_infuser.power.undiscoverable_multiplier was corrected from null to its default, 0.9. 
+[20Jan2025 00:18:16.252] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key normal_infuser.power.treasure_multiplier was corrected from null to its default, 0.95. 
+[20Jan2025 00:18:16.253] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key normal_infuser.power.curse_multiplier was corrected from null to its default, 1.0. 
+[20Jan2025 00:18:16.253] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key normal_infuser.power.common_multiplier was corrected from null to its default, -0.2. 
+[20Jan2025 00:18:16.253] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key normal_infuser.power.very_rare_multiplier was corrected from null to its default, 0.6. 
+[20Jan2025 00:18:16.253] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key normal_infuser.power.uncommon_multiplier was corrected from null to its default, 0.2. 
+[20Jan2025 00:18:16.254] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key normal_infuser.increase_anvil_repair_cost was corrected from null to its default, false. 
+[20Jan2025 00:18:16.254] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key normal_infuser.allow_books was corrected from null to its default, false. 
+[20Jan2025 00:18:16.255] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key integration was corrected from null to its default, SimpleCommentedConfig:{}. 
+[20Jan2025 00:18:16.255] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key integration.apotheosis_integration was corrected from null to its default, true. 
+[20Jan2025 00:18:16.260] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
+[20Jan2025 00:18:16.291] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[20Jan2025 00:18:16.419] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[20Jan2025 00:18:16.944] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[20Jan2025 00:18:16.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[20Jan2025 00:18:17.609] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:17.610] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:17.610] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:17.611] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:17.611] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:17.611] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:17.612] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:17.612] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[20Jan2025 00:18:17.612] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:17.613] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:17.613] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:17.614] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:17.614] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:17.614] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:17.615] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:17.617] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:17.618] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:17.618] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:17.618] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:17.618] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[20Jan2025 00:18:17.618] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:17.619] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:17.619] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[20Jan2025 00:18:17.619] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:17.619] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[20Jan2025 00:18:17.619] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[20Jan2025 00:18:17.619] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:17.619] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:17.620] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:17.620] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:17.620] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:17.620] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:17.620] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:17.620] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:17.621] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:17.621] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:17.621] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jan2025 00:18:17.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[20Jan2025 00:18:19.385] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jan2025 00:18:19.385] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jan2025 00:18:19.385] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jan2025 00:18:19.386] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jan2025 00:18:19.953] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2119 ms
+[20Jan2025 00:18:19.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.778s)! For help, type "help"
+[20Jan2025 00:18:20.063] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[20Jan2025 00:18:20.070] [Server thread/INFO] [harmonised.pmmo.util.MsLoggy/]: Loading PMMO Saved Data
+[20Jan2025 00:18:20.071] [Server thread/INFO] [harmonised.pmmo.util.MsLoggy/]: Computing data for cache
+[20Jan2025 00:18:20.073] [Server thread/INFO] [harmonised.pmmo.util.MsLoggy/]: PMMO Server loading process complete
+[20Jan2025 00:18:20.212] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 193128 bytes (in 20 string chunks with the size of 10000)
+[20Jan2025 00:18:20.214] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[20Jan2025 00:18:20.218] [Server thread/WARN] [ModernFix/]: Dedicated server took 40.504 seconds to load
+[20Jan2025 00:18:29.838] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[20Jan2025 00:18:29.978] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PrimeRios03[/127.57.81.108:33173] logged in with entity id 655 at (-1615.2607633061891, 125.0625, 131.53633736241338)
+[20Jan2025 00:18:30.027] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to PrimeRios03
+[20Jan2025 00:18:30.028] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to PrimeRios03
+[20Jan2025 00:18:30.029] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to PrimeRios03
+[20Jan2025 00:18:30.029] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to PrimeRios03
+[20Jan2025 00:18:30.035] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to PrimeRios03
+[20Jan2025 00:18:30.041] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to PrimeRios03
+[20Jan2025 00:18:30.041] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to PrimeRios03
+[20Jan2025 00:18:30.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 joined the game
+[20Jan2025 00:18:30.263] [Server thread/INFO] [Jade/]: Syncing config to PrimeRios03 (e4bcc4ae-0e89-38e4-a892-edc771448902)
+[20Jan2025 00:18:57.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
+[20Jan2025 00:19:36.148] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FunnyUntipo[/127.243.202.34:48695] logged in with entity id 995 at (-1616.7999542869989, 115.0, 135.94237914180042)
+[20Jan2025 00:19:36.149] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to FunnyUntipo
+[20Jan2025 00:19:36.150] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to FunnyUntipo
+[20Jan2025 00:19:36.151] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to FunnyUntipo
+[20Jan2025 00:19:36.152] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to FunnyUntipo
+[20Jan2025 00:19:36.155] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to FunnyUntipo
+[20Jan2025 00:19:36.158] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to FunnyUntipo
+[20Jan2025 00:19:36.158] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to FunnyUntipo
+[20Jan2025 00:19:36.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo joined the game
+[20Jan2025 00:19:36.304] [Server thread/INFO] [Jade/]: Syncing config to FunnyUntipo (b404d8c6-7175-37d8-923b-eca00424e1ad)
+[20Jan2025 00:20:03.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
+[20Jan2025 00:21:15.930] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SpartanMike[/127.97.21.212:58611] logged in with entity id 1302 at (-1920.5641981916162, 66.0, 187.86048194872748)
+[20Jan2025 00:21:15.931] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to SpartanMike
+[20Jan2025 00:21:15.932] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to SpartanMike
+[20Jan2025 00:21:15.932] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to SpartanMike
+[20Jan2025 00:21:15.932] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to SpartanMike
+[20Jan2025 00:21:15.935] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to SpartanMike
+[20Jan2025 00:21:15.938] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to SpartanMike
+[20Jan2025 00:21:15.938] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to SpartanMike
+[20Jan2025 00:21:15.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike joined the game
+[20Jan2025 00:21:16.019] [Server thread/INFO] [Jade/]: Syncing config to SpartanMike (8f0465db-d348-3144-a61a-6d0ee53eed92)
+[20Jan2025 00:21:43.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
+[20Jan2025 00:29:25.963] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Helle'/1312, l='ServerLevel[world]', x=-1915.57, y=62.84, z=186.35] died, message: 'Helle was slain by Door Knight'
+[20Jan2025 00:29:25.964] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Helle'/1312, l='ServerLevel[world]', x=-1915.57, y=62.84, z=186.35] died: Helle was slain by Door Knight
+[20Jan2025 00:30:13.749] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2102, y=24, z=516}
+[20Jan2025 00:30:19.456] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1946, y=-14, z=540}
+[20Jan2025 00:30:24.999] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2051, y=-4, z=548}
+[20Jan2025 00:31:52.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo has made the advancement [Magery]
+[20Jan2025 00:35:07.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrimeRios03> OwO
+[20Jan2025 00:41:00.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike has made the advancement [Magery]
+[20Jan2025 00:42:13.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo has made the advancement [No Longer Short-Staffed]
+[20Jan2025 00:42:20.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike has made the advancement [No Longer Short-Staffed]
+[20Jan2025 00:45:29.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo was slain by PrimeRios03
+[20Jan2025 00:45:29.665] [Server thread/INFO] [tombstone/]: The player FunnyUntipo has successfully been saved
+[20Jan2025 00:45:34.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo has reached the goal [Here They Come]
+[20Jan2025 00:45:34.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by FunnyUntipo
+[20Jan2025 00:45:34.906] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[20Jan2025 00:46:33.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 has made the advancement [No Longer Short-Staffed]
+[20Jan2025 00:49:25.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo fell from a high place
+[20Jan2025 00:49:25.799] [Server thread/INFO] [tombstone/]: The player FunnyUntipo has successfully been saved
+[20Jan2025 00:52:03.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo was slain by PrimeRios03
+[20Jan2025 00:52:03.158] [Server thread/INFO] [tombstone/]: The player FunnyUntipo has successfully been saved
+[20Jan2025 00:53:41.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo was slain by PrimeRios03
+[20Jan2025 00:53:41.110] [Server thread/INFO] [tombstone/]: The player FunnyUntipo has successfully been saved
+[20Jan2025 00:53:50.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was killed by SpartanMike's magic missile
+[20Jan2025 00:53:51.003] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[20Jan2025 01:07:47.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo was slain by PrimeRios03
+[20Jan2025 01:07:47.779] [Server thread/INFO] [tombstone/]: The player FunnyUntipo has successfully been saved
+[20Jan2025 01:14:32.891] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SpartanMike lost connection: Disconnected
+[20Jan2025 01:14:32.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike left the game
+[20Jan2025 01:14:40.991] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FunnyUntipo lost connection: Disconnected
+[20Jan2025 01:14:40.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo left the game
+[20Jan2025 01:21:09.990] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PrimeRios03 lost connection: Disconnected
+[20Jan2025 01:21:09.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 left the game
+[20Jan2025 01:21:40.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20Jan2025 01:21:40.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20Jan2025 01:21:40.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[20Jan2025 01:21:40.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20Jan2025 01:21:40.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20Jan2025 01:21:40.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[20Jan2025 01:21:40.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20Jan2025 01:21:40.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[20Jan2025 01:21:40.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20Jan2025 01:21:40.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20Jan2025 01:21:40.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[20Jan2025 01:21:40.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20Jan2025 01:21:40.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[20Jan2025 01:21:40.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

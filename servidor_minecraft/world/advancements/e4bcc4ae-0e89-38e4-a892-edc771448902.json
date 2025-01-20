@@ -1105,9 +1105,10 @@
   },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
-      "has_stick": "2025-01-19 02:25:28 +0000"
+      "has_stick": "2025-01-19 02:25:28 +0000",
+      "has_the_recipe": "2025-01-20 00:46:23 +0000"
     },
-    "done": false
+    "done": true
   },
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
@@ -2766,15 +2767,17 @@
   },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
-      "has_raw_iron": "2025-01-19 03:01:11 +0000"
+      "has_raw_iron": "2025-01-19 03:01:11 +0000",
+      "has_the_recipe": "2025-01-20 00:46:19 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
-      "has_raw_iron": "2025-01-19 03:01:11 +0000"
+      "has_raw_iron": "2025-01-19 03:01:11 +0000",
+      "has_the_recipe": "2025-01-20 00:33:29 +0000"
     },
-    "done": false
+    "done": true
   },
   "pfm:recipes/furniture/calcite_classic_stool": {
     "criteria": {
@@ -6652,9 +6655,10 @@
   },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-01-19 23:45:59 +0000"
+      "has_cobbled_deepslate": "2025-01-19 23:45:59 +0000",
+      "has_the_recipe": "2025-01-20 00:21:29 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -7087,6 +7091,1231 @@
       "inscription_table": "2025-01-20 00:04:37 +0000"
     },
     "done": true
+  },
+  "pfm:recipes/furniture/warped_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-20 00:21:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-20 00:21:29 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:23:31 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/one_stack_upgrade": {
+    "criteria": {
+      "has_template": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_dark_oak_table_classic": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:23:31 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/birch_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_dark_oak_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:23:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-01-20 00:52:59 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_dark_oak_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:23:31 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/deepslate_table_classic": {
+    "criteria": {
+      "deepslate_table_classic": "2025-01-20 00:21:29 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/dark_oak_drawers": {
+    "criteria": {
+      "has_chest": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/illumination_upgrade": {
+    "criteria": {
+      "has_template": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/deepslate_chair_dinner": {
+    "criteria": {
+      "deepslate_chair_dinner": "2025-01-20 00:21:29 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/remote_upgrade": {
+    "criteria": {
+      "has_template": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/deepslate_dark_oak_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:21:29 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/cherry_drawers": {
+    "criteria": {
+      "has_chest": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/personal_key_cofh": {
+    "criteria": {
+      "has_template": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/lunar_blue_skies_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/jungle_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/bamboo_drawers": {
+    "criteria": {
+      "has_chest": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/redwood_biomesoplenty_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/frostbright_blue_skies_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/acacia_trim": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_dark_oak_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:23:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-20 00:38:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-01-20 00:31:48 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/priority_key": {
+    "criteria": {
+      "has_template": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/deepslate_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:21:29 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/deepslate_dark_oak_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:21:29 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/warped_drawers": {
+    "criteria": {
+      "has_chest": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-20 00:21:29 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_dark_oak_table_basic": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:23:31 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/hellbark_biomesoplenty_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/deepslate_chair": {
+    "criteria": {
+      "deepslate_chair": "2025-01-20 00:21:29 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/decorations/birch_cabinet": {
+    "criteria": {
+      "has_birch_trapdoor": "2025-01-20 00:30:00 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/cherry_trim": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/maple_blue_skies_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-01-20 00:20:12 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/deepslate_table_basic": {
+    "criteria": {
+      "deepslate_table_basic": "2025-01-20 00:21:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-01-20 00:31:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-20 00:21:29 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/oak_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-20 00:38:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-20 00:21:29 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/bamboo_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/deepslate_dark_oak_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:21:29 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/gold_storage_upgrade": {
+    "criteria": {
+      "has_template": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/deepslate_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:21:29 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/deepslate_classic_nightstand": {
+    "criteria": {
+      "deepslate_classic_nightstand": "2025-01-20 00:21:29 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/jungle_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/spruce_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/pine_biomesoplenty_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/jungle_drawers": {
+    "criteria": {
+      "has_chest": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_dark_oak_coffee_table_modern": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:23:31 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/cherry_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/bluebright_blue_skies_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-01-20 00:23:27 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/hellbark_biomesoplenty_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-01-20 00:31:48 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/spruce_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/birch_trim": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/void_upgrade": {
+    "criteria": {
+      "has_template": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/dark_wood_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:23:31 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/fill_level_upgrade": {
+    "criteria": {
+      "has_template": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/maple_blue_skies_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-20 00:21:29 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/scorched_born_in_chaos_v1_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/crimson_drawers": {
+    "criteria": {
+      "has_chest": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/mangrove_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/deepslate_table_natural": {
+    "criteria": {
+      "deepslate_table_natural": "2025-01-20 00:21:29 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_dark_oak_coffee_table_classic": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:23:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-20 00:21:29 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/dusk_blue_skies_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/deepslate_table_dinner": {
+    "criteria": {
+      "deepslate_table_dinner": "2025-01-20 00:21:29 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:23:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-20 00:21:29 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/jacaranda_biomesoplenty_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/dark_wood_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:23:31 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_dark_oak_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:23:31 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/acacia_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/umbran_biomesoplenty_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/starlit_blue_skies_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:23:31 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_dark_oak_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:23:31 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/oak_trim": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_dark_oak_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:23:31 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/emerald_storage_upgrade": {
+    "criteria": {
+      "has_template": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/obsidian_storage_upgrade": {
+    "criteria": {
+      "has_template": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-20 00:38:06 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/dark_wood_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:23:31 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/deepslate_dark_oak_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:21:29 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/starlit_blue_skies_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/deepslate_coffee_table_basic": {
+    "criteria": {
+      "deepslate_coffee_table_basic": "2025-01-20 00:21:29 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/lunar_blue_skies_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/iron_storage_upgrade": {
+    "criteria": {
+      "has_template": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "enchantinginfuser:recipes/decorations/enchanting_infuser": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-01-20 00:33:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-01-20 01:12:05 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/dead_biomesoplenty_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/controller_slave": {
+    "criteria": {
+      "has_chest": "2025-01-20 00:55:13 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:23:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-20 00:21:29 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/warped_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_dark_oak_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:23:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-20 00:38:31 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/deepslate_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:21:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-01-20 00:24:30 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/maple_biomesoplenty_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/bluebright_blue_skies_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/pine_biomesoplenty_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-20 00:21:29 +0000",
+      "has_the_recipe": "2025-01-20 00:21:32 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/compacting_drawers": {
+    "criteria": {
+      "has_chest": "2025-01-20 00:55:13 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/dusk_blue_skies_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/birch_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/deepslate_coffee_table_classic": {
+    "criteria": {
+      "deepslate_coffee_table_classic": "2025-01-20 00:21:29 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/diamond_storage_upgrade": {
+    "criteria": {
+      "has_template": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/acacia_drawers": {
+    "criteria": {
+      "has_chest": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/remote_group_upgrade": {
+    "criteria": {
+      "has_template": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/jacaranda_biomesoplenty_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/empyreal_biomesoplenty_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/acacia_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-20 00:23:31 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/dark_oak_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/drawer_puller": {
+    "criteria": {
+      "has_template": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/deepslate_table_modern_dinner": {
+    "criteria": {
+      "deepslate_table_modern_dinner": "2025-01-20 00:21:29 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/comet_blue_skies_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-20 00:38:06 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/cherry_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/crimson_trim": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/oak_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/palm_biomesoplenty_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_dark_oak_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:23:31 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/shroud_key": {
+    "criteria": {
+      "has_template": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_dark_oak_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:23:31 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/dark_oak_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/portability_upgrade": {
+    "criteria": {
+      "has_template": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_dark_oak_table_log": {
+    "criteria": {
+      "has_log": "2025-01-20 00:23:31 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/bamboo_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_dark_oak_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:23:31 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/upgrade_template": {
+    "criteria": {
+      "has_chest": "2025-01-20 00:55:13 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/drawer_key": {
+    "criteria": {
+      "has_template": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/deepslate_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:21:29 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/oak_drawers": {
+    "criteria": {
+      "has_chest": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/min_redstone_upgrade": {
+    "criteria": {
+      "has_template": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-20 00:23:31 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_dark_oak_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-01-20 00:23:31 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/willow_biomesoplenty_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/magic_biomesoplenty_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-20 00:21:29 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/palm_biomesoplenty_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/keyring": {
+    "criteria": {
+      "has_template": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/deepslate_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:21:29 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/building_blocks/mangrove_herringbone_planks": {
+    "criteria": {
+      "has_wood_slabs": "2025-01-20 00:35:15 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/detached_drawer": {
+    "criteria": {
+      "has_chest": "2025-01-20 00:55:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-20 00:21:29 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/deepslate_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:21:29 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/personal_key": {
+    "criteria": {
+      "has_template": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-20 00:21:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-20 00:38:31 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/deepslate_coffee_table_modern": {
+    "criteria": {
+      "deepslate_coffee_table_modern": "2025-01-20 00:21:29 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/warped_trim": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/jungle_trim": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/mangrove_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_dark_oak_coffee_table_basic": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:23:31 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/max_redstone_upgrade": {
+    "criteria": {
+      "has_template": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/mangrove_drawers": {
+    "criteria": {
+      "has_chest": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/birch_drawers": {
+    "criteria": {
+      "has_chest": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_dark_oak_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:23:31 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/controller": {
+    "criteria": {
+      "has_chest": "2025-01-20 00:55:13 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/umbran_biomesoplenty_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/maple_biomesoplenty_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/bamboo_trim": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-01-20 00:31:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-20 00:21:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-20 00:38:31 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/deepslate_chair_modern": {
+    "criteria": {
+      "deepslate_chair_modern": "2025-01-20 00:21:29 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/spruce_drawers": {
+    "criteria": {
+      "has_chest": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/dark_wood_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:23:31 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/scorched_born_in_chaos_v1_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/mangrove_trim": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/comet_blue_skies_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/redstone_upgrade": {
+    "criteria": {
+      "has_template": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/spruce_trim": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-20 00:38:31 +0000"
+    },
+    "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2025-01-20 00:46:33 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:21:29 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/quantify_key": {
+    "criteria": {
+      "has_template": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/redwood_biomesoplenty_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/dark_oak_trim": {
+    "criteria": {
+      "has_planks": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/frostbright_blue_skies_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/willow_biomesoplenty_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-20 00:21:29 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/empyreal_biomesoplenty_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/deepslate_chair_classic": {
+    "criteria": {
+      "deepslate_chair_classic": "2025-01-20 00:21:29 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/crimson_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/dead_biomesoplenty_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/magic_biomesoplenty_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/balance_fill_upgrade": {
+    "criteria": {
+      "has_template": "2025-01-20 00:18:30 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/crimson_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-20 01:14:47 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
