@@ -7803,9 +7803,10 @@
   },
   "minecraft:recipes/building_blocks/mangrove_planks": {
     "criteria": {
-      "has_logs": "2025-01-20 00:24:30 +0000"
+      "has_logs": "2025-01-20 00:24:30 +0000",
+      "has_the_recipe": "2025-01-22 02:31:50 +0000"
     },
-    "done": false
+    "done": true
   },
   "farmersdelight:recipes/decorations/birch_cabinet": {
     "criteria": {
@@ -8385,11 +8386,23 @@
     },
     "done": false
   },
+  "pfm:recipes/furniture/mangrove_table_basic": {
+    "criteria": {
+      "has_planks": "2025-01-22 02:31:50 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:main/eat_comfort_food": {
     "criteria": {
       "comfort": "2025-01-22 01:27:34 +0000"
     },
     "done": true
+  },
+  "pfm:recipes/furniture/mangrove_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-01-22 02:31:50 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
@@ -8406,6 +8419,12 @@
   "pfm:recipes/furniture/andesite_table_modern_dinner": {
     "criteria": {
       "andesite_table_modern_dinner": "2025-01-22 01:10:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-22 02:31:50 +0000"
     },
     "done": false
   },
@@ -8433,15 +8452,33 @@
     },
     "done": false
   },
+  "pfm:recipes/furniture/fir_biomesoplenty_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-01-22 02:39:50 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/cyan_banner": {
     "criteria": {
       "has_cyan_wool": "2025-01-22 02:19:27 +0000"
     },
     "done": false
   },
+  "pfm:recipes/furniture/stripped_mangrove_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-22 02:31:50 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/andesite_coffee_table_classic": {
     "criteria": {
       "andesite_coffee_table_classic": "2025-01-22 01:10:07 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/mangrove_table_log": {
+    "criteria": {
+      "has_log": "2025-01-22 02:31:50 +0000"
     },
     "done": false
   },
@@ -8457,15 +8494,33 @@
     },
     "done": false
   },
+  "pfm:recipes/furniture/mangrove_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-01-22 02:31:50 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2025-01-22 01:10:07 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2025-01-22 02:31:50 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-01-22 01:56:34 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-01-22 02:39:50 +0000"
     },
     "done": false
   },
@@ -8481,6 +8536,12 @@
     },
     "done": false
   },
+  "pfm:recipes/furniture/mangrove_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-01-22 02:31:50 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/cooking/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-01-22 01:27:45 +0000"
@@ -8490,6 +8551,12 @@
   "pfm:recipes/furniture/cyan_shower_towel": {
     "criteria": {
       "has_cyan_wool": "2025-01-22 02:19:27 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-22 02:39:50 +0000"
     },
     "done": false
   },
@@ -8505,9 +8572,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/mangrove_chair": {
+    "criteria": {
+      "has_planks": "2025-01-22 02:31:50 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/mangrove_coffee_table_classic": {
+    "criteria": {
+      "has_planks": "2025-01-22 02:31:50 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/andesite_oak_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-01-22 01:10:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-22 02:31:50 +0000"
     },
     "done": false
   },
@@ -8529,6 +8614,18 @@
     },
     "done": false
   },
+  "pfm:recipes/furniture/mangrove_coffee_table_basic": {
+    "criteria": {
+      "has_planks": "2025-01-22 02:31:50 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/mangrove_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-22 02:31:50 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/andesite_simple_stool": {
     "criteria": {
       "has_planks": "2025-01-22 01:10:07 +0000"
@@ -8538,6 +8635,24 @@
   "pfm:recipes/furniture/andesite_chair": {
     "criteria": {
       "andesite_chair": "2025-01-22 01:10:07 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/mangrove_table_classic": {
+    "criteria": {
+      "has_planks": "2025-01-22 02:31:50 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-22 02:39:50 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_mangrove_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-22 02:31:50 +0000"
     },
     "done": false
   },
@@ -8553,11 +8668,35 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-22 02:31:50 +0000"
+    },
+    "done": false
+  },
   "mca:recipes/misc/potions": {
     "criteria": {
       "has_item": "2025-01-22 02:09:51 +0000"
     },
     "done": true
+  },
+  "create:recipes/building_blocks/mangrove_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-22 02:31:50 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/mangrove_coffee_table_modern": {
+    "criteria": {
+      "has_planks": "2025-01-22 02:31:50 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/mangrove_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-22 02:31:50 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
@@ -8575,6 +8714,18 @@
     "criteria": {
       "has_mushroom_stew": "2025-01-22 01:27:31 +0000",
       "has_bowl": "2025-01-22 01:27:46 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/mangrove_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-22 02:31:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2025-01-22 02:31:50 +0000"
     },
     "done": false
   },
@@ -8596,9 +8747,33 @@
     },
     "done": false
   },
+  "pfm:recipes/furniture/mangrove_simple_bunk_ladder": {
+    "criteria": {
+      "has_planks": "2025-01-22 02:31:50 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stripped_mangrove_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-22 02:31:50 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/mangrove_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-01-22 02:31:50 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2025-01-22 01:27:45 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_log_stool": {
+    "criteria": {
+      "has_log": "2025-01-22 02:39:50 +0000"
     },
     "done": false
   },
@@ -8608,9 +8783,27 @@
     },
     "done": false
   },
+  "pfm:recipes/furniture/mangrove_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-01-22 02:31:50 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/mangrove_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-22 02:31:50 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/food/shepherds_pie_block": {
     "criteria": {
       "has_cooked_mutton": "2025-01-22 00:51:54 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-01-22 02:39:50 +0000"
     },
     "done": false
   },
@@ -8680,6 +8873,24 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-22 02:34:25 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/mangrove_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-22 02:31:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2025-01-22 02:31:50 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-01-22 02:09:20 +0000"
@@ -8692,9 +8903,39 @@
     },
     "done": false
   },
+  "pfm:recipes/furniture/mangrove_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-22 02:31:50 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-22 02:39:50 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/cyan_carpet": {
     "criteria": {
       "has_cyan_wool": "2025-01-22 02:19:27 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/mangrove_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-01-22 02:31:50 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-22 02:39:50 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/mangrove_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-01-22 02:31:50 +0000"
     },
     "done": false
   },
@@ -8704,9 +8945,33 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2025-01-22 02:31:50 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2025-01-22 01:10:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-22 02:31:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-01-22 02:34:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2025-01-22 02:31:50 +0000"
     },
     "done": false
   },
