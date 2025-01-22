@@ -9913,3 +9913,8 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [22Jan2025 01:01:11.394] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [22Jan2025 01:06:11.366] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Jan2025 01:06:11.391] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jan2025 01:11:11.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jan2025 01:11:11.386] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jan2025 01:14:28.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 has made the advancement [Isn't It Iron Pick]
+[22Jan2025 01:16:11.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jan2025 01:16:11.390] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -1589,9 +1589,10 @@
   },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
+      "has_the_recipe": "2025-01-22 01:14:27 +0000",
       "has_iron_ingot": "2025-01-19 02:28:58 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/combat/shield": {
     "criteria": {
@@ -3625,6 +3626,7 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_axe": "2025-01-19 04:25:51 +0000",
+      "has_iron_pickaxe": "2025-01-22 01:14:28 +0000",
       "has_iron_helmet": "2025-01-19 03:26:37 +0000",
       "has_chainmail_leggings": "2025-01-19 23:00:40 +0000"
     },
@@ -3633,6 +3635,7 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_axe": "2025-01-19 04:25:51 +0000",
+      "has_iron_pickaxe": "2025-01-22 01:14:28 +0000",
       "has_iron_helmet": "2025-01-19 03:26:37 +0000",
       "has_chainmail_leggings": "2025-01-19 23:00:40 +0000"
     },
@@ -8319,9 +8322,123 @@
     },
     "done": false
   },
+  "pfm:recipes/furniture/andesite_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-01-22 01:10:07 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/andesite_classic_nightstand": {
+    "criteria": {
+      "andesite_classic_nightstand": "2025-01-22 01:10:07 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/andesite_oak_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-22 01:10:07 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/andesite_chair_classic": {
+    "criteria": {
+      "andesite_chair_classic": "2025-01-22 01:10:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-22 01:10:07 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/andesite_table_modern_dinner": {
+    "criteria": {
+      "andesite_table_modern_dinner": "2025-01-22 01:10:07 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/andesite_oak_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-22 01:10:07 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2025-01-22 00:51:54 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/andesite_coffee_table_classic": {
+    "criteria": {
+      "andesite_coffee_table_classic": "2025-01-22 01:10:07 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/andesite_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-01-22 01:10:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-22 01:10:07 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/andesite_table_classic": {
+    "criteria": {
+      "andesite_table_classic": "2025-01-22 01:10:07 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/andesite_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-22 01:10:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-22 01:14:28 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_oak_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-22 01:10:07 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/andesite_chair_dinner": {
+    "criteria": {
+      "andesite_chair_dinner": "2025-01-22 01:10:07 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/andesite_table_basic": {
+    "criteria": {
+      "andesite_table_basic": "2025-01-22 01:10:07 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/andesite_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-01-22 01:10:07 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/andesite_chair": {
+    "criteria": {
+      "andesite_chair": "2025-01-22 01:10:07 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/andesite_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-22 01:10:07 +0000"
     },
     "done": false
   },
@@ -8331,9 +8448,69 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-22 01:10:07 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/andesite_table_dinner": {
+    "criteria": {
+      "andesite_table_dinner": "2025-01-22 01:10:07 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/andesite_chair_modern": {
+    "criteria": {
+      "andesite_chair_modern": "2025-01-22 01:10:07 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/andesite_oak_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-22 01:10:07 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/food/shepherds_pie_block": {
     "criteria": {
       "has_cooked_mutton": "2025-01-22 00:51:54 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/andesite_table_natural": {
+    "criteria": {
+      "andesite_table_natural": "2025-01-22 01:10:07 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/andesite_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-22 01:10:07 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/andesite_coffee_table_basic": {
+    "criteria": {
+      "andesite_coffee_table_basic": "2025-01-22 01:10:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-22 01:10:07 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/andesite_coffee_table_modern": {
+    "criteria": {
+      "andesite_coffee_table_modern": "2025-01-22 01:10:07 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/andesite_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-01-22 01:10:07 +0000"
     },
     "done": false
   },
