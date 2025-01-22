@@ -8329,6 +8329,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-01-22 02:09:52 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/andesite_kitchen_wall_counter": {
     "criteria": {
       "has_planks": "2025-01-22 01:10:07 +0000"
@@ -8347,9 +8353,27 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-22 02:09:52 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-01-22 02:09:51 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/andesite_oak_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-01-22 01:10:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-01-22 01:56:34 +0000"
     },
     "done": false
   },
@@ -8383,6 +8407,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-01-22 02:09:20 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2025-01-22 00:51:54 +0000"
@@ -8392,6 +8422,12 @@
   "pfm:recipes/furniture/andesite_coffee_table_classic": {
     "criteria": {
       "andesite_coffee_table_classic": "2025-01-22 01:10:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-01-22 02:09:52 +0000"
     },
     "done": false
   },
@@ -8407,9 +8443,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-01-22 01:56:34 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/andesite_table_classic": {
     "criteria": {
       "andesite_table_classic": "2025-01-22 01:10:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-01-22 02:09:20 +0000"
     },
     "done": false
   },
@@ -8479,6 +8527,12 @@
     },
     "done": false
   },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-01-22 02:09:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-01-22 00:51:54 +0000"
@@ -8534,15 +8588,39 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-01-22 02:09:51 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2025-01-22 01:27:46 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-22 02:09:51 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/andesite_table_natural": {
     "criteria": {
       "andesite_table_natural": "2025-01-22 01:10:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-01-22 02:09:52 +0000"
+    },
+    "done": false
+  },
+  "blue_skies:recipes/food/cake_compat": {
+    "criteria": {
+      "has_item": "2025-01-22 02:09:51 +0000"
     },
     "done": false
   },
@@ -8555,6 +8633,30 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_mushroom_stew": "2025-01-22 01:27:31 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-22 02:09:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-01-22 02:09:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-22 02:09:20 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-22 02:09:20 +0000"
     },
     "done": false
   },
@@ -8579,6 +8681,12 @@
   "pfm:recipes/furniture/andesite_modern_stool": {
     "criteria": {
       "has_planks": "2025-01-22 01:10:07 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-01-22 02:09:51 +0000"
     },
     "done": false
   },
