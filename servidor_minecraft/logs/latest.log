@@ -1995,3 +1995,75 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [26Jan2025 23:17:01.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 1.0605699537342161
 [26Jan2025 23:20:39.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.2634226443412899
 [26Jan2025 23:20:39.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.9853035710123095
+[26Jan2025 23:25:59.333] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[26Jan2025 23:26:16.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.2765138216152536
+[26Jan2025 23:26:16.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.9682025997032042
+[26Jan2025 23:26:16.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 1.6797702566022963
+[26Jan2025 23:26:16.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.605509501800384
+[26Jan2025 23:26:16.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.60893783494123
+[26Jan2025 23:26:16.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.6074785212992992
+[26Jan2025 23:26:16.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.6063671997997062
+[26Jan2025 23:26:16.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.6057725538227032
+[26Jan2025 23:26:16.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.5466464988575126
+[26Jan2025 23:26:16.852] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.515009325691949
+[26Jan2025 23:26:16.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 1.1292989764240247
+[26Jan2025 23:26:16.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.5478307165291199
+[26Jan2025 23:26:17.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.5744508487161966
+[26Jan2025 23:26:17.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.5886947507012792
+[26Jan2025 23:26:17.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.5963163786607311
+[26Jan2025 23:26:17.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.6003945598229166
+[26Jan2025 23:26:17.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.602576713252688
+[26Jan2025 23:26:17.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 1.2637219271631466
+[26Jan2025 23:26:17.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.5140943224279226
+[26Jan2025 23:26:17.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.49759130510483374
+[26Jan2025 23:26:17.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.488760869570001
+[26Jan2025 23:26:17.452] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.48403587957523087
+[26Jan2025 23:26:17.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.48150763163505417
+[26Jan2025 23:26:17.553] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.4801548165702343
+[26Jan2025 23:26:17.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.47943095220114174
+[26Jan2025 23:26:34.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.3344599608558383
+[26Jan2025 23:26:34.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.8523843531634157
+[26Jan2025 23:26:34.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 1.4685879103419666
+[26Jan2025 23:27:06.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.25577482775179305
+[26Jan2025 23:27:06.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.888798455045162
+[26Jan2025 23:27:06.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.9698338863565823
+[26Jan2025 23:27:27.096] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Franco'/95946, l='ServerLevel[world]', x=-1857.89, y=63.94, z=-713.44] died, message: 'Franco was shot by Pillager'
+[26Jan2025 23:27:27.098] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Franco'/95946, l='ServerLevel[world]', x=-1857.89, y=63.94, z=-713.44] died: Franco was shot by Pillager
+[26Jan2025 23:27:27.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.25843836278636445
+[26Jan2025 23:27:27.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.6551619407946419
+[26Jan2025 23:28:21.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.45060997234304523
+[26Jan2025 23:28:21.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 1.1380720361889871
+[26Jan2025 23:28:56.762] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SpartanMike[/127.97.21.212:51609] logged in with entity id 97559 at (-1168.1753571029758, 86.0, 1373.8835668336135)
+[26Jan2025 23:28:56.763] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to SpartanMike
+[26Jan2025 23:28:56.763] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to SpartanMike
+[26Jan2025 23:28:56.763] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to SpartanMike
+[26Jan2025 23:28:56.764] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to SpartanMike
+[26Jan2025 23:28:56.764] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to SpartanMike
+[26Jan2025 23:28:56.766] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to SpartanMike
+[26Jan2025 23:28:56.766] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to SpartanMike
+[26Jan2025 23:28:56.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike joined the game
+[26Jan2025 23:28:56.800] [Server thread/INFO] [Jade/]: Syncing config to SpartanMike (8f0465db-d348-3144-a61a-6d0ee53eed92)
+[26Jan2025 23:29:24.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
+[26Jan2025 23:29:56.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.26417380798534396
+[26Jan2025 23:29:56.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.947364636194834
+[26Jan2025 23:30:48.505] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.3915751646609209
+[26Jan2025 23:30:48.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.5745982617024481
+[26Jan2025 23:30:48.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 1.0
+[26Jan2025 23:30:48.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.3275375177963724
+[26Jan2025 23:30:48.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.8393484414552859
+[26Jan2025 23:30:49.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.25779508873552004
+[26Jan2025 23:30:49.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.6341638985442284
+[26Jan2025 23:30:49.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.9723017902898933
+[26Jan2025 23:32:26.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 has made the advancement [Ice Bucket Challenge]
+[26Jan2025 23:33:13.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.26955681528653486
+[26Jan2025 23:33:13.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.441913130602245
+[26Jan2025 23:33:13.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 1.1431466726471058
+[26Jan2025 23:33:41.400] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Vilen}[style={}] has been infected
+[26Jan2025 23:33:49.746] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Vilen}[style={}] has been infected
+[26Jan2025 23:33:51.198] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Vilen'/98246, l='ServerLevel[world]', x=-1423.13, y=63.00, z=1178.29] died, message: 'Vilen was slain by Zombie'
+[26Jan2025 23:33:51.198] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Vilen'/98246, l='ServerLevel[world]', x=-1423.13, y=63.00, z=1178.29] died: Vilen was slain by Zombie
+[26Jan2025 23:33:58.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.3865428887968392
+[26Jan2025 23:33:59.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.75
+[26Jan2025 23:33:59.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.75
+[26Jan2025 23:34:04.296] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Eugenia'/98461, l='ServerLevel[world]', x=-1423.47, y=63.00, z=1195.52] died, message: 'Eugenia was slain by Zombie'
+[26Jan2025 23:34:04.297] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Eugenia'/98461, l='ServerLevel[world]', x=-1423.47, y=63.00, z=1195.52] died: Eugenia was slain by Zombie
