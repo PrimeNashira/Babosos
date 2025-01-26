@@ -529,3 +529,26 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [26Jan2025 19:53:49.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike joined the game
 [26Jan2025 19:53:49.229] [Server thread/INFO] [Jade/]: Syncing config to SpartanMike (8f0465db-d348-3144-a61a-6d0ee53eed92)
 [26Jan2025 19:54:16.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
+[26Jan2025 20:21:19.687] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PrimeRios03[/127.57.81.108:33441] logged in with entity id 5352 at (-1606.300000011921, 125.0, 129.43808066169163)
+[26Jan2025 20:21:19.687] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to PrimeRios03
+[26Jan2025 20:21:19.688] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to PrimeRios03
+[26Jan2025 20:21:19.688] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to PrimeRios03
+[26Jan2025 20:21:19.689] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to PrimeRios03
+[26Jan2025 20:21:19.691] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to PrimeRios03
+[26Jan2025 20:21:19.694] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to PrimeRios03
+[26Jan2025 20:21:19.694] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to PrimeRios03
+[26Jan2025 20:21:19.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 joined the game
+[26Jan2025 20:21:19.808] [Server thread/INFO] [Jade/]: Syncing config to PrimeRios03 (e4bcc4ae-0e89-38e4-a892-edc771448902)
+[26Jan2025 20:21:47.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
+[26Jan2025 20:22:37.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrimeRios03> que ta quedo la casilla
+[26Jan2025 20:22:56.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SpartanMike> voy a la mina, al rato te digo
+[26Jan2025 20:23:38.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike has made the advancement [Dark Metallurgy]
+[26Jan2025 20:37:04.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SpartanMike> quieres dico
+[26Jan2025 20:37:07.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SpartanMike> ???
+[26Jan2025 20:38:28.457] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1166, y=-4, z=331}
+[26Jan2025 20:38:28.458] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1165, y=-4, z=332}
+[26Jan2025 20:38:28.458] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1166, y=-4, z=331}
+[26Jan2025 20:38:28.459] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1165, y=-4, z=332}
+[26Jan2025 20:38:37.338] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1166, y=-4, z=331}
+[26Jan2025 20:38:37.339] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1165, y=-4, z=332}
+[26Jan2025 20:39:45.514] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1750, y=11, z=-188}
