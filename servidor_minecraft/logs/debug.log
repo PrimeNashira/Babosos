@@ -11307,3 +11307,20 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [26Jan2025 21:48:52.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike has made the advancement [Suit Up]
 [26Jan2025 21:52:39.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Jan2025 21:52:39.247] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jan2025 21:54:36.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 has made the advancement [Deceived Hopes]
+[26Jan2025 21:57:39.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jan2025 21:57:39.247] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jan2025 22:00:58.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike has reached the goal [Bone Crusher]
+[26Jan2025 22:01:37.993] [Server thread/DEBUG] [harmonised.pmmo.util.MsLoggy/]: AutoItem Attributes: DUR=-0.38 TIER=0.0 DMG=4.5 SPD=8.000000953674316 DIG=0.0
+[26Jan2025 22:01:37.993] [Server thread/DEBUG] [harmonised.pmmo.util.MsLoggy/]: AutoItem XpGain Map: {crafting:121}
+[26Jan2025 22:01:57.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike blew up
+[26Jan2025 22:01:57.194] [Server thread/DEBUG] [tombstone/]: A new grave of the player SpartanMike was created at position [x:-1214, y:-29, z:324, dim:minecraft:overworld]
+[26Jan2025 22:01:57.197] [Server thread/INFO] [tombstone/]: The player SpartanMike has successfully been saved
+[26Jan2025 22:02:12.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike has reached the goal [Chain Death]
+[26Jan2025 22:02:12.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike fell from a high place
+[26Jan2025 22:02:12.771] [Server thread/DEBUG] [tombstone/]: A new grave of the player SpartanMike was created at position [x:-1697, y:76, z:149, dim:minecraft:overworld]
+[26Jan2025 22:02:12.783] [Server thread/INFO] [tombstone/]: The player SpartanMike has successfully been saved
+[26Jan2025 22:02:39.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jan2025 22:02:39.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jan2025 22:02:50.421] [Server thread/DEBUG] [harmonised.pmmo.util.MsLoggy/]: AutoItem Attributes: DUR=0.99 ARM=10.0 TUF=0.0 KBR=0.0
+[26Jan2025 22:02:53.411] [Server thread/DEBUG] [harmonised.pmmo.util.MsLoggy/]: AutoItem Attributes: DUR=1.17 ARM=10.0 TUF=0.0 KBR=0.0
