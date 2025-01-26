@@ -16159,3 +16159,15 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [26Jan2025 23:33:59.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.75
 [26Jan2025 23:34:04.296] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Eugenia'/98461, l='ServerLevel[world]', x=-1423.47, y=63.00, z=1195.52] died, message: 'Eugenia was slain by Zombie'
 [26Jan2025 23:34:04.297] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Eugenia'/98461, l='ServerLevel[world]', x=-1423.47, y=63.00, z=1195.52] died: Eugenia was slain by Zombie
+[26Jan2025 23:37:39.235] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jan2025 23:37:39.256] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jan2025 23:39:57.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike fell from a high place
+[26Jan2025 23:39:57.075] [Server thread/DEBUG] [tombstone/]: A new grave of the player SpartanMike was created at position [x:-1640, y:91, z:131, dim:minecraft:overworld]
+[26Jan2025 23:39:57.075] [Server thread/INFO] [tombstone/]: The player SpartanMike has successfully been saved
+[26Jan2025 23:42:39.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jan2025 23:42:39.253] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jan2025 23:45:30.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike has reached the goal [Dinner's Served!]
+[26Jan2025 23:47:39.230] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jan2025 23:47:39.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jan2025 23:52:39.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jan2025 23:52:39.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
