@@ -552,3 +552,16 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [26Jan2025 20:38:37.338] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1166, y=-4, z=331}
 [26Jan2025 20:38:37.339] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1165, y=-4, z=332}
 [26Jan2025 20:39:45.514] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1750, y=11, z=-188}
+[26Jan2025 20:42:02.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 has made the advancement [Jaws]
+[26Jan2025 20:43:03.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 has made the advancement [Good Demoman]
+[26Jan2025 20:46:31.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SpartanMike> hola?
+[26Jan2025 20:46:45.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrimeRios03> ola
+[26Jan2025 20:46:50.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SpartanMike> ayudaaa
+[26Jan2025 20:46:51.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrimeRios03> q
+[26Jan2025 20:47:18.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SpartanMike> el gerardo me disparo una flecha
+[26Jan2025 20:47:35.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrimeRios03> tienes cuero?
+[26Jan2025 20:47:48.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrimeRios03> cuero
+[26Jan2025 20:47:52.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SpartanMike> no tengo
+[26Jan2025 20:49:39.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrimeRios03> queri agregar más mods?
+[26Jan2025 20:50:41.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrimeRios03> dico
+[26Jan2025 20:50:56.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SpartanMike> ok

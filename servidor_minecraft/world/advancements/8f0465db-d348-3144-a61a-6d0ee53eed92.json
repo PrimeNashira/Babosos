@@ -8605,6 +8605,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-26 20:44:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-01-26 20:44:59 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/stripped_dark_oak_kitchen_wall_counter": {
     "criteria": {
       "has_planks": "2025-01-26 20:08:38 +0000"
@@ -8731,6 +8743,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-26 20:44:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-26 20:44:59 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/stripped_dark_oak_table_basic": {
     "criteria": {
       "has_planks": "2025-01-26 20:08:38 +0000"
@@ -8746,6 +8770,12 @@
   "pfm:recipes/furniture/fir_biomesoplenty_table_basic": {
     "criteria": {
       "has_planks": "2025-01-26 20:09:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-26 20:44:59 +0000"
     },
     "done": false
   },
@@ -8804,6 +8834,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-01-26 20:44:59 +0000"
+    },
+    "done": false
+  },
   "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2025-01-26 20:25:27 +0000"
@@ -8813,6 +8849,12 @@
   "biomesoplenty:recipes/building_blocks/fir_slab": {
     "criteria": {
       "has_planks": "2025-01-26 20:09:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-01-26 20:44:59 +0000"
     },
     "done": false
   },
@@ -8827,6 +8869,12 @@
       "has_planks": "2025-01-26 20:08:38 +0000"
     },
     "done": false
+  },
+  "mca:recipes/misc/rose_gold_dust": {
+    "criteria": {
+      "has_item": "2025-01-26 20:41:15 +0000"
+    },
+    "done": true
   },
   "pfm:recipes/furniture/andesite_chair_dinner": {
     "criteria": {
@@ -9044,6 +9092,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-01-26 20:41:15 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-26 20:28:31 +0000"
@@ -9092,6 +9146,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-01-26 20:44:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-01-26 20:41:15 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/stripped_dark_oak_classic_nightstand": {
     "criteria": {
       "has_planks": "2025-01-26 20:08:38 +0000"
@@ -9110,6 +9176,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-01-26 20:41:15 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/stripped_dark_oak_chair_modern": {
     "criteria": {
       "has_planks": "2025-01-26 20:08:38 +0000"
@@ -9125,6 +9197,12 @@
   "pfm:recipes/furniture/stripped_dark_oak_modern_stool": {
     "criteria": {
       "has_planks": "2025-01-26 20:08:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-26 20:44:59 +0000"
     },
     "done": false
   },
@@ -9218,6 +9296,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-26 20:44:59 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/stripped_dark_oak_table_dinner": {
     "criteria": {
       "has_planks": "2025-01-26 20:08:38 +0000"
@@ -9293,6 +9377,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-26 20:28:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-01-26 20:44:59 +0000"
     },
     "done": false
   },
