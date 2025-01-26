@@ -9869,6 +9869,12 @@
     },
     "done": false
   },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-01-26 22:08:40 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:recipes/combat/spawner_boots": {
     "criteria": {
       "has_spawner_frame": "2025-01-26 21:52:13 +0000"

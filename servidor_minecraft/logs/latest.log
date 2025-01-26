@@ -663,3 +663,14 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [26Jan2025 22:02:12.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike has reached the goal [Chain Death]
 [26Jan2025 22:02:12.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike fell from a high place
 [26Jan2025 22:02:12.783] [Server thread/INFO] [tombstone/]: The player SpartanMike has successfully been saved
+[26Jan2025 22:08:40.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike has made the advancement [The Cutest Predator]
+[26Jan2025 22:12:59.714] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FunnyUntipo[/127.93.239.130:40221] logged in with entity id 42859 at (-1616.966959835245, 125.0, 125.65905152359085)
+[26Jan2025 22:12:59.715] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to FunnyUntipo
+[26Jan2025 22:12:59.715] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to FunnyUntipo
+[26Jan2025 22:12:59.715] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to FunnyUntipo
+[26Jan2025 22:12:59.716] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to FunnyUntipo
+[26Jan2025 22:12:59.717] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to FunnyUntipo
+[26Jan2025 22:12:59.719] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to FunnyUntipo
+[26Jan2025 22:12:59.719] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to FunnyUntipo
+[26Jan2025 22:12:59.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo joined the game
+[26Jan2025 22:12:59.754] [Server thread/INFO] [Jade/]: Syncing config to FunnyUntipo (b404d8c6-7175-37d8-923b-eca00424e1ad)
