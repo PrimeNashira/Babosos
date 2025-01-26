@@ -11556,3 +11556,16 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [26Jan2025 22:12:59.719] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 302 classes
 [26Jan2025 22:12:59.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo joined the game
 [26Jan2025 22:12:59.754] [Server thread/INFO] [Jade/]: Syncing config to FunnyUntipo (b404d8c6-7175-37d8-923b-eca00424e1ad)
+[26Jan2025 22:13:27.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
+[26Jan2025 22:14:29.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike was spiked to death
+[26Jan2025 22:14:29.402] [Server thread/DEBUG] [tombstone/]: A new grave of the player SpartanMike was created at position [x:-1246, y:-58, z:316, dim:minecraft:overworld]
+[26Jan2025 22:14:29.405] [Server thread/INFO] [tombstone/]: The player SpartanMike has successfully been saved
+[26Jan2025 22:15:10.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 has reached the goal [Die Classy]
+[26Jan2025 22:17:39.247] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jan2025 22:17:39.267] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jan2025 22:17:52.001] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [ab057d9e-137e-4582-b8d8-52c148a98bce]
+[26Jan2025 22:18:04.299] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [b2007f5f-60c5-4203-8e4a-ffe3e72b47c8]
+[26Jan2025 22:19:38.897] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [1185ab2b-b9d9-4194-9e6e-2619d8565f2e]
+[26Jan2025 22:19:39.498] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [1185ab2b-b9d9-4194-9e6e-2619d8565f2e]
+[26Jan2025 22:22:39.244] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jan2025 22:22:39.263] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

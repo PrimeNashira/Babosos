@@ -674,3 +674,7 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [26Jan2025 22:12:59.719] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to FunnyUntipo
 [26Jan2025 22:12:59.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo joined the game
 [26Jan2025 22:12:59.754] [Server thread/INFO] [Jade/]: Syncing config to FunnyUntipo (b404d8c6-7175-37d8-923b-eca00424e1ad)
+[26Jan2025 22:13:27.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
+[26Jan2025 22:14:29.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike was spiked to death
+[26Jan2025 22:14:29.405] [Server thread/INFO] [tombstone/]: The player SpartanMike has successfully been saved
+[26Jan2025 22:15:10.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 has reached the goal [Die Classy]
