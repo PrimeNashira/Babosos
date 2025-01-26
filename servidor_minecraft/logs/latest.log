@@ -565,3 +565,6 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [26Jan2025 20:49:39.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrimeRios03> queri agregar más mods?
 [26Jan2025 20:50:41.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrimeRios03> dico
 [26Jan2025 20:50:56.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SpartanMike> ok
+[26Jan2025 20:55:30.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike fell from a high place
+[26Jan2025 20:55:30.736] [Server thread/INFO] [tombstone/]: The player SpartanMike has successfully been saved
+[26Jan2025 21:00:32.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 has made the advancement [The Wind Darkening]
