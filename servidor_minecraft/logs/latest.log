@@ -568,3 +568,91 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [26Jan2025 20:55:30.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike fell from a high place
 [26Jan2025 20:55:30.736] [Server thread/INFO] [tombstone/]: The player SpartanMike has successfully been saved
 [26Jan2025 21:00:32.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 has made the advancement [The Wind Darkening]
+[26Jan2025 21:07:02.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 has made the advancement [Diamonds!]
+[26Jan2025 21:08:33.147] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1108, y=-4, z=525}
+[26Jan2025 21:09:39.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike has made the advancement [Labyrinth]
+[26Jan2025 21:09:41.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 has made the advancement [Labyrinth]
+[26Jan2025 21:11:12.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike was slain by Zombie
+[26Jan2025 21:11:12.248] [Server thread/INFO] [tombstone/]: The player SpartanMike has successfully been saved
+[26Jan2025 21:11:28.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SpartanMike was kicked for floating too long!
+[26Jan2025 21:11:28.300] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SpartanMike lost connection: Disconnected
+[26Jan2025 21:11:28.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike left the game
+[26Jan2025 21:11:28.361] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Jan2025 21:11:36.268] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SpartanMike[/127.97.21.212:35331] logged in with entity id 21111 at (-1664.7442754481156, 96.18635706987737, 176.79835043776464)
+[26Jan2025 21:11:36.269] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to SpartanMike
+[26Jan2025 21:11:36.269] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to SpartanMike
+[26Jan2025 21:11:36.270] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to SpartanMike
+[26Jan2025 21:11:36.270] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to SpartanMike
+[26Jan2025 21:11:36.272] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to SpartanMike
+[26Jan2025 21:11:36.274] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to SpartanMike
+[26Jan2025 21:11:36.274] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to SpartanMike
+[26Jan2025 21:11:36.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike joined the game
+[26Jan2025 21:11:36.310] [Server thread/INFO] [Jade/]: Syncing config to SpartanMike (8f0465db-d348-3144-a61a-6d0ee53eed92)
+[26Jan2025 21:11:59.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SpartanMike was kicked for floating too long!
+[26Jan2025 21:11:59.654] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SpartanMike lost connection: Flying is not enabled on this server
+[26Jan2025 21:11:59.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike left the game
+[26Jan2025 21:12:04.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
+[26Jan2025 21:12:05.862] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SpartanMike[/127.97.21.212:57167] logged in with entity id 21418 at (-1626.5941185645656, 82.68635706987737, 216.85167253975212)
+[26Jan2025 21:12:05.863] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to SpartanMike
+[26Jan2025 21:12:05.863] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to SpartanMike
+[26Jan2025 21:12:05.864] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to SpartanMike
+[26Jan2025 21:12:05.864] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to SpartanMike
+[26Jan2025 21:12:05.865] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to SpartanMike
+[26Jan2025 21:12:05.867] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to SpartanMike
+[26Jan2025 21:12:05.868] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to SpartanMike
+[26Jan2025 21:12:05.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike joined the game
+[26Jan2025 21:12:05.901] [Server thread/INFO] [Jade/]: Syncing config to SpartanMike (8f0465db-d348-3144-a61a-6d0ee53eed92)
+[26Jan2025 21:12:33.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
+[26Jan2025 21:13:00.945] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SpartanMike was kicked for floating too long!
+[26Jan2025 21:13:01.000] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SpartanMike lost connection: Flying is not enabled on this server
+[26Jan2025 21:13:01.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike left the game
+[26Jan2025 21:13:04.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by Hollow
+[26Jan2025 21:13:04.749] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[26Jan2025 21:13:06.795] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SpartanMike[/127.97.21.212:52925] logged in with entity id 22164 at (-1472.9076223341308, 35.88149460354, 356.82604058961766)
+[26Jan2025 21:13:06.795] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to SpartanMike
+[26Jan2025 21:13:06.796] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to SpartanMike
+[26Jan2025 21:13:06.796] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to SpartanMike
+[26Jan2025 21:13:06.796] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to SpartanMike
+[26Jan2025 21:13:06.798] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to SpartanMike
+[26Jan2025 21:13:06.801] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to SpartanMike
+[26Jan2025 21:13:06.801] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to SpartanMike
+[26Jan2025 21:13:06.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike joined the game
+[26Jan2025 21:13:06.840] [Server thread/INFO] [Jade/]: Syncing config to SpartanMike (8f0465db-d348-3144-a61a-6d0ee53eed92)
+[26Jan2025 21:13:22.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 has made the advancement [The Most Useful Key]
+[26Jan2025 21:13:27.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 has reached the goal [A Fast Comeback]
+[26Jan2025 21:13:34.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
+[26Jan2025 21:15:55.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was spiked to death
+[26Jan2025 21:15:55.149] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[26Jan2025 21:21:34.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike has made the advancement [Local Brewery]
+[26Jan2025 21:21:49.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 has made the advancement [Local Brewery]
+[26Jan2025 21:25:14.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike was slain by Hollow
+[26Jan2025 21:25:14.399] [Server thread/INFO] [tombstone/]: The player SpartanMike has successfully been saved
+[26Jan2025 21:26:00.439] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1022, y=63, z=468}
+[26Jan2025 21:26:00.440] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1021, y=63, z=468}
+[26Jan2025 21:26:06.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike has made the advancement [The Most Useful Key]
+[26Jan2025 21:26:11.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike has reached the goal [A Fast Comeback]
+[26Jan2025 21:28:17.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 has reached the goal [Bone Crusher]
+[26Jan2025 21:33:03.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was killed by SpartanMike's magic missile
+[26Jan2025 21:33:03.598] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[26Jan2025 21:34:00.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 has made the advancement [Knowledge raises the soul]
+[26Jan2025 21:34:47.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 fell from a high place
+[26Jan2025 21:34:47.050] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[26Jan2025 21:36:14.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike has reached the goal [Die Classy]
+[26Jan2025 21:36:52.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike has made the advancement [Knowledge raises the soul]
+[26Jan2025 21:38:30.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by Spider
+[26Jan2025 21:38:30.557] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[26Jan2025 21:39:37.546] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PrimeRios03 was kicked for floating too long!
+[26Jan2025 21:39:37.597] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PrimeRios03 lost connection: Flying is not enabled on this server
+[26Jan2025 21:39:37.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 left the game
+[26Jan2025 21:39:43.565] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PrimeRios03[/127.57.81.108:53871] logged in with entity id 31330 at (-1456.7268947227667, 53.625658591500724, 303.62820533177097)
+[26Jan2025 21:39:43.566] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to PrimeRios03
+[26Jan2025 21:39:43.566] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to PrimeRios03
+[26Jan2025 21:39:43.567] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to PrimeRios03
+[26Jan2025 21:39:43.567] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to PrimeRios03
+[26Jan2025 21:39:43.569] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to PrimeRios03
+[26Jan2025 21:39:43.577] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to PrimeRios03
+[26Jan2025 21:39:43.578] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to PrimeRios03
+[26Jan2025 21:39:43.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 joined the game
+[26Jan2025 21:39:43.618] [Server thread/INFO] [Jade/]: Syncing config to PrimeRios03 (e4bcc4ae-0e89-38e4-a892-edc771448902)
+[26Jan2025 21:40:11.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
+[26Jan2025 21:48:52.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike has made the advancement [Suit Up]

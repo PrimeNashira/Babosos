@@ -105,6 +105,7 @@
       "minecraft:swamp": "2025-01-22 02:22:39 +0000",
       "minecraft:cold_ocean": "2025-01-19 03:54:22 +0000",
       "minecraft:forest": "2025-01-19 02:21:50 +0000",
+      "minecraft:lush_caves": "2025-01-26 21:26:03 +0000",
       "minecraft:deep_cold_ocean": "2025-01-19 04:07:05 +0000",
       "minecraft:windswept_forest": "2025-01-19 04:24:50 +0000",
       "minecraft:ocean": "2025-01-19 02:55:37 +0000",
@@ -633,7 +634,8 @@
       "fir_clearing": "2025-01-19 03:45:03 +0000",
       "pumpkin_patch": "2025-01-19 03:46:15 +0000",
       "prairie": "2025-01-19 03:25:21 +0000",
-      "gravel_beach": "2025-01-19 03:50:39 +0000"
+      "gravel_beach": "2025-01-19 03:50:39 +0000",
+      "glowing_grotto": "2025-01-26 21:29:51 +0000"
     },
     "done": false
   },
@@ -654,7 +656,8 @@
       "fir_clearing": "2025-01-19 03:45:03 +0000",
       "pumpkin_patch": "2025-01-19 03:46:15 +0000",
       "prairie": "2025-01-19 03:25:21 +0000",
-      "gravel_beach": "2025-01-19 03:50:39 +0000"
+      "gravel_beach": "2025-01-19 03:50:39 +0000",
+      "glowing_grotto": "2025-01-26 21:29:51 +0000"
     },
     "done": false
   },
@@ -1142,6 +1145,7 @@
       "minecraft:spider": "2025-01-19 02:26:56 +0000",
       "minecraft:wither_skeleton": "2025-01-19 04:26:52 +0000",
       "minecraft:husk": "2025-01-19 04:36:35 +0000",
+      "minecraft:cave_spider": "2025-01-26 21:48:37 +0000",
       "minecraft:enderman": "2025-01-22 01:51:11 +0000",
       "minecraft:zombie": "2025-01-19 03:08:26 +0000"
     },
@@ -1155,6 +1159,7 @@
       "minecraft:spider": "2025-01-19 02:26:56 +0000",
       "minecraft:wither_skeleton": "2025-01-19 04:26:52 +0000",
       "minecraft:husk": "2025-01-19 04:36:35 +0000",
+      "minecraft:cave_spider": "2025-01-26 21:48:37 +0000",
       "minecraft:enderman": "2025-01-22 01:51:11 +0000",
       "minecraft:zombie": "2025-01-19 03:08:26 +0000"
     },
@@ -3631,6 +3636,8 @@
   },
   "minecraft:story/obtain_armor": {
     "criteria": {
+      "iron_chestplate": "2025-01-26 21:20:39 +0000",
+      "iron_leggings": "2025-01-26 21:20:39 +0000",
       "iron_helmet": "2025-01-19 03:26:37 +0000"
     },
     "done": false
@@ -3638,18 +3645,22 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_axe": "2025-01-19 04:25:51 +0000",
+      "has_iron_leggings": "2025-01-26 21:20:39 +0000",
       "has_iron_pickaxe": "2025-01-22 01:14:28 +0000",
       "has_iron_helmet": "2025-01-19 03:26:37 +0000",
-      "has_chainmail_leggings": "2025-01-19 23:00:40 +0000"
+      "has_chainmail_leggings": "2025-01-19 23:00:40 +0000",
+      "has_iron_chestplate": "2025-01-26 21:20:39 +0000"
     },
     "done": false
   },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_axe": "2025-01-19 04:25:51 +0000",
+      "has_iron_leggings": "2025-01-26 21:20:39 +0000",
       "has_iron_pickaxe": "2025-01-22 01:14:28 +0000",
       "has_iron_helmet": "2025-01-19 03:26:37 +0000",
-      "has_chainmail_leggings": "2025-01-19 23:00:40 +0000"
+      "has_chainmail_leggings": "2025-01-19 23:00:40 +0000",
+      "has_iron_chestplate": "2025-01-26 21:20:39 +0000"
     },
     "done": false
   },
@@ -9456,12 +9467,6 @@
     },
     "done": false
   },
-  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
-    "criteria": {
-      "has_gunpowder": "2025-01-26 20:43:04 +0000"
-    },
-    "done": false
-  },
   "dungeons_arise:find_typhon": {
     "criteria": {
       "location0": "2025-01-26 20:42:02 +0000"
@@ -9473,6 +9478,12 @@
       "good_demoman_0": "2025-01-26 20:43:03 +0000"
     },
     "done": true
+  },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-01-26 20:43:04 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
@@ -9489,6 +9500,426 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-01-26 20:43:04 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-01-26 21:00:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-01-26 21:07:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-01-26 21:07:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-01-26 21:07:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-01-26 21:07:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-01-26 21:07:02 +0000"
+    },
+    "done": false
+  },
+  "justhammers:recipes/tools/diamond_hammer": {
+    "criteria": {
+      "has_material": "2025-01-26 21:07:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-01-26 21:07:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-01-26 21:07:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-01-26 21:07:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-01-26 21:07:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-26 21:07:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-01-26 21:07:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-01-26 21:07:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-01-26 21:07:02 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-01-26 21:07:22 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-01-26 21:07:22 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-01-26 21:07:22 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-01-26 21:07:22 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-01-26 21:07:22 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-01-26 21:07:22 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-01-26 21:07:22 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/limestone_pillar_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-01-26 21:07:22 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-01-26 21:07:22 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/small_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-01-26 21:07:22 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-01-26 21:07:22 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-01-26 21:07:22 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-01-26 21:07:22 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-01-26 21:07:22 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-01-26 21:07:22 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-01-26 21:07:22 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-01-26 21:07:22 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/layered_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-01-26 21:07:22 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-01-26 21:07:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-26 21:09:41 +0000"
+    },
+    "done": false
+  },
+  "dungeonnowloading:story/labyrinth/find_labyrinth": {
+    "criteria": {
+      "find_labyrinth": "2025-01-26 21:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-26 21:09:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-26 21:09:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-26 21:09:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-26 21:09:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-26 21:09:41 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-01-26 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-01-26 21:13:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-26 21:16:00 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-26 21:17:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-26 21:17:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-26 21:17:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-26 21:17:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-26 21:17:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-26 21:17:13 +0000"
+    },
+    "done": false
+  },
+  "dungeonnowloading:recipes/combat/spawner_chestplate": {
+    "criteria": {
+      "has_spawner_frame": "2025-01-26 21:19:07 +0000"
+    },
+    "done": false
+  },
+  "dungeonnowloading:recipes/combat/spawner_boots": {
+    "criteria": {
+      "has_spawner_frame": "2025-01-26 21:19:07 +0000"
+    },
+    "done": false
+  },
+  "dungeonnowloading:recipes/combat/spawner_leggings": {
+    "criteria": {
+      "has_spawner_frame": "2025-01-26 21:19:07 +0000"
+    },
+    "done": false
+  },
+  "dungeonnowloading:recipes/combat/spawner_helmet": {
+    "criteria": {
+      "has_spawner_frame": "2025-01-26 21:19:07 +0000"
+    },
+    "done": false
+  },
+  "dungeonnowloading:recipes/misc/spawner_blade": {
+    "criteria": {
+      "has_spawner_frame": "2025-01-26 21:19:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-01-26 21:21:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/smooth_stone_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-26 21:22:38 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/smooth_stone_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-26 21:22:38 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/smooth_stone_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-26 21:22:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-26 21:22:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-26 21:22:38 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/smooth_stone_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-26 21:22:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-26 21:22:38 +0000"
+    },
+    "done": false
+  },
+  "dungeonnowloading:recipes/combat/life_stealer": {
+    "criteria": {
+      "has_spawner_blade": "2025-01-26 21:28:04 +0000"
+    },
+    "done": false
+  },
+  "dungeonnowloading:recipes/combat/spawner_sword": {
+    "criteria": {
+      "has_spawner_blade": "2025-01-26 21:28:04 +0000"
+    },
+    "done": false
+  },
+  "dungeonnowloading:recipes/misc/skull_of_chaos": {
+    "criteria": {
+      "has_spawner_blade": "2025-01-26 21:28:04 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-01-26 21:28:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-26 21:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-01-26 21:52:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-01-26 21:52:14 +0000"
     },
     "done": false
   },
