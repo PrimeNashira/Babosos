@@ -10068,5 +10068,17 @@
     },
     "done": false
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-27 20:49:53 +0000"
+    },
+    "done": true
+  },
+  "chest_with_legs:chest_with_legs": {
+    "criteria": {
+      "chest_with_legs_0": "2025-01-27 20:49:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

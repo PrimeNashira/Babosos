@@ -507,3 +507,5 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [27Jan2025 20:35:47.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 joined the game
 [27Jan2025 20:35:48.041] [Server thread/INFO] [Jade/]: Syncing config to PrimeRios03 (e4bcc4ae-0e89-38e4-a892-edc771448902)
 [27Jan2025 20:36:15.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
+[27Jan2025 20:49:53.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 has made the advancement [Chest With Legs]
+[27Jan2025 20:49:53.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 has made the advancement [Best Friends Forever]
