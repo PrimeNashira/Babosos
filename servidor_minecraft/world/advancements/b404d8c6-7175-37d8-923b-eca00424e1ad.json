@@ -6763,9 +6763,10 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-01-26 22:41:04 +0000",
+      "has_the_recipe": "2025-01-27 00:31:34 +0000",
       "has_obsidian": "2025-01-26 23:11:19 +0000"
     },
-    "done": false
+    "done": true
   },
   "enchantinginfuser:recipes/decorations/enchanting_infuser": {
     "criteria": {

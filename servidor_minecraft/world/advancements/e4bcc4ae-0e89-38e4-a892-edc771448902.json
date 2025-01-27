@@ -6524,9 +6524,10 @@
   },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
-      "has_stone": "2025-01-19 23:45:06 +0000"
+      "has_stone": "2025-01-19 23:45:06 +0000",
+      "has_the_recipe": "2025-01-27 00:29:17 +0000"
     },
-    "done": false
+    "done": true
   },
   "pfm:recipes/furniture/stone_classic_nightstand": {
     "criteria": {
@@ -9696,9 +9697,10 @@
   },
   "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
     "criteria": {
-      "has_stone_types_limestone": "2025-01-26 21:07:22 +0000"
+      "has_stone_types_limestone": "2025-01-26 21:07:22 +0000",
+      "has_the_recipe": "2025-01-27 00:29:54 +0000"
     },
-    "done": false
+    "done": true
   },
   "create:recipes/building_blocks/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
@@ -9965,6 +9967,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_limestone_brick_wall": {
+    "criteria": {
+      "has_small_limestone_bricks": "2025-01-27 00:29:54 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/building_blocks/mossy_black_sand": {
     "criteria": {
       "has_moss_block": "2025-01-26 22:47:12 +0000"
@@ -9986,6 +9994,12 @@
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-01-26 23:08:59 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/small_limestone_brick_slab": {
+    "criteria": {
+      "has_small_limestone_bricks": "2025-01-27 00:29:54 +0000"
     },
     "done": false
   },
@@ -10022,6 +10036,12 @@
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2025-01-26 22:47:12 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/small_limestone_brick_stairs": {
+    "criteria": {
+      "has_small_limestone_bricks": "2025-01-27 00:29:54 +0000"
     },
     "done": false
   },

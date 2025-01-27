@@ -16254,3 +16254,34 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [27Jan2025 00:24:53.108] [Server thread/DEBUG] [tombstone/]: A new grave of the player PrimeRios03 was created at position [x:-1679, y:103, z:146, dim:minecraft:overworld]
 [27Jan2025 00:24:53.109] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
 [27Jan2025 00:25:05.153] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [b404d8c6-7175-37d8-923b-eca00424e1ad]
+[27Jan2025 00:25:18.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by FunnyUntipo
+[27Jan2025 00:25:18.607] [Server thread/DEBUG] [tombstone/]: A new grave of the player PrimeRios03 was created at position [x:-1675, y:97, z:150, dim:minecraft:overworld]
+[27Jan2025 00:25:18.608] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[27Jan2025 00:26:02.373] [Server thread/DEBUG] [harmonised.pmmo.util.MsLoggy/]: AutoItem Attributes: DUR=0.0 TIER=0.0 DMG=0.0 SPD=7.499999046325683 DIG=0.0
+[27Jan2025 00:26:02.373] [Server thread/DEBUG] [harmonised.pmmo.util.MsLoggy/]: AutoItem XpGain Map: {crafting:74}
+[27Jan2025 00:26:25.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by FunnyUntipo
+[27Jan2025 00:26:25.458] [Server thread/DEBUG] [tombstone/]: A new grave of the player PrimeRios03 was created at position [x:-1675, y:99, z:152, dim:minecraft:overworld]
+[27Jan2025 00:26:25.458] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[27Jan2025 00:27:23.495] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [b404d8c6-7175-37d8-923b-eca00424e1ad]
+[27Jan2025 00:27:39.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 00:27:39.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jan2025 00:27:41.601] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [8f0465db-d348-3144-a61a-6d0ee53eed92]
+[27Jan2025 00:28:05.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by FunnyUntipo
+[27Jan2025 00:28:05.857] [Server thread/DEBUG] [tombstone/]: A new grave of the player PrimeRios03 was created at position [x:-1675, y:97, z:148, dim:minecraft:overworld]
+[27Jan2025 00:28:05.858] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[27Jan2025 00:28:19.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by FunnyUntipo
+[27Jan2025 00:28:19.856] [Server thread/DEBUG] [tombstone/]: A new grave of the player PrimeRios03 was created at position [x:-1673, y:97, z:147, dim:minecraft:overworld]
+[27Jan2025 00:28:19.857] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[27Jan2025 00:30:58.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo was slain by PrimeRios03
+[27Jan2025 00:30:58.047] [Server thread/DEBUG] [tombstone/]: A new grave of the player FunnyUntipo was created at position [x:-1623, y:112, z:133, dim:minecraft:overworld]
+[27Jan2025 00:30:58.047] [Server thread/INFO] [tombstone/]: The player FunnyUntipo has successfully been saved
+[27Jan2025 00:31:48.958] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [8f0465db-d348-3144-a61a-6d0ee53eed92]
+[27Jan2025 00:32:39.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 00:32:39.259] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jan2025 00:32:49.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.5855576570681649
+[27Jan2025 00:32:49.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 1.1709238797809576
+[27Jan2025 00:33:03.195] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SpartanMike lost connection: Disconnected
+[27Jan2025 00:33:03.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike left the game
+[27Jan2025 00:33:12.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.2971433004501449
+[27Jan2025 00:33:12.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.9666625318404556
+[27Jan2025 00:33:51.490] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/117531, l='ServerLevel[world]', x=-1629.50, y=103.00, z=126.78]

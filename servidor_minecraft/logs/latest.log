@@ -38,3 +38,20 @@
 [27Jan2025 00:24:32.255] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
 [27Jan2025 00:24:53.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by FunnyUntipo
 [27Jan2025 00:24:53.109] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[27Jan2025 00:25:18.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by FunnyUntipo
+[27Jan2025 00:25:18.608] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[27Jan2025 00:26:25.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by FunnyUntipo
+[27Jan2025 00:26:25.458] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[27Jan2025 00:28:05.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by FunnyUntipo
+[27Jan2025 00:28:05.858] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[27Jan2025 00:28:19.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by FunnyUntipo
+[27Jan2025 00:28:19.857] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[27Jan2025 00:30:58.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo was slain by PrimeRios03
+[27Jan2025 00:30:58.047] [Server thread/INFO] [tombstone/]: The player FunnyUntipo has successfully been saved
+[27Jan2025 00:32:49.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.5855576570681649
+[27Jan2025 00:32:49.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 1.1709238797809576
+[27Jan2025 00:33:03.195] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SpartanMike lost connection: Disconnected
+[27Jan2025 00:33:03.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike left the game
+[27Jan2025 00:33:12.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.2971433004501449
+[27Jan2025 00:33:12.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.9666625318404556
+[27Jan2025 00:33:51.490] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/117531, l='ServerLevel[world]', x=-1629.50, y=103.00, z=126.78]
