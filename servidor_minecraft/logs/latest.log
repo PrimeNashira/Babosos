@@ -55,3 +55,23 @@
 [27Jan2025 00:33:12.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.2971433004501449
 [27Jan2025 00:33:12.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.9666625318404556
 [27Jan2025 00:33:51.490] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/117531, l='ServerLevel[world]', x=-1629.50, y=103.00, z=126.78]
+[27Jan2025 00:36:18.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo was shot by PrimeRios03
+[27Jan2025 00:36:18.649] [Server thread/INFO] [tombstone/]: The player FunnyUntipo has successfully been saved
+[27Jan2025 00:36:20.193] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PrimeRios03 lost connection: Disconnected
+[27Jan2025 00:36:20.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 left the game
+[27Jan2025 00:36:28.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo has reached the goal [A Fast Comeback]
+[27Jan2025 00:36:48.289] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FunnyUntipo lost connection: Disconnected
+[27Jan2025 00:36:48.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo left the game
+[27Jan2025 00:44:07.149] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PrimeRios03[/127.57.81.108:54815] logged in with entity id 118596 at (-1620.4558731374914, 108.0, 132.4419535367427)
+[27Jan2025 00:44:07.149] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to PrimeRios03
+[27Jan2025 00:44:07.150] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to PrimeRios03
+[27Jan2025 00:44:07.150] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to PrimeRios03
+[27Jan2025 00:44:07.150] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to PrimeRios03
+[27Jan2025 00:44:07.152] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to PrimeRios03
+[27Jan2025 00:44:07.153] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to PrimeRios03
+[27Jan2025 00:44:07.153] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to PrimeRios03
+[27Jan2025 00:44:07.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 joined the game
+[27Jan2025 00:44:07.192] [Server thread/INFO] [Jade/]: Syncing config to PrimeRios03 (e4bcc4ae-0e89-38e4-a892-edc771448902)
+[27Jan2025 00:44:35.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
+[27Jan2025 00:45:28.144] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PrimeRios03 lost connection: Disconnected
+[27Jan2025 00:45:28.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 left the game

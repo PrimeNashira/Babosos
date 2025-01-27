@@ -9930,9 +9930,15 @@
     },
     "done": false
   },
-  "dungeons_enhanced:thats_a_dungeon": {
+  "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
-      "entered_large_dungeon": "2025-01-26 22:53:32 +0000"
+      "has_enchanted_golden_apple": "2025-01-26 21:52:14 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2025-01-26 21:54:36 +0000"
     },
     "done": true
   },
@@ -9942,36 +9948,17 @@
     },
     "done": false
   },
-  "farmersdelight:recipes/decorations/safety_net": {
+  "tombstone:adventure/choose_grave_type": {
     "criteria": {
-      "has_rope": "2025-01-26 22:53:55 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/chain_death": {
-    "criteria": {
-      "coded_trigger": "2025-01-27 00:21:33 +0000"
+      "coded_trigger": "2025-01-26 22:15:10 +0000"
     },
     "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_flint": "2025-01-26 23:08:59 +0000",
-      "has_obsidian": "2025-01-26 23:32:26 +0000"
-    },
-    "done": false
   },
   "born_in_chaos_v1:exorcism": {
     "criteria": {
       "exorcism_0": "2025-01-26 22:45:21 +0000"
     },
     "done": true
-  },
-  "create:recipes/building_blocks/small_limestone_brick_wall": {
-    "criteria": {
-      "has_small_limestone_bricks": "2025-01-27 00:29:54 +0000"
-    },
-    "done": false
   },
   "biomesoplenty:recipes/building_blocks/mossy_black_sand": {
     "criteria": {
@@ -9985,39 +9972,21 @@
     },
     "done": false
   },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2025-01-26 21:52:14 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-01-26 23:08:59 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/small_limestone_brick_slab": {
-    "criteria": {
-      "has_small_limestone_bricks": "2025-01-27 00:29:54 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-01-26 23:32:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-01-26 22:47:12 +0000"
     },
     "done": false
   },
-  "born_in_chaos_v1:deceived_hopes": {
+  "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
-      "deceived_hopes_0": "2025-01-26 21:54:36 +0000"
+      "has_moss_block": "2025-01-26 22:47:12 +0000"
+    },
+    "done": false
+  },
+  "dungeons_enhanced:thats_a_dungeon": {
+    "criteria": {
+      "entered_large_dungeon": "2025-01-26 22:53:32 +0000"
     },
     "done": true
   },
@@ -10027,27 +9996,58 @@
     },
     "done": true
   },
-  "tombstone:adventure/choose_grave_type": {
+  "farmersdelight:recipes/decorations/safety_net": {
     "criteria": {
-      "coded_trigger": "2025-01-26 22:15:10 +0000"
+      "has_rope": "2025-01-26 22:53:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-01-26 23:08:59 +0000",
+      "has_obsidian": "2025-01-26 23:32:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-01-26 23:08:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-26 23:32:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/moss_carpet": {
+  "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
-      "has_moss_block": "2025-01-26 22:47:12 +0000"
+      "has_obsidian": "2025-01-26 23:32:26 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-01-27 00:21:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_wall": {
+    "criteria": {
+      "has_small_limestone_bricks": "2025-01-27 00:29:54 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/small_limestone_brick_slab": {
+    "criteria": {
+      "has_small_limestone_bricks": "2025-01-27 00:29:54 +0000"
     },
     "done": false
   },
   "create:recipes/building_blocks/small_limestone_brick_stairs": {
     "criteria": {
       "has_small_limestone_bricks": "2025-01-27 00:29:54 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2025-01-26 23:32:26 +0000"
     },
     "done": false
   },
