@@ -2367,9 +2367,10 @@
   },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
-      "has_cobblestone": "2025-01-19 02:39:51 +0000"
+      "has_cobblestone": "2025-01-19 02:39:51 +0000",
+      "has_the_recipe": "2025-01-27 02:11:51 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
@@ -4989,9 +4990,10 @@
   },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
+      "has_the_recipe": "2025-01-27 01:37:40 +0000",
       "has_planks": "2025-01-19 04:56:00 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
@@ -6537,6 +6539,50 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-01-26 22:39:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-01-26 22:39:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-01-26 22:41:04 +0000",
+      "has_the_recipe": "2025-01-27 00:31:34 +0000",
+      "has_obsidian": "2025-01-26 23:11:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-01-26 22:41:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-26 22:42:11 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-26 22:52:14 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:thats_a_dungeon": {
+    "criteria": {
+      "entered_large_dungeon": "2025-01-26 22:53:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-01-26 23:05:25 +0000"
@@ -6549,39 +6595,9 @@
     },
     "done": false
   },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-01-26 23:11:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-01-27 00:15:13 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/steam_engine": {
-    "criteria": {
-      "has_item": "2025-01-27 00:01:36 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-01-26 23:05:25 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-01-26 23:09:24 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
-    "criteria": {
-      "has_item": "2025-01-27 00:01:36 +0000"
     },
     "done": false
   },
@@ -6591,142 +6607,9 @@
     },
     "done": false
   },
-  "pfm:recipes/furniture/basalt_kitchen_cabinet": {
-    "criteria": {
-      "has_planks": "2025-01-26 23:16:21 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
-    "criteria": {
-      "has_amethyst_shard": "2025-01-26 23:11:29 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-01-26 23:11:29 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
-    "criteria": {
-      "cooked_bacon": "2025-01-26 23:56:01 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-01-27 00:00:46 +0000",
-      "has_the_recipe": "2025-01-27 00:01:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-01-26 23:18:31 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/tools/brush": {
-    "criteria": {
-      "has_copper_ingot": "2025-01-27 00:01:36 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-01-26 22:39:04 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
-    "criteria": {
-      "cooked_mutton_chops": "2025-01-26 23:18:35 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
-    "criteria": {
-      "has_item": "2025-01-27 00:01:36 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/basalt_kitchen_wall_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-26 23:16:21 +0000"
-    },
-    "done": false
-  },
-  "dungeons_enhanced:thats_a_dungeon": {
-    "criteria": {
-      "entered_large_dungeon": "2025-01-26 22:53:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2025-01-26 23:18:31 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-01-26 23:05:25 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
-    "criteria": {
-      "has_item": "2025-01-27 00:01:36 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-01-27 00:01:36 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/food/cooked_bacon": {
-    "criteria": {
-      "cooked_bacon": "2025-01-26 23:56:01 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/misc/crafting/materials/copper_nugget": {
-    "criteria": {
-      "has_item": "2025-01-27 00:01:36 +0000"
-    },
-    "done": false
-  },
-  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
-    "criteria": {
-      "has_gold_backpack": "2025-01-27 00:11:08 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/choose_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-01-26 22:52:14 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_fishing_hut": {
-    "criteria": {
-      "location0": "2025-01-26 23:28:10 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/chain_death": {
-    "criteria": {
-      "coded_trigger": "2025-01-26 23:08:24 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
-    "criteria": {
-      "cooked_mutton_chops": "2025-01-26 23:18:35 +0000"
     },
     "done": false
   },
@@ -6742,31 +6625,114 @@
     },
     "done": false
   },
-  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+  "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
-      "has_item": "2025-01-27 00:01:36 +0000"
+      "has_diamond": "2025-01-26 23:05:25 +0000"
     },
     "done": false
   },
-  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
+  "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
-      "has_ingots_copper": "2025-01-27 00:01:36 +0000"
+      "has_diamond": "2025-01-26 23:05:25 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
+  "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
-      "has_spider_eye": "2025-01-26 22:42:11 +0000"
+      "has_diamond": "2025-01-26 23:05:25 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/tools/flint_and_steel": {
+  "minecraft:story/mine_diamond": {
     "criteria": {
-      "has_flint": "2025-01-26 22:41:04 +0000",
-      "has_the_recipe": "2025-01-27 00:31:34 +0000",
-      "has_obsidian": "2025-01-26 23:11:19 +0000"
+      "diamond": "2025-01-26 23:05:25 +0000"
     },
     "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-01-26 23:05:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-01-26 23:05:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-01-26 23:05:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-01-26 23:07:02 +0000",
+      "has_the_recipe": "2025-01-26 23:13:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-01-26 23:08:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-01-26 23:09:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-26 23:09:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-26 23:11:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-26 23:11:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-26 23:11:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-26 23:11:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-26 23:11:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-26 23:11:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-26 23:11:29 +0000"
+    },
+    "done": false
   },
   "enchantinginfuser:recipes/decorations/enchanting_infuser": {
     "criteria": {
@@ -6780,27 +6746,226 @@
     },
     "done": false
   },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+  "minecraft:recipes/tools/spyglass": {
     "criteria": {
-      "has_iron_backpack": "2025-01-27 00:10:42 +0000"
+      "has_amethyst_shard": "2025-01-26 23:11:29 +0000"
     },
     "done": false
   },
-  "tombstone:adventure/enchant_grave_key": {
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
     "criteria": {
-      "has_upgraded_grave_key": "2025-01-26 23:09:13 +0000"
+      "has_item": "2025-01-26 23:11:56 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-01-26 23:11:56 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/basalt_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-26 23:16:21 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/basalt_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-26 23:16:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-26 23:16:21 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/basalt_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-26 23:16:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-26 23:16:21 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/basalt_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-26 23:16:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-01-26 23:16:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-01-26 23:18:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-01-26 23:18:31 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-26 23:18:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-26 23:18:31 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-26 23:18:31 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-01-26 23:18:35 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-01-26 23:18:35 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-01-26 23:18:35 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2025-01-26 23:28:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
+  "farmersdelight:main/use_cutting_board": {
     "criteria": {
-      "has_blaze_rod": "2025-01-26 23:11:19 +0000"
+      "cutting_board": "2025-01-26 23:55:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
+    "criteria": {
+      "cooked_bacon": "2025-01-26 23:56:01 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/decorations/fletching_table": {
+  "farmersdelight:recipes/food/cooked_bacon": {
     "criteria": {
-      "has_flint": "2025-01-26 22:41:04 +0000"
+      "cooked_bacon": "2025-01-26 23:56:01 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
+    "criteria": {
+      "cooked_bacon": "2025-01-26 23:56:01 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-01-26 23:59:23 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-01-26 23:59:23 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-27 00:00:46 +0000",
+      "has_the_recipe": "2025-01-27 00:01:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-01-27 00:00:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-27 00:00:46 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2025-01-27 00:01:36 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-01-27 00:01:36 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-27 00:01:36 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-01-27 00:01:36 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2025-01-27 00:01:36 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-01-27 00:01:36 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2025-01-27 00:01:36 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2025-01-27 00:01:36 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-01-27 00:01:36 +0000"
     },
     "done": false
   },
@@ -6816,23 +6981,11 @@
     },
     "done": false
   },
-  "minecraft:recipes/combat/diamond_chestplate": {
-    "criteria": {
-      "has_diamond": "2025-01-26 23:05:25 +0000"
-    },
-    "done": false
-  },
   "create:copper": {
     "criteria": {
       "0": "2025-01-27 00:01:36 +0000"
     },
     "done": true
-  },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-01-26 23:11:29 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
@@ -6843,12 +6996,6 @@
   "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-01-27 00:01:36 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/tools/diamond_shovel": {
-    "criteria": {
-      "has_diamond": "2025-01-26 23:05:25 +0000"
     },
     "done": false
   },
@@ -6870,117 +7017,15 @@
     },
     "done": false
   },
-  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
-    "criteria": {
-      "cooked_bacon": "2025-01-26 23:56:01 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
-    "criteria": {
-      "has_basalt": "2025-01-26 23:16:21 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-01-27 00:00:46 +0000"
-    },
-    "done": false
-  },
   "create:recipes/misc/crafting/appliances/copper_diving_boots": {
     "criteria": {
       "has_item": "2025-01-27 00:01:36 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/combat/diamond_helmet": {
-    "criteria": {
-      "has_diamond": "2025-01-26 23:05:25 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-01-26 23:11:19 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/basalt_kitchen_counter_oven": {
-    "criteria": {
-      "has_planks": "2025-01-26 23:16:21 +0000"
-    },
-    "done": false
-  },
   "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
       "has_item": "2025-01-27 00:01:36 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/teleport_to_grave": {
-    "criteria": {
-      "coded_trigger": "2025-01-27 00:36:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2025-01-26 23:05:25 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
-    "criteria": {
-      "has_copper_backpack": "2025-01-27 00:09:10 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2025-01-26 23:16:21 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/combat/diamond_knife": {
-    "criteria": {
-      "has_diamond": "2025-01-26 23:05:25 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
-    "criteria": {
-      "has_iron_knife": "2025-01-26 23:59:23 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/combat/diamond_leggings": {
-    "criteria": {
-      "has_diamond": "2025-01-26 23:05:25 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2025-01-26 22:39:04 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
-    "criteria": {
-      "has_iron_knife": "2025-01-26 23:59:23 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/food/cooked_mutton_chops": {
-    "criteria": {
-      "cooked_mutton_chops": "2025-01-26 23:18:35 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/cooking/noodle_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-26 23:18:31 +0000"
     },
     "done": false
   },
@@ -6996,41 +7041,11 @@
     },
     "done": false
   },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2025-01-26 23:18:31 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/cooking/pumpkin_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-26 23:18:31 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/misc/crafting/kinetics/fluid_tank": {
-    "criteria": {
-      "has_item": "2025-01-26 23:11:56 +0000"
-    },
-    "done": false
-  },
   "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-01-27 00:01:36 +0000"
     },
     "done": false
-  },
-  "pfm:recipes/furniture/basalt_kitchen_wall_small_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-26 23:16:21 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:main/use_cutting_board": {
-    "criteria": {
-      "cutting_board": "2025-01-26 23:55:56 +0000"
-    },
-    "done": true
   },
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
@@ -7038,48 +7053,53 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
-      "has_basalt": "2025-01-26 23:16:21 +0000"
+      "has_copper_backpack": "2025-01-27 00:09:10 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/brewing/blaze_powder": {
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
-      "has_blaze_rod": "2025-01-26 23:11:19 +0000"
+      "has_iron_backpack": "2025-01-27 00:10:42 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/misc/wheat": {
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
-      "has_hay_block": "2025-01-26 23:07:02 +0000",
-      "has_the_recipe": "2025-01-26 23:13:36 +0000"
+      "has_gold_backpack": "2025-01-27 00:11:08 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-27 00:15:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
+  "tombstone:adventure/teleport_to_grave": {
     "criteria": {
-      "has_obsidian": "2025-01-26 23:11:19 +0000"
+      "coded_trigger": "2025-01-27 00:36:28 +0000"
     },
-    "done": false
+    "done": true
   },
-  "create:recipes/misc/crafting/kinetics/item_vault": {
+  "minecraft:story/deflect_arrow": {
     "criteria": {
-      "has_item": "2025-01-26 23:11:56 +0000"
+      "deflected_projectile": "2025-01-27 02:05:21 +0000"
     },
-    "done": false
+    "done": true
   },
-  "minecraft:recipes/tools/diamond_axe": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "has_diamond": "2025-01-26 23:05:25 +0000"
+      "lava_bucket": "2025-01-27 01:20:32 +0000"
     },
-    "done": false
+    "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "tombstone:adventure/bone_crusher": {
     "criteria": {
-      "has_raw_copper": "2025-01-27 00:00:46 +0000"
+      "coded_trigger": "2025-01-27 02:15:11 +0000"
     },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }

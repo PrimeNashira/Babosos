@@ -1,117 +1,1069 @@
-[27Jan2025 00:02:05.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo was slain by PrimeRios03
-[27Jan2025 00:02:05.510] [Server thread/INFO] [tombstone/]: The player FunnyUntipo has successfully been saved
-[27Jan2025 00:02:37.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.3456627906876406
-[27Jan2025 00:02:37.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 1.0
-[27Jan2025 00:02:37.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 1.0
-[27Jan2025 00:11:44.741] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/110290, l='ServerLevel[world]', x=-1667.96, y=115.00, z=129.51]
-[27Jan2025 00:14:09.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike was shot by PrimeRios03
-[27Jan2025 00:14:09.596] [Server thread/INFO] [tombstone/]: The player SpartanMike has successfully been saved
-[27Jan2025 00:15:06.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by SpartanMike
-[27Jan2025 00:15:06.669] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
-[27Jan2025 00:15:13.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo has made the advancement [Take Aim]
-[27Jan2025 00:16:17.147] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/110290, l='ServerLevel[world]', x=-1674.21, y=97.06, z=148.68]
-[27Jan2025 00:20:55.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by FunnyUntipo
-[27Jan2025 00:20:55.807] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
-[27Jan2025 00:21:17.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike was slain by PrimeRios03
-[27Jan2025 00:21:17.620] [Server thread/INFO] [tombstone/]: The player SpartanMike has successfully been saved
-[27Jan2025 00:21:33.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 has reached the goal [Chain Death]
-[27Jan2025 00:21:33.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by FunnyUntipo
-[27Jan2025 00:21:33.265] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
-[27Jan2025 00:21:46.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo was slain by PrimeRios03
-[27Jan2025 00:21:46.870] [Server thread/INFO] [tombstone/]: The player FunnyUntipo has successfully been saved
-[27Jan2025 00:21:46.904] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[27Jan2025 00:21:46.904] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
-[27Jan2025 00:21:46.904] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
-[27Jan2025 00:21:46.904] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
-[27Jan2025 00:21:46.905] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 3 | client: 3
-[27Jan2025 00:21:51.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was killed by SpartanMike's magic missile
-[27Jan2025 00:21:51.697] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
-[27Jan2025 00:22:57.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike was laid to rest by PrimeRios03
-[27Jan2025 00:22:57.948] [Server thread/INFO] [tombstone/]: The player SpartanMike has successfully been saved
-[27Jan2025 00:23:31.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was killed by SpartanMike's magic missile
-[27Jan2025 00:23:31.401] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
-[27Jan2025 00:23:54.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo was slain by PrimeRios03
-[27Jan2025 00:23:54.965] [Server thread/INFO] [tombstone/]: The player FunnyUntipo has successfully been saved
-[27Jan2025 00:24:16.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by FunnyUntipo
-[27Jan2025 00:24:16.254] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
-[27Jan2025 00:24:32.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by FunnyUntipo
-[27Jan2025 00:24:32.255] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
-[27Jan2025 00:24:53.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by FunnyUntipo
-[27Jan2025 00:24:53.109] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
-[27Jan2025 00:25:18.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by FunnyUntipo
-[27Jan2025 00:25:18.608] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
-[27Jan2025 00:26:25.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by FunnyUntipo
-[27Jan2025 00:26:25.458] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
-[27Jan2025 00:28:05.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by FunnyUntipo
-[27Jan2025 00:28:05.858] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
-[27Jan2025 00:28:19.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by FunnyUntipo
-[27Jan2025 00:28:19.857] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
-[27Jan2025 00:30:58.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo was slain by PrimeRios03
-[27Jan2025 00:30:58.047] [Server thread/INFO] [tombstone/]: The player FunnyUntipo has successfully been saved
-[27Jan2025 00:32:49.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.5855576570681649
-[27Jan2025 00:32:49.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 1.1709238797809576
-[27Jan2025 00:33:03.195] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SpartanMike lost connection: Disconnected
-[27Jan2025 00:33:03.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike left the game
-[27Jan2025 00:33:12.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.2971433004501449
-[27Jan2025 00:33:12.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.9666625318404556
-[27Jan2025 00:33:51.490] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/117531, l='ServerLevel[world]', x=-1629.50, y=103.00, z=126.78]
-[27Jan2025 00:36:18.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo was shot by PrimeRios03
-[27Jan2025 00:36:18.649] [Server thread/INFO] [tombstone/]: The player FunnyUntipo has successfully been saved
-[27Jan2025 00:36:20.193] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PrimeRios03 lost connection: Disconnected
-[27Jan2025 00:36:20.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 left the game
-[27Jan2025 00:36:28.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo has reached the goal [A Fast Comeback]
-[27Jan2025 00:36:48.289] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FunnyUntipo lost connection: Disconnected
-[27Jan2025 00:36:48.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo left the game
-[27Jan2025 00:44:07.149] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PrimeRios03[/127.57.81.108:54815] logged in with entity id 118596 at (-1620.4558731374914, 108.0, 132.4419535367427)
-[27Jan2025 00:44:07.149] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to PrimeRios03
-[27Jan2025 00:44:07.150] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to PrimeRios03
-[27Jan2025 00:44:07.150] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to PrimeRios03
-[27Jan2025 00:44:07.150] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to PrimeRios03
-[27Jan2025 00:44:07.152] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to PrimeRios03
-[27Jan2025 00:44:07.153] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to PrimeRios03
-[27Jan2025 00:44:07.153] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to PrimeRios03
-[27Jan2025 00:44:07.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 joined the game
-[27Jan2025 00:44:07.192] [Server thread/INFO] [Jade/]: Syncing config to PrimeRios03 (e4bcc4ae-0e89-38e4-a892-edc771448902)
-[27Jan2025 00:44:35.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
-[27Jan2025 00:45:28.144] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PrimeRios03 lost connection: Disconnected
-[27Jan2025 00:45:28.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 left the game
-[27Jan2025 00:45:56.299] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SpartanMike[/127.97.21.212:41397] logged in with entity id 118995 at (-1531.1845389195937, 64.0, 22.731300277188613)
-[27Jan2025 00:45:56.299] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to SpartanMike
-[27Jan2025 00:45:56.299] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to SpartanMike
-[27Jan2025 00:45:56.300] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to SpartanMike
-[27Jan2025 00:45:56.300] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to SpartanMike
-[27Jan2025 00:45:56.301] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to SpartanMike
-[27Jan2025 00:45:56.303] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to SpartanMike
-[27Jan2025 00:45:56.303] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to SpartanMike
-[27Jan2025 00:45:56.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike joined the game
-[27Jan2025 00:45:56.345] [Server thread/INFO] [Jade/]: Syncing config to SpartanMike (8f0465db-d348-3144-a61a-6d0ee53eed92)
-[27Jan2025 00:46:24.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
-[27Jan2025 00:59:43.071] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PrimeRios03[/127.57.81.108:47349] logged in with entity id 121353 at (-1620.9355105324887, 108.0, 132.47671596699675)
-[27Jan2025 00:59:43.071] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to PrimeRios03
-[27Jan2025 00:59:43.071] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to PrimeRios03
-[27Jan2025 00:59:43.072] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to PrimeRios03
-[27Jan2025 00:59:43.072] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to PrimeRios03
-[27Jan2025 00:59:43.073] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to PrimeRios03
-[27Jan2025 00:59:43.074] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to PrimeRios03
-[27Jan2025 00:59:43.075] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to PrimeRios03
-[27Jan2025 00:59:43.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 joined the game
-[27Jan2025 00:59:43.176] [Server thread/INFO] [Jade/]: Syncing config to PrimeRios03 (e4bcc4ae-0e89-38e4-a892-edc771448902)
-[27Jan2025 01:00:10.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
-[27Jan2025 01:00:20.840] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PrimeRios03 lost connection: Disconnected
-[27Jan2025 01:00:20.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 left the game
-[27Jan2025 01:00:23.890] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SpartanMike lost connection: Disconnected
-[27Jan2025 01:00:23.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike left the game
-[27Jan2025 01:16:09.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[27Jan2025 01:16:09.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[27Jan2025 01:16:09.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[27Jan2025 01:16:09.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[27Jan2025 01:16:09.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[27Jan2025 01:16:09.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[27Jan2025 01:16:09.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
-[27Jan2025 01:16:09.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
-[27Jan2025 01:16:09.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[27Jan2025 01:16:09.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[27Jan2025 01:16:09.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[27Jan2025 01:16:09.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
-[27Jan2025 01:16:09.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
-[27Jan2025 01:16:09.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[27Jan2025 01:16:59.822] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[27Jan2025 01:16:59.826] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[27Jan2025 01:17:01.410] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[27Jan2025 01:17:02.657] [main/INFO] [gg.essential.loader.stage1.EssentialLoaderBase/]: Updating Essential Loader (stage2) version 1.6.2 (285f951adc7537f49ae3ef9fc0d2fd3e) from https://cdn.essential.gg/mods/60d5dc9d8cea012849003e5b/6654ab70adcd31053a748633/forge_1-17-1.jar
+[27Jan2025 01:17:02.848] [main/FATAL] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Encountered serious error loading transformation service, expect problems
+java.util.ServiceConfigurationError: cpw.mods.modlauncher.api.ITransformationService: Provider gg.essential.container.loader.stage0.EssentialTransformationService could not be instantiated
+	at java.util.ServiceLoader.fail(ServiceLoader.java:586) ~[?:?]
+	at java.util.ServiceLoader$ProviderImpl.newInstance(ServiceLoader.java:813) ~[?:?]
+	at java.util.ServiceLoader$ProviderImpl.get(ServiceLoader.java:729) ~[?:?]
+	at cpw.mods.modlauncher.util.ServiceLoaderUtils.lambda$streamWithErrorHandling$0(ServiceLoaderUtils.java:39) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?]
+	at java.util.ServiceLoader$ProviderSpliterator.tryAdvance(ServiceLoader.java:1499) ~[?:?]
+	at java.util.Spliterator.forEachRemaining(Spliterator.java:332) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at cpw.mods.modlauncher.TransformationServicesHandler.discoverServices(TransformationServicesHandler.java:133) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:87) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+Caused by: java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at gg.essential.container.loader.stage0.EssentialTransformationServiceBase.loadStage1OrThrow(EssentialTransformationServiceBase.java:27) ~[?:?]
+	at gg.essential.container.loader.stage0.EssentialTransformationServiceBase.lambda$new$0(EssentialTransformationServiceBase.java:20) ~[?:?]
+	at gg.essential.container.loader.stage0.util.DelegatingTransformationServiceBase.<init>(DelegatingTransformationServiceBase.java:13) ~[?:?]
+	at gg.essential.container.loader.stage0.EssentialTransformationServiceBase.<init>(EssentialTransformationServiceBase.java:20) ~[?:?]
+	at gg.essential.container.loader.stage0.EssentialTransformationService.<init>(EssentialTransformationService.java:7) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at java.util.ServiceLoader$ProviderImpl.newInstance(ServiceLoader.java:789) ~[?:?]
+	... 16 more
+Caused by: java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at gg.essential.container.loader.stage0.EssentialTransformationServiceBase.loadStage1(EssentialTransformationServiceBase.java:47) ~[?:?]
+	at gg.essential.container.loader.stage0.EssentialTransformationServiceBase.loadStage1OrThrow(EssentialTransformationServiceBase.java:25) ~[?:?]
+	at gg.essential.container.loader.stage0.EssentialTransformationServiceBase.lambda$new$0(EssentialTransformationServiceBase.java:20) ~[?:?]
+	at gg.essential.container.loader.stage0.util.DelegatingTransformationServiceBase.<init>(DelegatingTransformationServiceBase.java:13) ~[?:?]
+	at gg.essential.container.loader.stage0.EssentialTransformationServiceBase.<init>(EssentialTransformationServiceBase.java:20) ~[?:?]
+	at gg.essential.container.loader.stage0.EssentialTransformationService.<init>(EssentialTransformationService.java:7) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at java.util.ServiceLoader$ProviderImpl.newInstance(ServiceLoader.java:789) ~[?:?]
+	... 16 more
+Caused by: java.lang.NoClassDefFoundError: org/apache/commons/codec/digest/DigestUtils
+	at gg.essential.loader.stage1.EssentialLoaderBase.getChecksum(EssentialLoaderBase.java:356) ~[?:?]
+	at gg.essential.loader.stage1.EssentialLoaderBase.downloadFile(EssentialLoaderBase.java:473) ~[?:?]
+	at gg.essential.loader.stage1.EssentialLoaderBase.doDownload(EssentialLoaderBase.java:326) ~[?:?]
+	at gg.essential.loader.stage1.EssentialLoaderBase.load(EssentialLoaderBase.java:176) ~[?:?]
+	at gg.essential.loader.stage1.EssentialTransformationServiceBase.<init>(EssentialTransformationServiceBase.java:46) ~[?:?]
+	at gg.essential.loader.stage1.EssentialTransformationService.<init>(EssentialTransformationService.java:29) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at gg.essential.container.loader.stage0.EssentialTransformationServiceBase.loadStage1(EssentialTransformationServiceBase.java:47) ~[?:?]
+	at gg.essential.container.loader.stage0.EssentialTransformationServiceBase.loadStage1OrThrow(EssentialTransformationServiceBase.java:25) ~[?:?]
+	at gg.essential.container.loader.stage0.EssentialTransformationServiceBase.lambda$new$0(EssentialTransformationServiceBase.java:20) ~[?:?]
+	at gg.essential.container.loader.stage0.util.DelegatingTransformationServiceBase.<init>(DelegatingTransformationServiceBase.java:13) ~[?:?]
+	at gg.essential.container.loader.stage0.EssentialTransformationServiceBase.<init>(EssentialTransformationServiceBase.java:20) ~[?:?]
+	at gg.essential.container.loader.stage0.EssentialTransformationService.<init>(EssentialTransformationService.java:7) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at java.util.ServiceLoader$ProviderImpl.newInstance(ServiceLoader.java:789) ~[?:?]
+	... 16 more
+Caused by: java.lang.ClassNotFoundException: org.apache.commons.codec.digest.DigestUtils
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:445) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:592) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at gg.essential.loader.stage1.EssentialLoaderBase.getChecksum(EssentialLoaderBase.java:356) ~[?:?]
+	at gg.essential.loader.stage1.EssentialLoaderBase.downloadFile(EssentialLoaderBase.java:473) ~[?:?]
+	at gg.essential.loader.stage1.EssentialLoaderBase.doDownload(EssentialLoaderBase.java:326) ~[?:?]
+	at gg.essential.loader.stage1.EssentialLoaderBase.load(EssentialLoaderBase.java:176) ~[?:?]
+	at gg.essential.loader.stage1.EssentialTransformationServiceBase.<init>(EssentialTransformationServiceBase.java:46) ~[?:?]
+	at gg.essential.loader.stage1.EssentialTransformationService.<init>(EssentialTransformationService.java:29) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at gg.essential.container.loader.stage0.EssentialTransformationServiceBase.loadStage1(EssentialTransformationServiceBase.java:47) ~[?:?]
+	at gg.essential.container.loader.stage0.EssentialTransformationServiceBase.loadStage1OrThrow(EssentialTransformationServiceBase.java:25) ~[?:?]
+	at gg.essential.container.loader.stage0.EssentialTransformationServiceBase.lambda$new$0(EssentialTransformationServiceBase.java:20) ~[?:?]
+	at gg.essential.container.loader.stage0.util.DelegatingTransformationServiceBase.<init>(DelegatingTransformationServiceBase.java:13) ~[?:?]
+	at gg.essential.container.loader.stage0.EssentialTransformationServiceBase.<init>(EssentialTransformationServiceBase.java:20) ~[?:?]
+	at gg.essential.container.loader.stage0.EssentialTransformationService.<init>(EssentialTransformationService.java:7) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at java.util.ServiceLoader$ProviderImpl.newInstance(ServiceLoader.java:789) ~[?:?]
+	... 16 more
+[27Jan2025 01:17:02.904] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Babosos/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[27Jan2025 01:17:03.260] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Babosos/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[27Jan2025 01:17:03.261] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Babosos/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[27Jan2025 01:17:03.262] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Babosos/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[27Jan2025 01:17:03.263] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Babosos/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[27Jan2025 01:17:03.455] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[27Jan2025 01:17:03.457] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
+[27Jan2025 01:17:06.263] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[27Jan2025 01:17:06.449] [main/ERROR] [mixin/]: Mixin config furniture-common.mixins.json does not specify "minVersion" property
+[27Jan2025 01:17:06.492] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[27Jan2025 01:17:06.575] [main/WARN] [mixin/]: Reference map 'naturalist-forge-forge-refmap.json' for naturalist.mixins.json could not be read. If this is a development environment you can ignore this message
+[27Jan2025 01:17:06.701] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.20.0+mc1.20.1: 86 options available, 0 override(s) found
+[27Jan2025 01:17:06.703] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[27Jan2025 01:17:06.730] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[27Jan2025 01:17:06.869] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 122 options available, 0 override(s) found
+[27Jan2025 01:17:06.919] [main/WARN] [mixin/]: Reference map 'justhammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[27Jan2025 01:17:06.972] [main/INFO] [Embeddium Extra/]: Loaded configuration file for Sodium Extra: 35 options available, 0 override(s) found
+[27Jan2025 01:17:07.027] [main/INFO] [Puzzles Lib/]: Loading 77 mods:
+	- architectury 9.2.14
+	- ati_structures 1.1.0
+	- better_weaponry 1.1.3
+	- bettercombat 1.8.6+1.20.1
+	- betterdungeons 1.20-Forge-4.0.4
+	- biomesoplenty 19.0.0.94
+	- blue_skies 1.3.31
+	- born_in_chaos_v1 1.6.2
+	- caelus 3.2.0+1.20.1
+	- carryon 2.1.2.7
+	- chefsdelight 1.0.3-forge-1.20.1
+	- chest_with_legs 1.2.1
+	- cloth_config 11.1.136
+	- create 0.5.1.j
+		\-- flywheel 0.6.11-13
+	- crittersandcompanions 2.2.2
+	- crust 2.4.8
+	- ctov 3.4.11
+	- curios 5.11.1+1.20.1
+	- dungeoncrawl 2.3.15
+	- dungeonnowloading 1.5
+	- dungeons_arise 2.1.58-1.20.x
+	- dungeons_arise_seven_seas 1.0.2
+	- dungeons_enhanced 5.3.0
+	- embeddium 0.3.31+mc1.20.1
+		\-- rubidium 0.7.1
+	- embeddium_extra 0.5.4.3+mc1.20.1-build.121
+		\-- mixinextras 0.3.5
+	- embeddiumplus 1.2.13
+	- enchantinginfuser 8.0.3
+	- extra_dungeons 1.0.5
+	- fantasy_armor 0.5-1.20.1
+	- farmersdelight 1.20.1-1.2.6
+	- ferritecore 6.0.1
+	- forge 47.3.7
+	- furniture 1.0.4
+	- geckolib 4.7
+	- glitchcore 0.0.1.1
+	- inventoryhud 3.4.26
+	- irons_spellbooks 1.20.1-3.4.0.7
+	- isolated 1.0.0
+	- jade 11.12.2+forge
+	- jei 15.20.0.106
+	- justhammers 2.0.3+mc1.20.1
+	- legendary_monsters 1.20.1
+	- lithostitched 1.4
+	- mca 7.5.21+1.20.1
+	- midnightlurker 3.3.7
+	- minecraft 1.20.1
+	- modernfix 5.20.0+mc1.20.1
+	- mr_dungeons_andtaverns 3.0.3.f
+	- mr_tidal_towns 1.3.4
+	- naturalist 4.0.3
+	- patchouli 1.20.1-84-FORGE
+	- pfm 1.3
+	- playeranimator 1.0.2-rc1+1.20
+	- pmmo 1.5.30
+	- puzzleslib 8.1.25
+		\-- puzzlesaccessapi 8.0.7
+	- railways 1.6.7+forge-mc1.20.1
+	- realmrpg_quests 0.1.1
+	- rustic_engineer 1.0.0
+	- sereneseasons 9.1.0.0
+	- skinlayers3d 1.7.4
+	- skinrestorer 2.2.1+1.20-forge
+	- skyvillages 1.0.4
+	- sophisticatedbackpacks 3.22.2.1172
+	- sophisticatedcore 1.1.4.837
+	- storagedrawers 12.9.13
+	- structure_gel 2.16.2
+	- takesapillage 1.0.3
+	- taxcp 1.0.1
+	- terrablender 3.0.1.7
+	- tombstone 8.9.0
+	- visualworkbench 8.0.0
+	- xaerominimap 24.7.1
+	- xaeroworldmap 1.39.2
+	- yungsapi 1.20-Forge-4.0.6
+[27Jan2025 01:17:07.036] [main/WARN] [mixin/]: Reference map 'mixins.chest_with_legs.refmap.json' for mixins.chest_with_legs.json could not be read. If this is a development environment you can ignore this message
+[27Jan2025 01:17:09.273] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[27Jan2025 01:17:09.898] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (12.61 s after launch)
+[27Jan2025 01:17:10.109] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[27Jan2025 01:17:10.116] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[27Jan2025 01:17:10.475] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=1 on crittersandcompanions.mixins.json:LivingEntityMixin::handler$zom000$onDie exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[27Jan2025 01:17:11.477] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 1576 milliseconds
+[27Jan2025 01:17:14.314] [main/WARN] [mixin/]: @ModifyConstant conflict. Skipping yungsapi_forge.mixins.json:IncreaseStructureWeightLimitMixinForge->@ModifyConstant::yungsapi_increaseWeightLimit(I)I with priority 1000, already redirected by dungeonnowloading.forge.mixins.json:forge.structures.StructurePoolMixin->@ModifyConstant::dungeonnowloading_increaseWeightLimit(I)I with priority 1000
+[27Jan2025 01:17:14.390] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[27Jan2025 01:17:14.923] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
+[27Jan2025 01:17:14.934] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for visualworkbench:main
+[27Jan2025 01:17:15.152] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Successfully loaded the Modding Legacy supporters list.
+[27Jan2025 01:17:15.283] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
+[27Jan2025 01:17:15.371] [modloading-worker-0/INFO] [Dungeon Now Loading/]: Hello Forge world!
+[27Jan2025 01:17:15.444] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[27Jan2025 01:17:15.445] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[27Jan2025 01:17:15.450] [modloading-worker-0/INFO] [Railways/]: Steam 'n' Rails v1.6.7 initializing! Commit hash: 0a7cc000d6c7a1419919bc3e315bc62932287eb9 on Create version: 0.5.1j on platform: Forge
+[27Jan2025 01:17:17.075] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[27Jan2025 01:17:17.099] [ForkJoinPool.commonPool-worker-1/INFO] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: [Paladin's Furniture Update Check] Is up to date!
+[27Jan2025 01:17:17.201] [modloading-worker-0/INFO] [Railways/]: Registered bogey styles from railways
+[27Jan2025 01:17:17.362] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[27Jan2025 01:17:17.439] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for enchantinginfuser:main
+[27Jan2025 01:17:17.600] [modloading-worker-0/INFO] [Railways/]: Registering data fixers
+[27Jan2025 01:17:17.695] [modloading-worker-0/INFO] [ModernFix/]: Bypassed Mojang DFU
+[27Jan2025 01:17:17.696] [modloading-worker-0/INFO] [ModernFix/]: Instantiating Mojang DFU
+[27Jan2025 01:17:18.422] [modloading-worker-0/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 0 Datafixer optimizations took 0 milliseconds
+[27Jan2025 01:17:18.428] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Hex Casting
+[27Jan2025 01:17:18.429] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Oh The Biomes You'll Go
+[27Jan2025 01:17:18.430] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Blue Skies
+[27Jan2025 01:17:18.445] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Twilight Forest
+[27Jan2025 01:17:18.446] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Biomes O' Plenty
+[27Jan2025 01:17:18.456] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Nature's Spirit
+[27Jan2025 01:17:18.456] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Dreams and Desires
+[27Jan2025 01:17:18.457] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Quark
+[27Jan2025 01:17:18.458] [modloading-worker-0/INFO] [Railways/]: Registering tracks for TerraFirmaCraft
+[27Jan2025 01:17:20.525] [main/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Found block type with duplicate id (minecraft:oak), skipping
+[27Jan2025 01:17:21.969] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[27Jan2025 01:17:21.981] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[27Jan2025 01:17:21.984] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[27Jan2025 01:17:21.986] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[27Jan2025 01:17:22.109] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[27Jan2025 01:17:22.122] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.GrimReaperEntity from class forge.net.mca.util.network.datasync.CEnumParameter
+[27Jan2025 01:17:22.134] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:22.134] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:22.134] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:22.134] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:22.134] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:22.135] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:22.135] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:22.135] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[27Jan2025 01:17:22.137] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:22.137] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:22.137] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:22.137] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:22.137] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:22.138] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:22.138] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:22.138] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:22.138] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:22.138] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:22.139] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:22.139] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[27Jan2025 01:17:22.139] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:22.142] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:22.143] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[27Jan2025 01:17:22.143] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:22.143] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[27Jan2025 01:17:22.143] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[27Jan2025 01:17:22.143] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:22.144] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:22.144] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:22.144] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:22.144] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:22.146] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:22.150] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:22.150] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:22.151] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:22.151] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:22.151] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:22.660] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[27Jan2025 01:17:22.681] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Starting version check at http://changelogs.moddinglegacy.com/blue-skies.json
+[27Jan2025 01:17:22.717] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[27Jan2025 01:17:22.717] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
+[27Jan2025 01:17:22.718] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
+[27Jan2025 01:17:22.718] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
+[27Jan2025 01:17:22.718] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
+[27Jan2025 01:17:22.718] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
+[27Jan2025 01:17:22.719] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
+[27Jan2025 01:17:22.719] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
+[27Jan2025 01:17:22.719] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
+[27Jan2025 01:17:22.720] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
+[27Jan2025 01:17:22.773] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[27Jan2025 01:17:22.776] [modloading-worker-0/INFO] [harmonised.pmmo.util.MsLoggy/]: Messages Registered
+[27Jan2025 01:17:22.986] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[27Jan2025 01:17:22.986] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[27Jan2025 01:17:22.987] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[27Jan2025 01:17:22.987] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[27Jan2025 01:17:22.987] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[27Jan2025 01:17:22.988] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[27Jan2025 01:17:22.988] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[27Jan2025 01:17:23.067] [main/INFO] [crust/configs/]: First-time loading config file config/Crust/default_game_rules.toml
+[27Jan2025 01:17:23.072] [main/INFO] [crust/configs/]: Started watching config file config/Crust/default_game_rules.toml for updates
+[27Jan2025 01:17:23.072] [main/INFO] [crust/configs/]: First-time loading config file config/Crust/modes.toml
+[27Jan2025 01:17:23.075] [main/INFO] [crust/configs/]: Started watching config file config/Crust/modes.toml for updates
+[27Jan2025 01:17:23.083] [main/INFO] [crust/]: Found Crust plugin at fathertoast.crust.common.api.impl.InternalCrustPlugin with plugin ID: crust:builtin_plugin
+[27Jan2025 01:17:23.188] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[27Jan2025 01:17:23.188] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[27Jan2025 01:17:23.213] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[27Jan2025 01:17:23.213] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[27Jan2025 01:17:23.280] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[27Jan2025 01:17:23.319] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Found status: BETA Current: 1.3.31 Target: null
+[27Jan2025 01:17:23.319] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/visualworkbench.json
+[27Jan2025 01:17:23.361] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Found status: UP_TO_DATE Current: 8.0.0 Target: null
+[27Jan2025 01:17:23.361] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[27Jan2025 01:17:23.372] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[27Jan2025 01:17:23.372] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[27Jan2025 01:17:23.394] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[27Jan2025 01:17:23.530] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[27Jan2025 01:17:23.544] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[27Jan2025 01:17:23.547] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[27Jan2025 01:17:23.548] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.jaquadro.minecraft.storagedrawers.integration.Waila
+[27Jan2025 01:17:23.549] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[27Jan2025 01:17:23.596] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.25
+[27Jan2025 01:17:23.597] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ctov] Starting version check at https://api.modrinth.com/updates/fgmhI8kH/forge_updates.json
+[27Jan2025 01:17:23.987] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ctov] Found status: UP_TO_DATE Current: 3.4.11 Target: null
+[27Jan2025 01:17:23.987] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[27Jan2025 01:17:24.131] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[27Jan2025 01:17:24.131] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Starting version check at https://raw.githubusercontent.com/Ametrin-Studios/DungeonsEnhanced/refs/heads/master/update.json
+[27Jan2025 01:17:24.143] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Found status: UP_TO_DATE Current: 5.3.0 Target: null
+[27Jan2025 01:17:24.144] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tidal_towns] Starting version check at https://api.modrinth.com/updates/EEIwvQVo/forge_updates.json
+[27Jan2025 01:17:24.183] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[27Jan2025 01:17:24.458] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tidal_towns] Found status: OUTDATED Current: 1.3.4 Target: 1.3.4+mod
+[27Jan2025 01:17:24.458] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[27Jan2025 01:17:24.491] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: midnightlurker:tough_door Expected: 2545 Got: 7046
+[27Jan2025 01:17:24.491] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: midnightlurker:shattered_glass Expected: 2546 Got: 7047
+[27Jan2025 01:17:24.491] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: midnightlurker:shattered_pane_none Expected: 2547 Got: 7048
+[27Jan2025 01:17:24.492] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: midnightlurker:shattered_pane_straight Expected: 2548 Got: 7049
+[27Jan2025 01:17:24.492] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: midnightlurker:shattered_corner Expected: 2549 Got: 7050
+[27Jan2025 01:17:24.492] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: midnightlurker:shattered_t_corner Expected: 2550 Got: 7051
+[27Jan2025 01:17:24.492] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: midnightlurker:shattered_pane_x_corner Expected: 2551 Got: 7052
+[27Jan2025 01:17:24.493] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: midnightlurker:shattered_pane_end Expected: 2552 Got: 7053
+[27Jan2025 01:17:24.493] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:gramophone Expected: 3448 Got: 7054
+[27Jan2025 01:17:24.493] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:telescope Expected: 3449 Got: 7055
+[27Jan2025 01:17:24.493] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:coffer Expected: 3450 Got: 7056
+[27Jan2025 01:17:24.493] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:explorers_box Expected: 3451 Got: 7057
+[27Jan2025 01:17:24.494] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:cash_register Expected: 3452 Got: 7058
+[27Jan2025 01:17:24.494] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:tool_box Expected: 3453 Got: 7059
+[27Jan2025 01:17:24.494] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:blueprints Expected: 3454 Got: 7060
+[27Jan2025 01:17:24.494] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:sewing_kit Expected: 3455 Got: 7061
+[27Jan2025 01:17:24.494] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:bin Expected: 3456 Got: 7062
+[27Jan2025 01:17:24.495] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:steam_vent Expected: 3457 Got: 7063
+[27Jan2025 01:17:24.495] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:copper_fish_tank Expected: 3458 Got: 7064
+[27Jan2025 01:17:24.495] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:iron_fish_tank Expected: 3459 Got: 7065
+[27Jan2025 01:17:24.495] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:brick_chimney Expected: 3460 Got: 7066
+[27Jan2025 01:17:24.495] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:stone_bricks_chimney Expected: 3461 Got: 7067
+[27Jan2025 01:17:24.496] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:copper_chimney Expected: 3462 Got: 7068
+[27Jan2025 01:17:24.496] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:boat_in_a_jar Expected: 3463 Got: 7069
+[27Jan2025 01:17:24.496] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:street_lantern Expected: 3464 Got: 7070
+[27Jan2025 01:17:24.496] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:street_lantern_wall Expected: 3465 Got: 7071
+[27Jan2025 01:17:24.496] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:plated_street_lantern Expected: 3466 Got: 7072
+[27Jan2025 01:17:24.497] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:plated_street_lantern_wall Expected: 3467 Got: 7073
+[27Jan2025 01:17:24.497] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:display Expected: 3468 Got: 7074
+[27Jan2025 01:17:24.497] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:terrarium Expected: 3469 Got: 7075
+[27Jan2025 01:17:24.497] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:wooden_planter Expected: 3470 Got: 7076
+[27Jan2025 01:17:24.498] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:stone_brick_planter Expected: 3471 Got: 7077
+[27Jan2025 01:17:24.498] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:oak_bench Expected: 3472 Got: 7078
+[27Jan2025 01:17:24.498] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:oak_cabinet Expected: 3473 Got: 7079
+[27Jan2025 01:17:24.498] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:oak_clock Expected: 3474 Got: 7080
+[27Jan2025 01:17:24.498] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:oak_grandfather_clock Expected: 3475 Got: 7081
+[27Jan2025 01:17:24.499] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:oak_mirror Expected: 3476 Got: 7082
+[27Jan2025 01:17:24.499] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:oak_shutter Expected: 3477 Got: 7083
+[27Jan2025 01:17:24.499] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:oak_desk Expected: 3478 Got: 7084
+[27Jan2025 01:17:24.499] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:oak_dresser Expected: 3479 Got: 7085
+[27Jan2025 01:17:24.499] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:oak_desk_chair Expected: 3480 Got: 7086
+[27Jan2025 01:17:24.500] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:spruce_bench Expected: 3481 Got: 7087
+[27Jan2025 01:17:24.500] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:spruce_cabinet Expected: 3482 Got: 7088
+[27Jan2025 01:17:24.500] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:spruce_clock Expected: 3483 Got: 7089
+[27Jan2025 01:17:24.500] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:spruce_grandfather_clock Expected: 3484 Got: 7090
+[27Jan2025 01:17:24.501] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:spruce_mirror Expected: 3485 Got: 7091
+[27Jan2025 01:17:24.501] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:spruce_shutter Expected: 3486 Got: 7092
+[27Jan2025 01:17:24.501] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:spruce_desk Expected: 3487 Got: 7093
+[27Jan2025 01:17:24.501] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:spruce_dresser Expected: 3488 Got: 7094
+[27Jan2025 01:17:24.501] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:spruce_desk_chair Expected: 3489 Got: 7095
+[27Jan2025 01:17:24.502] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:birch_bench Expected: 3490 Got: 7096
+[27Jan2025 01:17:24.502] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:birch_cabinet Expected: 3491 Got: 7097
+[27Jan2025 01:17:24.502] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:birch_clock Expected: 3492 Got: 7098
+[27Jan2025 01:17:24.502] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:birch_grandfather_clock Expected: 3493 Got: 7099
+[27Jan2025 01:17:24.502] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:birch_mirror Expected: 3494 Got: 7100
+[27Jan2025 01:17:24.503] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:birch_shutter Expected: 3495 Got: 7101
+[27Jan2025 01:17:24.503] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:birch_desk Expected: 3496 Got: 7102
+[27Jan2025 01:17:24.503] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:birch_dresser Expected: 3497 Got: 7103
+[27Jan2025 01:17:24.503] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:birch_desk_chair Expected: 3498 Got: 7104
+[27Jan2025 01:17:24.503] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:jungle_bench Expected: 3499 Got: 7105
+[27Jan2025 01:17:24.504] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:jungle_cabinet Expected: 3500 Got: 7106
+[27Jan2025 01:17:24.504] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:jungle_clock Expected: 3501 Got: 7107
+[27Jan2025 01:17:24.504] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:jungle_grandfather_clock Expected: 3502 Got: 7108
+[27Jan2025 01:17:24.504] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:jungle_mirror Expected: 3503 Got: 7109
+[27Jan2025 01:17:24.504] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:jungle_shutter Expected: 3504 Got: 7110
+[27Jan2025 01:17:24.504] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:jungle_desk Expected: 3505 Got: 7111
+[27Jan2025 01:17:24.505] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:jungle_dresser Expected: 3506 Got: 7112
+[27Jan2025 01:17:24.505] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:jungle_desk_chair Expected: 3507 Got: 7113
+[27Jan2025 01:17:24.505] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:acacia_bench Expected: 3508 Got: 7114
+[27Jan2025 01:17:24.505] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:acacia_cabinet Expected: 3509 Got: 7115
+[27Jan2025 01:17:24.505] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:acacia_clock Expected: 3510 Got: 7116
+[27Jan2025 01:17:24.506] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:acacia_grandfather_clock Expected: 3511 Got: 7117
+[27Jan2025 01:17:24.506] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:acacia_mirror Expected: 3512 Got: 7118
+[27Jan2025 01:17:24.506] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:acacia_shutter Expected: 3513 Got: 7119
+[27Jan2025 01:17:24.506] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:acacia_desk Expected: 3514 Got: 7120
+[27Jan2025 01:17:24.507] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:acacia_dresser Expected: 3515 Got: 7121
+[27Jan2025 01:17:24.507] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:acacia_desk_chair Expected: 3516 Got: 7122
+[27Jan2025 01:17:24.507] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:dark_oak_bench Expected: 3517 Got: 7123
+[27Jan2025 01:17:24.507] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:dark_oak_cabinet Expected: 3518 Got: 7124
+[27Jan2025 01:17:24.507] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:dark_oak_clock Expected: 3519 Got: 7125
+[27Jan2025 01:17:24.508] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:dark_oak_grandfather_clock Expected: 3520 Got: 7126
+[27Jan2025 01:17:24.508] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:dark_oak_mirror Expected: 3521 Got: 7127
+[27Jan2025 01:17:24.508] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:dark_oak_shutter Expected: 3522 Got: 7128
+[27Jan2025 01:17:24.508] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:dark_oak_desk Expected: 3523 Got: 7129
+[27Jan2025 01:17:24.508] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:dark_oak_dresser Expected: 3524 Got: 7130
+[27Jan2025 01:17:24.509] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:dark_oak_desk_chair Expected: 3525 Got: 7131
+[27Jan2025 01:17:24.509] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:mangrove_bench Expected: 3526 Got: 7132
+[27Jan2025 01:17:24.509] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:mangrove_cabinet Expected: 3527 Got: 7133
+[27Jan2025 01:17:24.509] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:mangrove_clock Expected: 3528 Got: 7134
+[27Jan2025 01:17:24.509] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:mangrove_grandfather_clock Expected: 3529 Got: 7135
+[27Jan2025 01:17:24.510] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:mangrove_mirror Expected: 3530 Got: 7136
+[27Jan2025 01:17:24.510] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:mangrove_shutter Expected: 3531 Got: 7137
+[27Jan2025 01:17:24.510] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:mangrove_desk Expected: 3532 Got: 7138
+[27Jan2025 01:17:24.510] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:mangrove_dresser Expected: 3533 Got: 7139
+[27Jan2025 01:17:24.510] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:mangrove_desk_chair Expected: 3534 Got: 7140
+[27Jan2025 01:17:24.511] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:cherry_bench Expected: 3535 Got: 7141
+[27Jan2025 01:17:24.511] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:cherry_cabinet Expected: 3536 Got: 7142
+[27Jan2025 01:17:24.511] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:cherry_clock Expected: 3537 Got: 7143
+[27Jan2025 01:17:24.511] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:cherry_grandfather_clock Expected: 3538 Got: 7144
+[27Jan2025 01:17:24.512] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:cherry_mirror Expected: 3539 Got: 7145
+[27Jan2025 01:17:24.512] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:cherry_shutter Expected: 3540 Got: 7146
+[27Jan2025 01:17:24.512] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:cherry_desk Expected: 3541 Got: 7147
+[27Jan2025 01:17:24.512] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:cherry_dresser Expected: 3542 Got: 7148
+[27Jan2025 01:17:24.513] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:cherry_desk_chair Expected: 3543 Got: 7149
+[27Jan2025 01:17:24.513] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:sofa_white Expected: 3544 Got: 7150
+[27Jan2025 01:17:24.513] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:pouffe_white Expected: 3545 Got: 7151
+[27Jan2025 01:17:24.513] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:curtain_white Expected: 3546 Got: 7152
+[27Jan2025 01:17:24.513] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:lamp_white Expected: 3547 Got: 7153
+[27Jan2025 01:17:24.514] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:lamp_wall_white Expected: 3548 Got: 7154
+[27Jan2025 01:17:24.514] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:sofa_light_gray Expected: 3549 Got: 7155
+[27Jan2025 01:17:24.514] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:pouffe_light_gray Expected: 3550 Got: 7156
+[27Jan2025 01:17:24.514] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:curtain_light_gray Expected: 3551 Got: 7157
+[27Jan2025 01:17:24.515] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:lamp_light_gray Expected: 3552 Got: 7158
+[27Jan2025 01:17:24.515] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:lamp_wall_light_gray Expected: 3553 Got: 7159
+[27Jan2025 01:17:24.515] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:sofa_gray Expected: 3554 Got: 7160
+[27Jan2025 01:17:24.515] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:pouffe_gray Expected: 3555 Got: 7161
+[27Jan2025 01:17:24.516] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:curtain_gray Expected: 3556 Got: 7162
+[27Jan2025 01:17:24.516] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:lamp_gray Expected: 3557 Got: 7163
+[27Jan2025 01:17:24.516] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:lamp_wall_gray Expected: 3558 Got: 7164
+[27Jan2025 01:17:24.516] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:sofa_black Expected: 3559 Got: 7165
+[27Jan2025 01:17:24.516] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:pouffe_black Expected: 3560 Got: 7166
+[27Jan2025 01:17:24.517] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:curtain_black Expected: 3561 Got: 7167
+[27Jan2025 01:17:24.517] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:lamp_black Expected: 3562 Got: 7168
+[27Jan2025 01:17:24.517] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:lamp_wall_black Expected: 3563 Got: 7169
+[27Jan2025 01:17:24.517] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:sofa_red Expected: 3564 Got: 7170
+[27Jan2025 01:17:24.517] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:pouffe_red Expected: 3565 Got: 7171
+[27Jan2025 01:17:24.518] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:curtain_red Expected: 3566 Got: 7172
+[27Jan2025 01:17:24.518] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:lamp_red Expected: 3567 Got: 7173
+[27Jan2025 01:17:24.518] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:lamp_wall_red Expected: 3568 Got: 7174
+[27Jan2025 01:17:24.518] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:sofa_orange Expected: 3569 Got: 7175
+[27Jan2025 01:17:24.519] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:pouffe_orange Expected: 3570 Got: 7176
+[27Jan2025 01:17:24.519] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:curtain_orange Expected: 3571 Got: 7177
+[27Jan2025 01:17:24.519] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:lamp_orange Expected: 3572 Got: 7178
+[27Jan2025 01:17:24.519] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:lamp_wall_orange Expected: 3573 Got: 7179
+[27Jan2025 01:17:24.519] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:sofa_yellow Expected: 3574 Got: 7180
+[27Jan2025 01:17:24.520] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:pouffe_yellow Expected: 3575 Got: 7181
+[27Jan2025 01:17:24.520] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:curtain_yellow Expected: 3576 Got: 7182
+[27Jan2025 01:17:24.520] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:lamp_yellow Expected: 3577 Got: 7183
+[27Jan2025 01:17:24.520] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:lamp_wall_yellow Expected: 3578 Got: 7184
+[27Jan2025 01:17:24.521] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:sofa_lime Expected: 3579 Got: 7185
+[27Jan2025 01:17:24.521] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:pouffe_lime Expected: 3580 Got: 7186
+[27Jan2025 01:17:24.521] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:curtain_lime Expected: 3581 Got: 7187
+[27Jan2025 01:17:24.521] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:lamp_lime Expected: 3582 Got: 7188
+[27Jan2025 01:17:24.522] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:lamp_wall_lime Expected: 3583 Got: 7189
+[27Jan2025 01:17:24.522] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:sofa_green Expected: 3584 Got: 7190
+[27Jan2025 01:17:24.522] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:pouffe_green Expected: 3585 Got: 7191
+[27Jan2025 01:17:24.522] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:curtain_green Expected: 3586 Got: 7192
+[27Jan2025 01:17:24.522] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:lamp_green Expected: 3587 Got: 7193
+[27Jan2025 01:17:24.523] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:lamp_wall_green Expected: 3588 Got: 7194
+[27Jan2025 01:17:24.523] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:sofa_cyan Expected: 3589 Got: 7195
+[27Jan2025 01:17:24.523] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:pouffe_cyan Expected: 3590 Got: 7196
+[27Jan2025 01:17:24.523] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:curtain_cyan Expected: 3591 Got: 7197
+[27Jan2025 01:17:24.524] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:lamp_cyan Expected: 3592 Got: 7198
+[27Jan2025 01:17:24.524] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:lamp_wall_cyan Expected: 3593 Got: 7199
+[27Jan2025 01:17:24.524] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:sofa_light_blue Expected: 3594 Got: 7200
+[27Jan2025 01:17:24.524] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:pouffe_light_blue Expected: 3595 Got: 7201
+[27Jan2025 01:17:24.524] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:curtain_light_blue Expected: 3596 Got: 7202
+[27Jan2025 01:17:24.524] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:lamp_light_blue Expected: 3597 Got: 7203
+[27Jan2025 01:17:24.525] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:lamp_wall_light_blue Expected: 3598 Got: 7204
+[27Jan2025 01:17:24.525] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:sofa_blue Expected: 3599 Got: 7205
+[27Jan2025 01:17:24.525] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:pouffe_blue Expected: 3600 Got: 7206
+[27Jan2025 01:17:24.525] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:curtain_blue Expected: 3601 Got: 7207
+[27Jan2025 01:17:24.525] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:lamp_blue Expected: 3602 Got: 7208
+[27Jan2025 01:17:24.525] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:lamp_wall_blue Expected: 3603 Got: 7209
+[27Jan2025 01:17:24.526] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:sofa_purple Expected: 3604 Got: 7210
+[27Jan2025 01:17:24.526] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:pouffe_purple Expected: 3605 Got: 7211
+[27Jan2025 01:17:24.526] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:curtain_purple Expected: 3606 Got: 7212
+[27Jan2025 01:17:24.526] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:lamp_purple Expected: 3607 Got: 7213
+[27Jan2025 01:17:24.526] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:lamp_wall_purple Expected: 3608 Got: 7214
+[27Jan2025 01:17:24.526] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:sofa_magenta Expected: 3609 Got: 7215
+[27Jan2025 01:17:24.527] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:pouffe_magenta Expected: 3610 Got: 7216
+[27Jan2025 01:17:24.527] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:curtain_magenta Expected: 3611 Got: 7217
+[27Jan2025 01:17:24.527] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:lamp_magenta Expected: 3612 Got: 7218
+[27Jan2025 01:17:24.527] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:lamp_wall_magenta Expected: 3613 Got: 7219
+[27Jan2025 01:17:24.527] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:sofa_pink Expected: 3614 Got: 7220
+[27Jan2025 01:17:24.527] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:pouffe_pink Expected: 3615 Got: 7221
+[27Jan2025 01:17:24.528] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:curtain_pink Expected: 3616 Got: 7222
+[27Jan2025 01:17:24.528] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:lamp_pink Expected: 3617 Got: 7223
+[27Jan2025 01:17:24.528] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:lamp_wall_pink Expected: 3618 Got: 7224
+[27Jan2025 01:17:24.528] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:sofa_brown Expected: 3619 Got: 7225
+[27Jan2025 01:17:24.528] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:pouffe_brown Expected: 3620 Got: 7226
+[27Jan2025 01:17:24.528] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:curtain_brown Expected: 3621 Got: 7227
+[27Jan2025 01:17:24.529] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:lamp_brown Expected: 3622 Got: 7228
+[27Jan2025 01:17:24.529] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: furniture:lamp_wall_brown Expected: 3623 Got: 7229
+[27Jan2025 01:17:24.533] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: midnightlurker:midnight_lurker_aggressive_spawn_egg Expected: 6954 Got: 8846
+[27Jan2025 01:17:24.533] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: midnightlurker:midnight_lurkertpose_spawn_egg Expected: 6955 Got: 8847
+[27Jan2025 01:17:24.533] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: midnightlurker:midnight_lurker_stalking_spawn_egg Expected: 6956 Got: 8848
+[27Jan2025 01:17:24.533] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: midnightlurker:midnight_lurker_invisible_spawn_egg Expected: 6957 Got: 8849
+[27Jan2025 01:17:24.533] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: midnightlurker:spookyambienceentity_spawn_egg Expected: 6958 Got: 8850
+[27Jan2025 01:17:24.533] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: midnightlurker:midnight_lurker_seen_angressive_spawn_egg Expected: 6959 Got: 8851
+[27Jan2025 01:17:24.534] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: midnightlurker:destroytex_spawn_egg Expected: 6960 Got: 8852
+[27Jan2025 01:17:24.534] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: midnightlurker:destroytex_2_spawn_egg Expected: 6961 Got: 8853
+[27Jan2025 01:17:24.534] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: midnightlurker:destroytex_3_spawn_egg Expected: 6962 Got: 8854
+[27Jan2025 01:17:24.534] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: midnightlurker:destroytex_4_spawn_egg Expected: 6963 Got: 8855
+[27Jan2025 01:17:24.534] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: midnightlurker:midnight_lurker_faker_aggro_spawn_egg Expected: 6964 Got: 8856
+[27Jan2025 01:17:24.534] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: midnightlurker:midnight_lurker_faker_spawn_egg Expected: 6965 Got: 8857
+[27Jan2025 01:17:24.534] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: midnightlurker:midnight_lurker_faker_watcher_spawn_egg Expected: 6966 Got: 8858
+[27Jan2025 01:17:24.534] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: midnightlurker:void_gateway_spawn_egg Expected: 6967 Got: 8859
+[27Jan2025 01:17:24.535] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: midnightlurker:midnight_lurker_backturned_spawn_egg Expected: 6968 Got: 8860
+[27Jan2025 01:17:24.535] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: midnightlurker:midnight_lurker_shadow_eyes_spawn_egg Expected: 6969 Got: 8861
+[27Jan2025 01:17:24.535] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: midnightlurker:midnight_lurker_shadow_spawn_egg Expected: 6970 Got: 8862
+[27Jan2025 01:17:24.535] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: midnightlurker:midnight_lurker_unprovoked_spawn_egg Expected: 6971 Got: 8863
+[27Jan2025 01:17:24.535] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: midnightlurker:midnight_lurker_runaway_spawn_egg Expected: 6972 Got: 8864
+[27Jan2025 01:17:24.535] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: midnightlurker:midnight_lurker_runtrue_spawn_egg Expected: 6973 Got: 8865
+[27Jan2025 01:17:24.535] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: midnightlurker:midnight_lurker_hider_spawn_egg Expected: 6974 Got: 8866
+[27Jan2025 01:17:24.536] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: midnightlurker:midnight_lurker_stare_spawn_egg Expected: 6975 Got: 8867
+[27Jan2025 01:17:24.536] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: midnightlurker:midnightlurker_ne_spawn_egg Expected: 6976 Got: 8868
+[27Jan2025 01:17:24.536] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: midnightlurker:midnight_lurker_watcher_spawn_egg Expected: 6977 Got: 8869
+[27Jan2025 01:17:24.536] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: midnightlurker:void_hands_spawn_egg Expected: 6978 Got: 8870
+[27Jan2025 01:17:24.536] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: midnightlurker:midnight_lurker_creep_spawn_egg Expected: 6979 Got: 8871
+[27Jan2025 01:17:24.536] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: midnightlurker:lurker_book Expected: 6980 Got: 8872
+[27Jan2025 01:17:24.536] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: midnightlurker:tough_door Expected: 6981 Got: 8873
+[27Jan2025 01:17:24.537] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: midnightlurker:shattered_glass Expected: 6982 Got: 8874
+[27Jan2025 01:17:24.537] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: midnightlurker:shattered_pane_none Expected: 6983 Got: 8875
+[27Jan2025 01:17:24.537] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: midnightlurker:shattered_pane_straight Expected: 6984 Got: 8876
+[27Jan2025 01:17:24.537] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: midnightlurker:shattered_corner Expected: 6985 Got: 8877
+[27Jan2025 01:17:24.537] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: midnightlurker:shattered_t_corner Expected: 6986 Got: 8878
+[27Jan2025 01:17:24.537] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: midnightlurker:shattered_pane_x_corner Expected: 6987 Got: 8879
+[27Jan2025 01:17:24.537] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: midnightlurker:shattered_pane_end Expected: 6988 Got: 8880
+[27Jan2025 01:17:24.538] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:gramophone Expected: 8804 Got: 8881
+[27Jan2025 01:17:24.538] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:telescope Expected: 8805 Got: 8882
+[27Jan2025 01:17:24.538] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:coffer Expected: 8806 Got: 8883
+[27Jan2025 01:17:24.538] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:explorers_box Expected: 8807 Got: 8884
+[27Jan2025 01:17:24.538] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:cash_register Expected: 8808 Got: 8885
+[27Jan2025 01:17:24.538] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:tool_box Expected: 8809 Got: 8886
+[27Jan2025 01:17:24.538] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:blueprints Expected: 8810 Got: 8887
+[27Jan2025 01:17:24.538] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:sewing_kit Expected: 8811 Got: 8888
+[27Jan2025 01:17:24.539] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:canvas Expected: 8812 Got: 8889
+[27Jan2025 01:17:24.539] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:bin Expected: 8813 Got: 8890
+[27Jan2025 01:17:24.539] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:trash_bag Expected: 8814 Got: 8891
+[27Jan2025 01:17:24.539] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:steam_vent Expected: 8815 Got: 8892
+[27Jan2025 01:17:24.539] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:copper_fish_tank Expected: 8816 Got: 8893
+[27Jan2025 01:17:24.539] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:iron_fish_tank Expected: 8817 Got: 8894
+[27Jan2025 01:17:24.539] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:brick_chimney Expected: 8818 Got: 8895
+[27Jan2025 01:17:24.540] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:stone_bricks_chimney Expected: 8819 Got: 8896
+[27Jan2025 01:17:24.540] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:copper_chimney Expected: 8820 Got: 8897
+[27Jan2025 01:17:24.540] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:boat_in_a_jar Expected: 8821 Got: 8898
+[27Jan2025 01:17:24.540] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:street_lantern_item Expected: 8822 Got: 8899
+[27Jan2025 01:17:24.540] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:plated_street_lantern_item Expected: 8823 Got: 8900
+[27Jan2025 01:17:24.540] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:pells Expected: 8824 Got: 8901
+[27Jan2025 01:17:24.541] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:cphs_pride Expected: 8825 Got: 8902
+[27Jan2025 01:17:24.541] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:letsdo_theme Expected: 8826 Got: 8903
+[27Jan2025 01:17:24.541] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:display Expected: 8827 Got: 8904
+[27Jan2025 01:17:24.541] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:terrarium Expected: 8828 Got: 8905
+[27Jan2025 01:17:24.541] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:wooden_planter Expected: 8829 Got: 8906
+[27Jan2025 01:17:24.541] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:stone_brick_planter Expected: 8830 Got: 8907
+[27Jan2025 01:17:24.542] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:oak_bench Expected: 8831 Got: 8908
+[27Jan2025 01:17:24.542] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:oak_cabinet Expected: 8832 Got: 8909
+[27Jan2025 01:17:24.542] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:oak_clock Expected: 8833 Got: 8910
+[27Jan2025 01:17:24.542] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:oak_grandfather_clock Expected: 8834 Got: 8911
+[27Jan2025 01:17:24.542] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:oak_mirror Expected: 8835 Got: 8912
+[27Jan2025 01:17:24.542] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:oak_shutter Expected: 8836 Got: 8913
+[27Jan2025 01:17:24.543] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:oak_desk Expected: 8837 Got: 8914
+[27Jan2025 01:17:24.543] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:oak_dresser Expected: 8838 Got: 8915
+[27Jan2025 01:17:24.543] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:oak_desk_chair Expected: 8839 Got: 8916
+[27Jan2025 01:17:24.543] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:spruce_bench Expected: 8840 Got: 8917
+[27Jan2025 01:17:24.543] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:spruce_cabinet Expected: 8841 Got: 8918
+[27Jan2025 01:17:24.543] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:spruce_clock Expected: 8842 Got: 8919
+[27Jan2025 01:17:24.544] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:spruce_grandfather_clock Expected: 8843 Got: 8920
+[27Jan2025 01:17:24.544] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:spruce_mirror Expected: 8844 Got: 8921
+[27Jan2025 01:17:24.544] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:spruce_shutter Expected: 8845 Got: 8922
+[27Jan2025 01:17:24.544] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:spruce_desk Expected: 8846 Got: 8923
+[27Jan2025 01:17:24.544] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:spruce_dresser Expected: 8847 Got: 8924
+[27Jan2025 01:17:24.544] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:spruce_desk_chair Expected: 8848 Got: 8925
+[27Jan2025 01:17:24.544] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:birch_bench Expected: 8849 Got: 8926
+[27Jan2025 01:17:24.544] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:birch_cabinet Expected: 8850 Got: 8927
+[27Jan2025 01:17:24.545] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:birch_clock Expected: 8851 Got: 8928
+[27Jan2025 01:17:24.545] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:birch_grandfather_clock Expected: 8852 Got: 8929
+[27Jan2025 01:17:24.545] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:birch_mirror Expected: 8853 Got: 8930
+[27Jan2025 01:17:24.545] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:birch_shutter Expected: 8854 Got: 8931
+[27Jan2025 01:17:24.545] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:birch_desk Expected: 8855 Got: 8932
+[27Jan2025 01:17:24.545] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:birch_dresser Expected: 8856 Got: 8933
+[27Jan2025 01:17:24.545] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:birch_desk_chair Expected: 8857 Got: 8934
+[27Jan2025 01:17:24.545] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:jungle_bench Expected: 8858 Got: 8935
+[27Jan2025 01:17:24.546] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:jungle_cabinet Expected: 8859 Got: 8936
+[27Jan2025 01:17:24.546] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:jungle_clock Expected: 8860 Got: 8937
+[27Jan2025 01:17:24.546] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:jungle_grandfather_clock Expected: 8861 Got: 8938
+[27Jan2025 01:17:24.546] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:jungle_mirror Expected: 8862 Got: 8939
+[27Jan2025 01:17:24.546] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:jungle_shutter Expected: 8863 Got: 8940
+[27Jan2025 01:17:24.546] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:jungle_desk Expected: 8864 Got: 8941
+[27Jan2025 01:17:24.546] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:jungle_dresser Expected: 8865 Got: 8942
+[27Jan2025 01:17:24.547] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:jungle_desk_chair Expected: 8866 Got: 8943
+[27Jan2025 01:17:24.547] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:acacia_bench Expected: 8867 Got: 8944
+[27Jan2025 01:17:24.547] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:acacia_cabinet Expected: 8868 Got: 8945
+[27Jan2025 01:17:24.547] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:acacia_clock Expected: 8869 Got: 8946
+[27Jan2025 01:17:24.547] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:acacia_grandfather_clock Expected: 8870 Got: 8947
+[27Jan2025 01:17:24.547] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:acacia_mirror Expected: 8871 Got: 8948
+[27Jan2025 01:17:24.547] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:acacia_shutter Expected: 8872 Got: 8949
+[27Jan2025 01:17:24.548] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:acacia_desk Expected: 8873 Got: 8950
+[27Jan2025 01:17:24.548] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:acacia_dresser Expected: 8874 Got: 8951
+[27Jan2025 01:17:24.548] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:acacia_desk_chair Expected: 8875 Got: 8952
+[27Jan2025 01:17:24.548] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:dark_oak_bench Expected: 8876 Got: 8953
+[27Jan2025 01:17:24.548] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:dark_oak_cabinet Expected: 8877 Got: 8954
+[27Jan2025 01:17:24.548] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:dark_oak_clock Expected: 8878 Got: 8955
+[27Jan2025 01:17:24.548] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:dark_oak_grandfather_clock Expected: 8879 Got: 8956
+[27Jan2025 01:17:24.549] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:dark_oak_mirror Expected: 8880 Got: 8957
+[27Jan2025 01:17:24.549] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:dark_oak_shutter Expected: 8881 Got: 8958
+[27Jan2025 01:17:24.549] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:dark_oak_desk Expected: 8882 Got: 8959
+[27Jan2025 01:17:24.549] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:dark_oak_dresser Expected: 8883 Got: 8960
+[27Jan2025 01:17:24.549] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:dark_oak_desk_chair Expected: 8884 Got: 8961
+[27Jan2025 01:17:24.549] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:mangrove_bench Expected: 8885 Got: 8962
+[27Jan2025 01:17:24.549] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:mangrove_cabinet Expected: 8886 Got: 8963
+[27Jan2025 01:17:24.550] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:mangrove_clock Expected: 8887 Got: 8964
+[27Jan2025 01:17:24.550] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:mangrove_grandfather_clock Expected: 8888 Got: 8965
+[27Jan2025 01:17:24.550] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:mangrove_mirror Expected: 8889 Got: 8966
+[27Jan2025 01:17:24.550] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:mangrove_shutter Expected: 8890 Got: 8967
+[27Jan2025 01:17:24.550] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:mangrove_desk Expected: 8891 Got: 8968
+[27Jan2025 01:17:24.550] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:mangrove_dresser Expected: 8892 Got: 8969
+[27Jan2025 01:17:24.551] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:mangrove_desk_chair Expected: 8893 Got: 8970
+[27Jan2025 01:17:24.551] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:cherry_bench Expected: 8894 Got: 8971
+[27Jan2025 01:17:24.551] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:cherry_cabinet Expected: 8895 Got: 8972
+[27Jan2025 01:17:24.551] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:cherry_clock Expected: 8896 Got: 8973
+[27Jan2025 01:17:24.551] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:cherry_grandfather_clock Expected: 8897 Got: 8974
+[27Jan2025 01:17:24.551] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:cherry_mirror Expected: 8898 Got: 8975
+[27Jan2025 01:17:24.551] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:cherry_shutter Expected: 8899 Got: 8976
+[27Jan2025 01:17:24.552] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:cherry_desk Expected: 8900 Got: 8977
+[27Jan2025 01:17:24.552] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:cherry_dresser Expected: 8901 Got: 8978
+[27Jan2025 01:17:24.552] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:cherry_desk_chair Expected: 8902 Got: 8979
+[27Jan2025 01:17:24.552] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:sofa_white Expected: 8903 Got: 8980
+[27Jan2025 01:17:24.552] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:pouffe_white Expected: 8904 Got: 8981
+[27Jan2025 01:17:24.552] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:curtain_white Expected: 8905 Got: 8982
+[27Jan2025 01:17:24.552] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:lamp_white Expected: 8906 Got: 8983
+[27Jan2025 01:17:24.553] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:sofa_light_gray Expected: 8907 Got: 8984
+[27Jan2025 01:17:24.553] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:pouffe_light_gray Expected: 8908 Got: 8985
+[27Jan2025 01:17:24.553] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:curtain_light_gray Expected: 8909 Got: 8986
+[27Jan2025 01:17:24.553] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:lamp_light_gray Expected: 8910 Got: 8987
+[27Jan2025 01:17:24.553] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:sofa_gray Expected: 8911 Got: 8988
+[27Jan2025 01:17:24.553] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:pouffe_gray Expected: 8912 Got: 8989
+[27Jan2025 01:17:24.554] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:curtain_gray Expected: 8913 Got: 8990
+[27Jan2025 01:17:24.554] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:lamp_gray Expected: 8914 Got: 8991
+[27Jan2025 01:17:24.554] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:sofa_black Expected: 8915 Got: 8992
+[27Jan2025 01:17:24.554] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:pouffe_black Expected: 8916 Got: 8993
+[27Jan2025 01:17:24.554] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:curtain_black Expected: 8917 Got: 8994
+[27Jan2025 01:17:24.554] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:lamp_black Expected: 8918 Got: 8995
+[27Jan2025 01:17:24.554] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:sofa_red Expected: 8919 Got: 8996
+[27Jan2025 01:17:24.555] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:pouffe_red Expected: 8920 Got: 8997
+[27Jan2025 01:17:24.555] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:curtain_red Expected: 8921 Got: 8998
+[27Jan2025 01:17:24.555] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:lamp_red Expected: 8922 Got: 8999
+[27Jan2025 01:17:24.555] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:sofa_orange Expected: 8923 Got: 9000
+[27Jan2025 01:17:24.555] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:pouffe_orange Expected: 8924 Got: 9001
+[27Jan2025 01:17:24.555] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:curtain_orange Expected: 8925 Got: 9002
+[27Jan2025 01:17:24.555] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:lamp_orange Expected: 8926 Got: 9003
+[27Jan2025 01:17:24.555] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:sofa_yellow Expected: 8927 Got: 9004
+[27Jan2025 01:17:24.556] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:pouffe_yellow Expected: 8928 Got: 9005
+[27Jan2025 01:17:24.556] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:curtain_yellow Expected: 8929 Got: 9006
+[27Jan2025 01:17:24.556] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:lamp_yellow Expected: 8930 Got: 9007
+[27Jan2025 01:17:24.556] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:sofa_lime Expected: 8931 Got: 9008
+[27Jan2025 01:17:24.556] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:pouffe_lime Expected: 8932 Got: 9009
+[27Jan2025 01:17:24.556] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:curtain_lime Expected: 8933 Got: 9010
+[27Jan2025 01:17:24.557] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:lamp_lime Expected: 8934 Got: 9011
+[27Jan2025 01:17:24.557] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:sofa_green Expected: 8935 Got: 9012
+[27Jan2025 01:17:24.557] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:pouffe_green Expected: 8936 Got: 9013
+[27Jan2025 01:17:24.557] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:curtain_green Expected: 8937 Got: 9014
+[27Jan2025 01:17:24.557] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:lamp_green Expected: 8938 Got: 9015
+[27Jan2025 01:17:24.557] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:sofa_cyan Expected: 8939 Got: 9016
+[27Jan2025 01:17:24.557] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:pouffe_cyan Expected: 8940 Got: 9017
+[27Jan2025 01:17:24.558] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:curtain_cyan Expected: 8941 Got: 9018
+[27Jan2025 01:17:24.558] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:lamp_cyan Expected: 8942 Got: 9019
+[27Jan2025 01:17:24.558] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:sofa_light_blue Expected: 8943 Got: 9020
+[27Jan2025 01:17:24.558] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:pouffe_light_blue Expected: 8944 Got: 9021
+[27Jan2025 01:17:24.558] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:curtain_light_blue Expected: 8945 Got: 9022
+[27Jan2025 01:17:24.558] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:lamp_light_blue Expected: 8946 Got: 9023
+[27Jan2025 01:17:24.558] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:sofa_blue Expected: 8947 Got: 9024
+[27Jan2025 01:17:24.559] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:pouffe_blue Expected: 8948 Got: 9025
+[27Jan2025 01:17:24.559] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:curtain_blue Expected: 8949 Got: 9026
+[27Jan2025 01:17:24.559] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:lamp_blue Expected: 8950 Got: 9027
+[27Jan2025 01:17:24.559] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:sofa_purple Expected: 8951 Got: 9028
+[27Jan2025 01:17:24.559] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:pouffe_purple Expected: 8952 Got: 9029
+[27Jan2025 01:17:24.559] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:curtain_purple Expected: 8953 Got: 9030
+[27Jan2025 01:17:24.559] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:lamp_purple Expected: 8954 Got: 9031
+[27Jan2025 01:17:24.560] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:sofa_magenta Expected: 8955 Got: 9032
+[27Jan2025 01:17:24.560] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:pouffe_magenta Expected: 8956 Got: 9033
+[27Jan2025 01:17:24.560] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:curtain_magenta Expected: 8957 Got: 9034
+[27Jan2025 01:17:24.560] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:lamp_magenta Expected: 8958 Got: 9035
+[27Jan2025 01:17:24.560] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:sofa_pink Expected: 8959 Got: 9036
+[27Jan2025 01:17:24.562] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:pouffe_pink Expected: 8960 Got: 9037
+[27Jan2025 01:17:24.562] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:curtain_pink Expected: 8961 Got: 9038
+[27Jan2025 01:17:24.562] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:lamp_pink Expected: 8962 Got: 9039
+[27Jan2025 01:17:24.562] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:sofa_brown Expected: 8963 Got: 9040
+[27Jan2025 01:17:24.563] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:pouffe_brown Expected: 8964 Got: 9041
+[27Jan2025 01:17:24.563] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:curtain_brown Expected: 8965 Got: 9042
+[27Jan2025 01:17:24.563] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: furniture:lamp_brown Expected: 8966 Got: 9043
+[27Jan2025 01:17:24.563] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:mob_effect: Object did not get ID it asked for. Name: midnightlurker:insanity Expected: 40 Got: 161
+[27Jan2025 01:17:24.565] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:mob_effect: Object did not get ID it asked for. Name: midnightlurker:insanity_faces Expected: 41 Got: 162
+[27Jan2025 01:17:24.565] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:mob_effect: Object did not get ID it asked for. Name: midnightlurker:lurker_angered Expected: 42 Got: 163
+[27Jan2025 01:17:24.565] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:mob_effect: Object did not get ID it asked for. Name: midnightlurker:amnesia Expected: 43 Got: 164
+[27Jan2025 01:17:24.565] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:mob_effect: Object did not get ID it asked for. Name: midnightlurker:static_effect Expected: 44 Got: 165
+[27Jan2025 01:17:24.565] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:mob_effect: Object did not get ID it asked for. Name: midnightlurker:amnesia_show_in_inv Expected: 45 Got: 166
+[27Jan2025 01:17:24.565] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:mob_effect: Object did not get ID it asked for. Name: midnightlurker:insanity_showin_inv Expected: 46 Got: 167
+[27Jan2025 01:17:24.567] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: midnightlurker:lurkerdisappear Expected: 1852 Got: 2313
+[27Jan2025 01:17:24.567] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: midnightlurker:lurkerchase Expected: 1853 Got: 2314
+[27Jan2025 01:17:24.567] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: midnightlurker:lurkerinvisiblejumpscare Expected: 1854 Got: 2315
+[27Jan2025 01:17:24.568] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: midnightlurker:lurkerchase2 Expected: 1855 Got: 2316
+[27Jan2025 01:17:24.568] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: midnightlurker:lurkerprefinalbreak Expected: 1856 Got: 2317
+[27Jan2025 01:17:24.568] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: midnightlurker:lurkerfinalbreak Expected: 1857 Got: 2318
+[27Jan2025 01:17:24.568] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: midnightlurker:spookyambience Expected: 1858 Got: 2319
+[27Jan2025 01:17:24.568] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: midnightlurker:insanitygoesbacksound Expected: 1859 Got: 2320
+[27Jan2025 01:17:24.568] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: midnightlurker:insanityambience Expected: 1860 Got: 2321
+[27Jan2025 01:17:24.570] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: midnightlurker:insanitychase Expected: 1861 Got: 2322
+[27Jan2025 01:17:24.570] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: midnightlurker:lurkerbreakingblock Expected: 1862 Got: 2323
+[27Jan2025 01:17:24.570] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: midnightlurker:lurkerdistantscream Expected: 1863 Got: 2324
+[27Jan2025 01:17:24.570] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: midnightlurker:lurkerdeath Expected: 1864 Got: 2325
+[27Jan2025 01:17:24.571] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: midnightlurker:lurkerdeathjumpscare Expected: 1865 Got: 2326
+[27Jan2025 01:17:24.571] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: midnightlurker:lurkerscream Expected: 1866 Got: 2327
+[27Jan2025 01:17:24.571] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: midnightlurker:lurkerambient Expected: 1867 Got: 2328
+[27Jan2025 01:17:24.571] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: midnightlurker:lurkerchasesteps Expected: 1868 Got: 2329
+[27Jan2025 01:17:24.572] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: midnightlurker:lurkerjumpscare Expected: 1869 Got: 2330
+[27Jan2025 01:17:24.572] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: midnightlurker:lurkerhurt Expected: 1870 Got: 2331
+[27Jan2025 01:17:24.572] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: midnightlurker:nostepsound Expected: 1871 Got: 2332
+[27Jan2025 01:17:24.572] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: midnightlurker:voidhands_aggro Expected: 1872 Got: 2333
+[27Jan2025 01:17:24.573] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: midnightlurker:voidhands_death Expected: 1873 Got: 2334
+[27Jan2025 01:17:24.573] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: midnightlurker:voidhands_hurt Expected: 1874 Got: 2335
+[27Jan2025 01:17:24.573] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: midnightlurker:voidhands_shriek Expected: 1875 Got: 2336
+[27Jan2025 01:17:24.574] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: midnightlurker:static Expected: 1876 Got: 2337
+[27Jan2025 01:17:24.574] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: midnightlurker:phantom_head_scream Expected: 1877 Got: 2338
+[27Jan2025 01:17:24.574] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: midnightlurker:lurkerfootsteps Expected: 1878 Got: 2339
+[27Jan2025 01:17:24.574] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: midnightlurker:thirteen_ambient Expected: 1879 Got: 2340
+[27Jan2025 01:17:24.575] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: midnightlurker:lurkeranger Expected: 1880 Got: 2341
+[27Jan2025 01:17:24.575] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: midnightlurker:lurker_stunned Expected: 1881 Got: 2342
+[27Jan2025 01:17:24.575] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: midnightlurker:lurker_taunt Expected: 1882 Got: 2343
+[27Jan2025 01:17:24.575] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: midnightlurker:lurker_stun_over Expected: 1883 Got: 2344
+[27Jan2025 01:17:24.576] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: midnightlurker:outcastvillager_hit Expected: 1884 Got: 2345
+[27Jan2025 01:17:24.576] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: midnightlurker:outcastvillager_death Expected: 1885 Got: 2346
+[27Jan2025 01:17:24.576] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: midnightlurker:outcastvillager_idle Expected: 1886 Got: 2347
+[27Jan2025 01:17:24.576] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: furniture:grandfathers_clock_ticking Expected: 2342 Got: 2348
+[27Jan2025 01:17:24.577] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: furniture:cabinet_open Expected: 2343 Got: 2349
+[27Jan2025 01:17:24.577] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: furniture:cabinet_close Expected: 2344 Got: 2350
+[27Jan2025 01:17:24.577] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: furniture:coffer_open Expected: 2345 Got: 2351
+[27Jan2025 01:17:24.577] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: furniture:coffer_close Expected: 2346 Got: 2352
+[27Jan2025 01:17:24.578] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: furniture:cphs_pride Expected: 2347 Got: 2353
+[27Jan2025 01:17:24.578] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: furniture:letsdo_theme Expected: 2348 Got: 2354
+[27Jan2025 01:17:24.579] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: midnightlurker:midnight_lurker_aggressive Expected: 231 Got: 493
+[27Jan2025 01:17:24.579] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: midnightlurker:midnight_lurkertpose Expected: 232 Got: 494
+[27Jan2025 01:17:24.579] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: midnightlurker:midnight_lurker_stalking Expected: 233 Got: 495
+[27Jan2025 01:17:24.579] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: midnightlurker:midnight_lurker_invisible Expected: 234 Got: 496
+[27Jan2025 01:17:24.580] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: midnightlurker:spookyambienceentity Expected: 235 Got: 497
+[27Jan2025 01:17:24.580] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: midnightlurker:midnight_lurker_seen_angressive Expected: 236 Got: 498
+[27Jan2025 01:17:24.580] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: midnightlurker:destroytex Expected: 237 Got: 499
+[27Jan2025 01:17:24.580] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: midnightlurker:destroytex_2 Expected: 238 Got: 500
+[27Jan2025 01:17:24.581] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: midnightlurker:destroytex_3 Expected: 239 Got: 501
+[27Jan2025 01:17:24.581] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: midnightlurker:destroytex_4 Expected: 240 Got: 502
+[27Jan2025 01:17:24.581] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: midnightlurker:midnight_lurker_faker_aggro Expected: 241 Got: 503
+[27Jan2025 01:17:24.582] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: midnightlurker:midnight_lurker_faker Expected: 242 Got: 504
+[27Jan2025 01:17:24.582] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: midnightlurker:midnight_lurker_faker_watcher Expected: 243 Got: 505
+[27Jan2025 01:17:24.582] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: midnightlurker:void_gateway Expected: 244 Got: 506
+[27Jan2025 01:17:24.582] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: midnightlurker:midnight_lurker_backturned Expected: 245 Got: 507
+[27Jan2025 01:17:24.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: midnightlurker:midnight_lurker_shadow_eyes Expected: 246 Got: 508
+[27Jan2025 01:17:24.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: midnightlurker:midnight_lurker_shadow Expected: 247 Got: 509
+[27Jan2025 01:17:24.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: midnightlurker:midnight_lurker_unprovoked Expected: 248 Got: 510
+[27Jan2025 01:17:24.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: midnightlurker:midnight_lurker_runaway Expected: 249 Got: 511
+[27Jan2025 01:17:24.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: midnightlurker:midnight_lurker_runtrue Expected: 250 Got: 512
+[27Jan2025 01:17:24.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: midnightlurker:midnight_lurker_hider Expected: 251 Got: 513
+[27Jan2025 01:17:24.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: midnightlurker:midnight_lurker_shapeshifter Expected: 252 Got: 514
+[27Jan2025 01:17:24.585] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: midnightlurker:midnight_lurker_stare Expected: 253 Got: 515
+[27Jan2025 01:17:24.585] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: midnightlurker:midnightlurker_ne Expected: 254 Got: 516
+[27Jan2025 01:17:24.585] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: midnightlurker:midnight_lurker_watcher Expected: 255 Got: 517
+[27Jan2025 01:17:24.586] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: midnightlurker:void_hands Expected: 256 Got: 518
+[27Jan2025 01:17:24.586] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: midnightlurker:invisible_footsteps Expected: 257 Got: 519
+[27Jan2025 01:17:24.586] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: midnightlurker:invisible_shadow Expected: 258 Got: 520
+[27Jan2025 01:17:24.586] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: midnightlurker:invisible_static Expected: 259 Got: 521
+[27Jan2025 01:17:24.587] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: midnightlurker:invisible_lurker_footsteps Expected: 260 Got: 522
+[27Jan2025 01:17:24.587] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: midnightlurker:invisible_cave_sounds Expected: 261 Got: 523
+[27Jan2025 01:17:24.587] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: midnightlurker:midnight_lurker_creep Expected: 262 Got: 524
+[27Jan2025 01:17:24.588] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: midnightlurker:midnight_phantom_head Expected: 263 Got: 525
+[27Jan2025 01:17:24.588] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: midnightlurker:invisible_animal_killer Expected: 264 Got: 526
+[27Jan2025 01:17:24.588] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: midnightlurker:shapeshifter_pig Expected: 265 Got: 527
+[27Jan2025 01:17:24.588] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: midnightlurker:shape_shifter_cow Expected: 266 Got: 528
+[27Jan2025 01:17:24.589] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: midnightlurker:villager_outcast Expected: 267 Got: 529
+[27Jan2025 01:17:24.589] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: furniture:chair Expected: 523 Got: 530
+[27Jan2025 01:17:24.589] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: furniture:canvas Expected: 524 Got: 531
+[27Jan2025 01:17:24.589] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: furniture:fake_fish_tank Expected: 525 Got: 532
+[27Jan2025 01:17:24.590] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: furniture:pells Expected: 526 Got: 533
+[27Jan2025 01:17:24.776] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[27Jan2025 01:17:24.776] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[27Jan2025 01:17:24.830] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Babosos/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23249!/assets/.mcassetsroot' uses unexpected schema
+[27Jan2025 01:17:24.831] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Babosos/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23249!/data/.mcassetsroot' uses unexpected schema
+[27Jan2025 01:17:25.118] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
+[27Jan2025 01:17:25.118] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crittersandcompanions] Starting version check at https://api.modrinth.com/updates/critters-and-companions/forge_updates.json
+[27Jan2025 01:17:25.445] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crittersandcompanions] Found status: UP_TO_DATE Current: 2.2.2 Target: null
+[27Jan2025 01:17:25.446] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[27Jan2025 01:17:25.459] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
+[27Jan2025 01:17:25.460] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[27Jan2025 01:17:25.473] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.0 Target: null
+[27Jan2025 01:17:25.474] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Starting version check at https://api.modrinth.com/updates/rubidium-extra/forge_updates.json
+[27Jan2025 01:17:26.466] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Found status: OUTDATED Current: 0.5.4.3+mc1.20.1-build.121 Target: 0.5.4.4+mc1.20.1-build.131
+[27Jan2025 01:17:26.470] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[27Jan2025 01:17:26.483] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.25 Target: null
+[27Jan2025 01:17:26.483] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
+[27Jan2025 01:17:26.600] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: UP_TO_DATE Current: 8.0.3 Target: null
+[27Jan2025 01:17:27.137] [main/INFO] [PFM-DataGen/]: Starting PFM Data Generation
+[27Jan2025 01:17:30.012] [main/INFO] [PFM-DataGen/]: Data providers took: 2358 ms
+[27Jan2025 01:17:33.185] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.6.2 MC 1.20.1.jar)
+[27Jan2025 01:17:33.294] [Worker-Main-4/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag ctov:wares/cardboard_box as it is missing following references: wares:cardboard_box (from [forge]ctov-3.4.11.jar)
+[27Jan2025 01:17:33.299] [Worker-Main-4/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag ctov:wares/sealed_delivery_agreement as it is missing following references: wares:sealed_delivery_agreement (from [forge]ctov-3.4.11.jar)
+[27Jan2025 01:17:34.244] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:ctov:chests/village/village_forager
+com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
+	at net.minecraft.util.GsonHelper.m_13912_(GsonHelper.java:181) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.world.level.storage.loot.entries.TagEntry$Serializer.m_7267_(TagEntry.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.world.level.storage.loot.entries.TagEntry$Serializer.m_7267_(TagEntry.java:72) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23254!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23254!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[27Jan2025 01:17:34.636] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet: com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingot'
+[27Jan2025 01:17:34.731] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left: com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dripstone_brick'
+[27Jan2025 01:17:34.746] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal: com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_bone_meal'
+[27Jan2025 01:17:34.861] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:frontier_cap: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:mod_loaded'
+[27Jan2025 01:17:34.862] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:brewing'
+[27Jan2025 01:17:34.872] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:frontier_cap_alt: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:mod_loaded'
+[27Jan2025 01:17:34.900] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 26 recipes
+[27Jan2025 01:17:35.134] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 8900 advancements
+[27Jan2025 01:17:35.138] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 8 tool_handle_types
+[27Jan2025 01:17:35.138] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 37 snowcap_oven_freezing_recipes
+[27Jan2025 01:17:35.138] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 horizonite_forge_fuels
+[27Jan2025 01:17:35.138] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 12 snowcap_mushroom_freezing
+[27Jan2025 01:17:35.156] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 70 alchemy_recipes
+[27Jan2025 01:17:35.158] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 81 journal/entries
+[27Jan2025 01:17:35.158] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 3 journal/sections
+[27Jan2025 01:17:35.158] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 journal/requirements
+[27Jan2025 01:17:35.159] [main/INFO] [Dungeon Crawl/]: Loading data...
+[27Jan2025 01:17:35.496] [main/INFO] [Dungeon Crawl/]: Done.
+[27Jan2025 01:17:35.520] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[27Jan2025 01:17:35.527] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[27Jan2025 01:17:35.630] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
+[27Jan2025 01:17:35.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[27Jan2025 01:17:35.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[27Jan2025 01:17:35.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[27Jan2025 01:17:35.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[27Jan2025 01:17:35.919] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[27Jan2025 01:17:35.980] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[27Jan2025 01:17:36.039] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[27Jan2025 01:17:36.039] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[27Jan2025 01:17:36.039] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[27Jan2025 01:17:36.040] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[27Jan2025 01:17:36.083] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
+[27Jan2025 01:17:36.263] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[27Jan2025 01:17:36.892] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[27Jan2025 01:17:36.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[27Jan2025 01:17:37.578] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:37.578] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:37.578] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:37.579] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:37.579] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:37.579] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:37.579] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:37.580] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[27Jan2025 01:17:37.580] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:37.580] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:37.580] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:37.581] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:37.581] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:37.581] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:37.581] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:37.581] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:37.582] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:37.582] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:37.582] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:37.582] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[27Jan2025 01:17:37.583] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:37.583] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:37.583] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[27Jan2025 01:17:37.583] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:37.584] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[27Jan2025 01:17:37.584] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[27Jan2025 01:17:37.584] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:37.584] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:37.585] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:37.585] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:37.585] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:37.585] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:37.586] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:37.586] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:37.586] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:37.586] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:37.587] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[27Jan2025 01:17:37.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[27Jan2025 01:17:39.069] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Jan2025 01:17:39.070] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Jan2025 01:17:39.070] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Jan2025 01:17:39.280] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Jan2025 01:17:40.045] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2266 ms
+[27Jan2025 01:17:40.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.995s)! For help, type "help"
+[27Jan2025 01:17:40.122] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[27Jan2025 01:17:40.129] [Server thread/INFO] [harmonised.pmmo.util.MsLoggy/]: Loading PMMO Saved Data
+[27Jan2025 01:17:40.130] [Server thread/INFO] [harmonised.pmmo.util.MsLoggy/]: Computing data for cache
+[27Jan2025 01:17:40.131] [Server thread/INFO] [harmonised.pmmo.util.MsLoggy/]: PMMO Server loading process complete
+[27Jan2025 01:17:40.238] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 193128 bytes (in 20 string chunks with the size of 10000)
+[27Jan2025 01:17:40.240] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[27Jan2025 01:17:40.243] [Server thread/WARN] [ModernFix/]: Dedicated server took 42.953 seconds to load
+[27Jan2025 01:18:07.947] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[27Jan2025 01:18:08.067] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SpartanMike[/127.97.21.212:53781] logged in with entity id 698 at (-1615.8123183919408, 110.0, 134.05184800397637)
+[27Jan2025 01:18:08.116] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to SpartanMike
+[27Jan2025 01:18:08.117] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to SpartanMike
+[27Jan2025 01:18:08.118] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to SpartanMike
+[27Jan2025 01:18:08.118] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to SpartanMike
+[27Jan2025 01:18:08.123] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to SpartanMike
+[27Jan2025 01:18:08.128] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to SpartanMike
+[27Jan2025 01:18:08.128] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to SpartanMike
+[27Jan2025 01:18:08.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike joined the game
+[27Jan2025 01:18:08.367] [Server thread/INFO] [Jade/]: Syncing config to SpartanMike (8f0465db-d348-3144-a61a-6d0ee53eed92)
+[27Jan2025 01:18:24.007] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PrimeRios03[/127.57.81.108:45919] logged in with entity id 933 at (-1621.28600520954, 108.5, 135.78346696752072)
+[27Jan2025 01:18:24.014] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to PrimeRios03
+[27Jan2025 01:18:24.015] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to PrimeRios03
+[27Jan2025 01:18:24.015] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to PrimeRios03
+[27Jan2025 01:18:24.015] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to PrimeRios03
+[27Jan2025 01:18:24.023] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to PrimeRios03
+[27Jan2025 01:18:24.026] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to PrimeRios03
+[27Jan2025 01:18:24.027] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to PrimeRios03
+[27Jan2025 01:18:24.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 joined the game
+[27Jan2025 01:18:24.214] [Server thread/INFO] [Jade/]: Syncing config to PrimeRios03 (e4bcc4ae-0e89-38e4-a892-edc771448902)
+[27Jan2025 01:18:35.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
+[27Jan2025 01:18:51.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
+[27Jan2025 01:19:16.980] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FunnyUntipo[/127.93.239.130:56659] logged in with entity id 1045 at (-1617.153577265405, 110.5625, 136.9408385751319)
+[27Jan2025 01:19:16.981] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to FunnyUntipo
+[27Jan2025 01:19:16.982] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to FunnyUntipo
+[27Jan2025 01:19:16.982] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to FunnyUntipo
+[27Jan2025 01:19:16.982] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to FunnyUntipo
+[27Jan2025 01:19:16.985] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to FunnyUntipo
+[27Jan2025 01:19:16.988] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to FunnyUntipo
+[27Jan2025 01:19:16.988] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to FunnyUntipo
+[27Jan2025 01:19:17.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo joined the game
+[27Jan2025 01:19:17.108] [Server thread/INFO] [Jade/]: Syncing config to FunnyUntipo (b404d8c6-7175-37d8-923b-eca00424e1ad)
+[27Jan2025 01:19:44.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
+[27Jan2025 01:20:32.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo has made the advancement [Hot Stuff]
+[27Jan2025 01:20:44.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.2860969848484274
+[27Jan2025 01:20:44.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.9997438107704966
+[27Jan2025 01:21:12.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 fell from a high place
+[27Jan2025 01:21:12.749] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[27Jan2025 01:24:32.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo was slain by PrimeRios03
+[27Jan2025 01:24:32.089] [Server thread/INFO] [tombstone/]: The player FunnyUntipo has successfully been saved
+[27Jan2025 01:24:46.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo fell from a high place
+[27Jan2025 01:24:46.739] [Server thread/INFO] [tombstone/]: The player FunnyUntipo has successfully been saved
+[27Jan2025 01:30:10.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 fell from a high place
+[27Jan2025 01:30:10.064] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[27Jan2025 01:33:33.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was doomed to fall by FunnyUntipo
+[27Jan2025 01:33:33.363] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[27Jan2025 01:39:52.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike was doomed to fall by FunnyUntipo
+[27Jan2025 01:39:52.935] [Server thread/INFO] [tombstone/]: The player SpartanMike has successfully been saved
+[27Jan2025 01:39:57.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo was doomed to fall by PrimeRios03
+[27Jan2025 01:39:57.389] [Server thread/INFO] [tombstone/]: The player FunnyUntipo has successfully been saved
+[27Jan2025 01:40:59.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was doomed to fall by FunnyUntipo
+[27Jan2025 01:40:59.744] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[27Jan2025 01:41:22.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 has made the advancement [Junior Summoner]
+[27Jan2025 01:41:31.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike was slain by FunnyUntipo
+[27Jan2025 01:41:31.334] [Server thread/INFO] [tombstone/]: The player SpartanMike has successfully been saved
+[27Jan2025 01:41:51.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo was caught by SpartanMike's fangs
+[27Jan2025 01:41:51.563] [Server thread/INFO] [tombstone/]: The player FunnyUntipo has successfully been saved
+[27Jan2025 01:58:34.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo was doomed to fall by SpartanMike
+[27Jan2025 01:58:34.208] [Server thread/INFO] [tombstone/]: The player FunnyUntipo has successfully been saved
+[27Jan2025 02:01:09.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 fell from a high place
+[27Jan2025 02:01:09.346] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[27Jan2025 02:04:56.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.28028559187507085
+[27Jan2025 02:04:56.193] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.9378855214667112
+[27Jan2025 02:04:56.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 1.5888815132212244
+[27Jan2025 02:05:21.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo has made the advancement [Not Today, Thank You]
+[27Jan2025 02:10:44.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo was killed by SpartanMike's magic missile
+[27Jan2025 02:10:44.861] [Server thread/INFO] [tombstone/]: The player FunnyUntipo has successfully been saved
+[27Jan2025 02:15:11.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo has reached the goal [Bone Crusher]
+[27Jan2025 02:17:47.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrimeRios03> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[27Jan2025 02:17:55.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrimeRios03> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[27Jan2025 02:27:38.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike was laid to rest by PrimeRios03
+[27Jan2025 02:27:38.215] [Server thread/INFO] [tombstone/]: The player SpartanMike has successfully been saved
+[27Jan2025 02:28:02.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was killed by SpartanMike's magic missile
+[27Jan2025 02:28:02.212] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[27Jan2025 02:29:05.446] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[27Jan2025 02:30:08.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was killed by SpartanMike's magic missile
+[27Jan2025 02:30:08.064] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[27Jan2025 02:30:08.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PrimeRios03 moved wrongly!
+[27Jan2025 02:39:50.008] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SpartanMike lost connection: Disconnected
+[27Jan2025 02:39:50.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike left the game
+[27Jan2025 02:40:43.557] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FunnyUntipo lost connection: Disconnected
+[27Jan2025 02:40:43.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo left the game
+[27Jan2025 03:24:06.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by Corpse Maggot
+[27Jan2025 03:24:06.313] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[27Jan2025 04:18:40.895] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity isolated:standing_still but it was marked as removed already
+[27Jan2025 04:57:36.854] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PrimeRios03 lost connection: Disconnected
+[27Jan2025 04:57:36.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 left the game
+[27Jan2025 04:58:19.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Jan2025 04:58:19.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Jan2025 04:58:19.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Jan2025 04:58:19.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[27Jan2025 04:58:19.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[27Jan2025 04:58:19.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[27Jan2025 04:58:19.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[27Jan2025 04:58:19.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[27Jan2025 04:58:19.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27Jan2025 04:58:19.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Jan2025 04:58:19.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[27Jan2025 04:58:19.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Jan2025 04:58:19.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[27Jan2025 04:58:19.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
