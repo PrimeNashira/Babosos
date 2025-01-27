@@ -16171,3 +16171,18 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [26Jan2025 23:47:39.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26Jan2025 23:52:39.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Jan2025 23:52:39.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jan2025 23:57:39.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jan2025 23:57:39.250] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jan2025 23:59:38.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike has made the advancement [A Glorious Feast]
+[27Jan2025 00:02:05.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo was slain by PrimeRios03
+[27Jan2025 00:02:05.509] [Server thread/DEBUG] [tombstone/]: A new grave of the player FunnyUntipo was created at position [x:-1611, y:125, z:121, dim:minecraft:overworld]
+[27Jan2025 00:02:05.510] [Server thread/INFO] [tombstone/]: The player FunnyUntipo has successfully been saved
+[27Jan2025 00:02:21.545] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_pillager_0
+[27Jan2025 00:02:21.548] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_0
+[27Jan2025 00:02:21.552] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_vindicator_spawner_0
+[27Jan2025 00:02:37.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.3456627906876406
+[27Jan2025 00:02:37.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 1.0
+[27Jan2025 00:02:37.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 1.0
+[27Jan2025 00:02:39.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 00:02:39.257] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jan2025 00:02:54.515] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_3
