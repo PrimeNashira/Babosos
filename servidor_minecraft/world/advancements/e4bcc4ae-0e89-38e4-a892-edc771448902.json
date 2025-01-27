@@ -2108,9 +2108,10 @@
   },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
-      "has_diorite": "2025-01-19 02:47:43 +0000"
+      "has_diorite": "2025-01-19 02:47:43 +0000",
+      "has_the_recipe": "2025-01-27 21:03:50 +0000"
     },
-    "done": false
+    "done": true
   },
   "pfm:recipes/furniture/diorite_kitchen_wall_small_drawer": {
     "criteria": {
@@ -10069,11 +10070,155 @@
     },
     "done": false
   },
+  "pfm:recipes/furniture/diorite_chair": {
+    "criteria": {
+      "diorite_chair": "2025-01-27 21:03:50 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/diorite_table_natural": {
+    "criteria": {
+      "diorite_table_natural": "2025-01-27 21:03:50 +0000"
+    },
+    "done": false
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-01-27 20:49:53 +0000"
     },
     "done": true
+  },
+  "pfm:recipes/furniture/diorite_coffee_table_basic": {
+    "criteria": {
+      "diorite_coffee_table_basic": "2025-01-27 21:03:50 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/diorite_table_classic": {
+    "criteria": {
+      "diorite_table_classic": "2025-01-27 21:03:50 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/diorite_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-27 21:03:50 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/diorite_table_dinner": {
+    "criteria": {
+      "diorite_table_dinner": "2025-01-27 21:03:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-01-27 21:03:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2025-01-27 21:03:50 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/diorite_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-01-27 21:03:50 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/diorite_coffee_table_classic": {
+    "criteria": {
+      "diorite_coffee_table_classic": "2025-01-27 21:03:50 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/diorite_classic_nightstand": {
+    "criteria": {
+      "diorite_classic_nightstand": "2025-01-27 21:03:50 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/diorite_table_modern_dinner": {
+    "criteria": {
+      "diorite_table_modern_dinner": "2025-01-27 21:03:50 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/diorite_table_basic": {
+    "criteria": {
+      "diorite_table_basic": "2025-01-27 21:03:50 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/diorite_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-27 21:03:50 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/diorite_chair_dinner": {
+    "criteria": {
+      "diorite_chair_dinner": "2025-01-27 21:03:50 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/diorite_chair_classic": {
+    "criteria": {
+      "diorite_chair_classic": "2025-01-27 21:03:50 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/diorite_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-01-27 21:03:50 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/diorite_coffee_table_modern": {
+    "criteria": {
+      "diorite_coffee_table_modern": "2025-01-27 21:03:50 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/diorite_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-27 21:03:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2025-01-27 21:03:50 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/diorite_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-01-27 21:03:50 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/diorite_chair_modern": {
+    "criteria": {
+      "diorite_chair_modern": "2025-01-27 21:03:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-01-27 21:03:50 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/diorite_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-01-27 21:03:50 +0000"
+    },
+    "done": false
   },
   "chest_with_legs:chest_with_legs": {
     "criteria": {
