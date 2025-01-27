@@ -10143,3 +10143,36 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [27Jan2025 21:15:47.170] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1910, y=21, z=-172}
 [27Jan2025 21:20:25.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Jan2025 21:20:25.720] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jan2025 21:25:25.687] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 21:25:25.709] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jan2025 21:30:25.694] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 21:30:25.718] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jan2025 21:31:45.266] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PrimeRios03 lost connection: Disconnected
+[27Jan2025 21:31:45.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 left the game
+[27Jan2025 21:31:51.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Jan2025 21:31:51.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Jan2025 21:31:51.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Jan2025 21:31:51.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[27Jan2025 21:31:51.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[27Jan2025 21:31:51.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[27Jan2025 21:31:51.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[27Jan2025 21:31:51.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[27Jan2025 21:31:51.645] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 21:31:51.664] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jan2025 21:31:51.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27Jan2025 21:31:51.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Jan2025 21:31:51.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[27Jan2025 21:31:51.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[27Jan2025 21:31:51.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Jan2025 21:31:51.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[27Jan2025 21:31:51.696] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[27Jan2025 21:31:51.696] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[27Jan2025 21:31:51.701] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[27Jan2025 21:31:51.701] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[27Jan2025 21:31:51.701] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for blue_skies:everbright
+[27Jan2025 21:31:51.701] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for blue_skies:everbright
+[27Jan2025 21:31:51.701] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for blue_skies:everdawn
+[27Jan2025 21:31:51.701] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for blue_skies:everdawn
+[27Jan2025 21:31:51.702] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[27Jan2025 21:31:51.702] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[27Jan2025 21:31:51.703] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
