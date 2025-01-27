@@ -1181,7 +1181,8 @@
   },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
-      "has_flint": "2025-01-19 02:22:58 +0000"
+      "has_flint": "2025-01-19 02:22:58 +0000",
+      "has_the_recipe": "2025-01-27 00:06:50 +0000"
     },
     "done": false
   },

@@ -3,3 +3,6 @@
 [27Jan2025 00:02:37.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 0.3456627906876406
 [27Jan2025 00:02:37.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 1.0
 [27Jan2025 00:02:37.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of FunnyUntipo) moved wrongly! 1.0
+[27Jan2025 00:11:44.741] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/110290, l='ServerLevel[world]', x=-1667.96, y=115.00, z=129.51]
+[27Jan2025 00:14:09.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike was shot by PrimeRios03
+[27Jan2025 00:14:09.596] [Server thread/INFO] [tombstone/]: The player SpartanMike has successfully been saved
