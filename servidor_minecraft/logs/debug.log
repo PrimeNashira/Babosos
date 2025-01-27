@@ -16196,3 +16196,61 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [27Jan2025 00:14:09.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike was shot by PrimeRios03
 [27Jan2025 00:14:09.593] [Server thread/DEBUG] [tombstone/]: A new grave of the player SpartanMike was created at position [x:-1620, y:115, z:129, dim:minecraft:overworld]
 [27Jan2025 00:14:09.596] [Server thread/INFO] [tombstone/]: The player SpartanMike has successfully been saved
+[27Jan2025 00:15:06.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by SpartanMike
+[27Jan2025 00:15:06.668] [Server thread/DEBUG] [tombstone/]: A new grave of the player PrimeRios03 was created at position [x:-1609, y:125, z:121, dim:minecraft:overworld]
+[27Jan2025 00:15:06.669] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[27Jan2025 00:15:13.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo has made the advancement [Take Aim]
+[27Jan2025 00:15:31.200] [Server thread/DEBUG] [harmonised.pmmo.util.MsLoggy/]: AutoItem Attributes: DUR=-0.38 TIER=0.0 DMG=0.8999998569488525 SPD=1.0000004768371573 DIG=0.0
+[27Jan2025 00:15:31.200] [Server thread/DEBUG] [harmonised.pmmo.util.MsLoggy/]: AutoItem XpGain Map: {crafting:15}
+[27Jan2025 00:16:17.147] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/110290, l='ServerLevel[world]', x=-1674.21, y=97.06, z=148.68]
+[27Jan2025 00:17:39.247] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 00:17:39.270] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jan2025 00:20:55.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by FunnyUntipo
+[27Jan2025 00:20:55.806] [Server thread/DEBUG] [tombstone/]: A new grave of the player PrimeRios03 was created at position [x:-1624, y:115, z:129, dim:minecraft:overworld]
+[27Jan2025 00:20:55.807] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[27Jan2025 00:21:17.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike was slain by PrimeRios03
+[27Jan2025 00:21:17.619] [Server thread/DEBUG] [tombstone/]: A new grave of the player SpartanMike was created at position [x:-1659, y:115, z:129, dim:minecraft:overworld]
+[27Jan2025 00:21:17.620] [Server thread/INFO] [tombstone/]: The player SpartanMike has successfully been saved
+[27Jan2025 00:21:33.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 has reached the goal [Chain Death]
+[27Jan2025 00:21:33.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by FunnyUntipo
+[27Jan2025 00:21:33.264] [Server thread/DEBUG] [tombstone/]: A new grave of the player PrimeRios03 was created at position [x:-1680, y:97, z:148, dim:minecraft:overworld]
+[27Jan2025 00:21:33.265] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[27Jan2025 00:21:42.809] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [e4bcc4ae-0e89-38e4-a892-edc771448902]
+[27Jan2025 00:21:43.660] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [e4bcc4ae-0e89-38e4-a892-edc771448902]
+[27Jan2025 00:21:46.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo was slain by PrimeRios03
+[27Jan2025 00:21:46.868] [Server thread/DEBUG] [tombstone/]: A new grave of the player FunnyUntipo was created at position [x:-1680, y:97, z:146, dim:minecraft:overworld]
+[27Jan2025 00:21:46.870] [Server thread/INFO] [tombstone/]: The player FunnyUntipo has successfully been saved
+[27Jan2025 00:21:46.904] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jan2025 00:21:46.904] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[27Jan2025 00:21:46.904] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jan2025 00:21:46.904] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jan2025 00:21:46.905] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 3 | client: 3
+[27Jan2025 00:21:51.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was killed by SpartanMike's magic missile
+[27Jan2025 00:21:51.694] [Server thread/DEBUG] [tombstone/]: A new grave of the player PrimeRios03 was created at position [x:-1672, y:97, z:150, dim:minecraft:overworld]
+[27Jan2025 00:21:51.697] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[27Jan2025 00:22:39.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 00:22:39.253] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jan2025 00:22:53.042] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [8f0465db-d348-3144-a61a-6d0ee53eed92]
+[27Jan2025 00:22:57.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike was laid to rest by PrimeRios03
+[27Jan2025 00:22:57.945] [Server thread/DEBUG] [tombstone/]: A new grave of the player SpartanMike was created at position [x:-1649, y:115, z:128, dim:minecraft:overworld]
+[27Jan2025 00:22:57.948] [Server thread/INFO] [tombstone/]: The player SpartanMike has successfully been saved
+[27Jan2025 00:23:05.601] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [b404d8c6-7175-37d8-923b-eca00424e1ad]
+[27Jan2025 00:23:31.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was killed by SpartanMike's magic missile
+[27Jan2025 00:23:31.399] [Server thread/DEBUG] [tombstone/]: A new grave of the player PrimeRios03 was created at position [x:-1674, y:103, z:143, dim:minecraft:overworld]
+[27Jan2025 00:23:31.401] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[27Jan2025 00:23:49.998] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [b404d8c6-7175-37d8-923b-eca00424e1ad]
+[27Jan2025 00:23:54.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo was slain by PrimeRios03
+[27Jan2025 00:23:54.964] [Server thread/DEBUG] [tombstone/]: A new grave of the player FunnyUntipo was created at position [x:-1679, y:116, z:142, dim:minecraft:overworld]
+[27Jan2025 00:23:54.965] [Server thread/INFO] [tombstone/]: The player FunnyUntipo has successfully been saved
+[27Jan2025 00:24:16.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by FunnyUntipo
+[27Jan2025 00:24:16.253] [Server thread/DEBUG] [tombstone/]: A new grave of the player PrimeRios03 was created at position [x:-1672, y:103, z:144, dim:minecraft:overworld]
+[27Jan2025 00:24:16.254] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[27Jan2025 00:24:27.190] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [b404d8c6-7175-37d8-923b-eca00424e1ad]
+[27Jan2025 00:24:32.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by FunnyUntipo
+[27Jan2025 00:24:32.254] [Server thread/DEBUG] [tombstone/]: A new grave of the player PrimeRios03 was created at position [x:-1681, y:103, z:150, dim:minecraft:overworld]
+[27Jan2025 00:24:32.255] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[27Jan2025 00:24:51.990] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [b404d8c6-7175-37d8-923b-eca00424e1ad]
+[27Jan2025 00:24:53.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by FunnyUntipo
+[27Jan2025 00:24:53.108] [Server thread/DEBUG] [tombstone/]: A new grave of the player PrimeRios03 was created at position [x:-1679, y:103, z:146, dim:minecraft:overworld]
+[27Jan2025 00:24:53.109] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[27Jan2025 00:25:05.153] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [b404d8c6-7175-37d8-923b-eca00424e1ad]

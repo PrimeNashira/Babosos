@@ -6,3 +6,35 @@
 [27Jan2025 00:11:44.741] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/110290, l='ServerLevel[world]', x=-1667.96, y=115.00, z=129.51]
 [27Jan2025 00:14:09.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike was shot by PrimeRios03
 [27Jan2025 00:14:09.596] [Server thread/INFO] [tombstone/]: The player SpartanMike has successfully been saved
+[27Jan2025 00:15:06.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by SpartanMike
+[27Jan2025 00:15:06.669] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[27Jan2025 00:15:13.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo has made the advancement [Take Aim]
+[27Jan2025 00:16:17.147] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/110290, l='ServerLevel[world]', x=-1674.21, y=97.06, z=148.68]
+[27Jan2025 00:20:55.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by FunnyUntipo
+[27Jan2025 00:20:55.807] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[27Jan2025 00:21:17.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike was slain by PrimeRios03
+[27Jan2025 00:21:17.620] [Server thread/INFO] [tombstone/]: The player SpartanMike has successfully been saved
+[27Jan2025 00:21:33.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 has reached the goal [Chain Death]
+[27Jan2025 00:21:33.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by FunnyUntipo
+[27Jan2025 00:21:33.265] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[27Jan2025 00:21:46.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo was slain by PrimeRios03
+[27Jan2025 00:21:46.870] [Server thread/INFO] [tombstone/]: The player FunnyUntipo has successfully been saved
+[27Jan2025 00:21:46.904] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jan2025 00:21:46.904] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[27Jan2025 00:21:46.904] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jan2025 00:21:46.904] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jan2025 00:21:46.905] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 3 | client: 3
+[27Jan2025 00:21:51.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was killed by SpartanMike's magic missile
+[27Jan2025 00:21:51.697] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[27Jan2025 00:22:57.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike was laid to rest by PrimeRios03
+[27Jan2025 00:22:57.948] [Server thread/INFO] [tombstone/]: The player SpartanMike has successfully been saved
+[27Jan2025 00:23:31.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was killed by SpartanMike's magic missile
+[27Jan2025 00:23:31.401] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[27Jan2025 00:23:54.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FunnyUntipo was slain by PrimeRios03
+[27Jan2025 00:23:54.965] [Server thread/INFO] [tombstone/]: The player FunnyUntipo has successfully been saved
+[27Jan2025 00:24:16.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by FunnyUntipo
+[27Jan2025 00:24:16.254] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[27Jan2025 00:24:32.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by FunnyUntipo
+[27Jan2025 00:24:32.255] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
+[27Jan2025 00:24:53.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 was slain by FunnyUntipo
+[27Jan2025 00:24:53.109] [Server thread/INFO] [tombstone/]: The player PrimeRios03 has successfully been saved
