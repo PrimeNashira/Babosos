@@ -10137,3 +10137,9 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [27Jan2025 21:05:25.741] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Jan2025 21:10:25.700] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Jan2025 21:10:25.726] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jan2025 21:15:25.698] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 21:15:25.724] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jan2025 21:15:45.927] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[27Jan2025 21:15:47.170] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1910, y=21, z=-172}
+[27Jan2025 21:20:25.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 21:20:25.720] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
