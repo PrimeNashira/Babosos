@@ -86,3 +86,18 @@
 [27Jan2025 00:45:56.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike joined the game
 [27Jan2025 00:45:56.345] [Server thread/INFO] [Jade/]: Syncing config to SpartanMike (8f0465db-d348-3144-a61a-6d0ee53eed92)
 [27Jan2025 00:46:24.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
+[27Jan2025 00:59:43.071] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PrimeRios03[/127.57.81.108:47349] logged in with entity id 121353 at (-1620.9355105324887, 108.0, 132.47671596699675)
+[27Jan2025 00:59:43.071] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to PrimeRios03
+[27Jan2025 00:59:43.071] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to PrimeRios03
+[27Jan2025 00:59:43.072] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to PrimeRios03
+[27Jan2025 00:59:43.072] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to PrimeRios03
+[27Jan2025 00:59:43.073] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to PrimeRios03
+[27Jan2025 00:59:43.074] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to PrimeRios03
+[27Jan2025 00:59:43.075] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to PrimeRios03
+[27Jan2025 00:59:43.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 joined the game
+[27Jan2025 00:59:43.176] [Server thread/INFO] [Jade/]: Syncing config to PrimeRios03 (e4bcc4ae-0e89-38e4-a892-edc771448902)
+[27Jan2025 01:00:10.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
+[27Jan2025 01:00:20.840] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PrimeRios03 lost connection: Disconnected
+[27Jan2025 01:00:20.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 left the game
+[27Jan2025 01:00:23.890] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SpartanMike lost connection: Disconnected
+[27Jan2025 01:00:23.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike left the game
