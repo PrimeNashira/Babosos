@@ -75,3 +75,14 @@
 [27Jan2025 00:44:35.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
 [27Jan2025 00:45:28.144] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PrimeRios03 lost connection: Disconnected
 [27Jan2025 00:45:28.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 left the game
+[27Jan2025 00:45:56.299] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SpartanMike[/127.97.21.212:41397] logged in with entity id 118995 at (-1531.1845389195937, 64.0, 22.731300277188613)
+[27Jan2025 00:45:56.299] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to SpartanMike
+[27Jan2025 00:45:56.299] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to SpartanMike
+[27Jan2025 00:45:56.300] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to SpartanMike
+[27Jan2025 00:45:56.300] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to SpartanMike
+[27Jan2025 00:45:56.301] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to SpartanMike
+[27Jan2025 00:45:56.303] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to SpartanMike
+[27Jan2025 00:45:56.303] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to SpartanMike
+[27Jan2025 00:45:56.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SpartanMike joined the game
+[27Jan2025 00:45:56.345] [Server thread/INFO] [Jade/]: Syncing config to SpartanMike (8f0465db-d348-3144-a61a-6d0ee53eed92)
+[27Jan2025 00:46:24.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game

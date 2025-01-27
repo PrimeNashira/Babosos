@@ -10189,39 +10189,34 @@
     },
     "done": false
   },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+  "farmersdelight:recipes/food/barbecue_stick": {
     "criteria": {
-      "has_chicken": "2025-01-26 23:32:52 +0000"
+      "has_onion": "2025-01-26 23:30:40 +0000"
     },
     "done": false
   },
-  "pfm:recipes/furniture/granite_terracotta_kitchen_sink": {
+  "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
-      "has_planks": "2025-01-26 23:32:53 +0000"
+      "has_any_ingredient": "2025-01-26 23:30:40 +0000"
     },
     "done": false
   },
-  "farmersdelight:recipes/decorations/mangrove_cabinet": {
+  "farmersdelight:main/get_fd_seed": {
     "criteria": {
-      "has_mangrove_trapdoor": "2025-01-26 23:44:15 +0000"
+      "cabbage_seeds": "2025-01-26 23:32:52 +0000",
+      "onion": "2025-01-26 23:30:40 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/decorations/white_glazed_terracotta": {
+  "farmersdelight:recipes/cooking/dumplings": {
     "criteria": {
-      "has_white_terracotta": "2025-01-26 23:32:53 +0000"
+      "has_any_ingredient": "2025-01-26 23:30:40 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/food/cooked_porkchop": {
+  "farmersdelight:recipes/building_blocks/onion_crate": {
     "criteria": {
-      "has_porkchop": "2025-01-26 23:31:07 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-01-26 23:32:52 +0000"
+      "has_onion": "2025-01-26 23:30:40 +0000"
     },
     "done": false
   },
@@ -10231,27 +10226,21 @@
     },
     "done": false
   },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
-      "has_porkchop": "2025-01-26 23:31:07 +0000"
+      "has_beef": "2025-01-26 23:31:00 +0000"
     },
     "done": false
   },
-  "farmersdelight:main/place_cooking_pot": {
+  "minecraft:recipes/food/cooked_beef": {
     "criteria": {
-      "cooking_pot": "2025-01-26 23:45:30 +0000"
+      "has_beef": "2025-01-26 23:31:00 +0000"
     },
-    "done": true
+    "done": false
   },
-  "farmersdelight:main/place_skillet": {
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
-      "skillet": "2025-01-26 23:49:26 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/barbecue_stick": {
-    "criteria": {
-      "has_onion": "2025-01-26 23:30:40 +0000"
+      "has_beef": "2025-01-26 23:31:00 +0000"
     },
     "done": false
   },
@@ -10267,70 +10256,27 @@
     },
     "done": false
   },
-  "farmersdelight:recipes/cooking/ratatouille": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-26 23:30:40 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/mangrove_planks": {
-    "criteria": {
-      "has_logs": "2025-01-26 23:45:30 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-01-26 23:31:02 +0000"
     },
     "done": false
   },
-  "pfm:recipes/furniture/granite_terracotta_kitchen_drawer": {
+  "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
-      "has_planks": "2025-01-26 23:32:53 +0000"
+      "has_mutton": "2025-01-26 23:31:02 +0000"
     },
     "done": false
   },
-  "farmersdelight:main/get_fd_seed": {
+  "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
-      "cabbage_seeds": "2025-01-26 23:32:52 +0000",
-      "onion": "2025-01-26 23:30:40 +0000"
+      "has_porkchop": "2025-01-26 23:31:07 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
-      "has_beef": "2025-01-26 23:31:00 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/cooking/dumplings": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-26 23:30:40 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/granite_terracotta_kitchen_wall_counter": {
-    "criteria": {
-      "has_planks": "2025-01-26 23:32:53 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/cooked_beef": {
-    "criteria": {
-      "has_beef": "2025-01-26 23:31:00 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2025-01-26 23:32:52 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/granite_terracotta_kitchen_counter": {
-    "criteria": {
-      "has_planks": "2025-01-26 23:32:53 +0000"
+      "has_porkchop": "2025-01-26 23:31:07 +0000"
     },
     "done": false
   },
@@ -10339,16 +10285,6 @@
       "has_any_ingredient": "2025-01-26 23:31:07 +0000"
     },
     "done": false
-  },
-  "farmersdelight:main/place_feast": {
-    "criteria": {
-      "rice_roll_medley": "2025-01-26 23:52:43 +0000",
-      "shepherds_pie": "2025-01-26 23:55:20 +0000",
-      "honey_glazed_ham": "2025-01-26 23:52:40 +0000",
-      "roast_chicken": "2025-01-26 23:59:38 +0000",
-      "stuffed_pumpkin": "2025-01-26 23:56:33 +0000"
-    },
-    "done": true
   },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
@@ -10362,29 +10298,93 @@
     },
     "done": false
   },
-  "minecraft:recipes/food/cooked_mutton": {
-    "criteria": {
-      "has_mutton": "2025-01-26 23:31:02 +0000"
-    },
-    "done": false
-  },
   "farmersdelight:recipes/misc/canvas_from_canvas_rug": {
     "criteria": {
       "has_canvas_rug": "2025-01-26 23:32:48 +0000"
     },
     "done": false
   },
-  "farmersdelight:recipes/building_blocks/onion_crate": {
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
-      "has_onion": "2025-01-26 23:30:40 +0000"
+      "has_chicken": "2025-01-26 23:32:52 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
-      "has_beef": "2025-01-26 23:31:00 +0000"
+      "has_chicken": "2025-01-26 23:32:52 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-01-26 23:32:52 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/granite_terracotta_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-26 23:32:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2025-01-26 23:32:53 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/granite_terracotta_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-26 23:32:53 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/granite_terracotta_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-01-26 23:32:53 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/granite_terracotta_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-26 23:32:53 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/decorations/mangrove_cabinet": {
+    "criteria": {
+      "has_mangrove_trapdoor": "2025-01-26 23:44:15 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-01-26 23:45:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-01-26 23:45:30 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2025-01-26 23:49:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_feast": {
+    "criteria": {
+      "rice_roll_medley": "2025-01-26 23:52:43 +0000",
+      "shepherds_pie": "2025-01-26 23:55:20 +0000",
+      "honey_glazed_ham": "2025-01-26 23:52:40 +0000",
+      "roast_chicken": "2025-01-26 23:59:38 +0000",
+      "stuffed_pumpkin": "2025-01-26 23:56:33 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
